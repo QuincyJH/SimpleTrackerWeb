@@ -1,0 +1,5777 @@
+[
+  {
+    "name": "starting_item",
+    "display_name": "Starting Item",
+    "region": "Misc"
+  },
+  {
+    "name": "heros_bow_chest",
+    "display_name": "Hero's Bow Chest",
+    "region": "WoodfallTemple"
+  },
+  {
+    "name": "fire_arrow_chest",
+    "display_name": "Fire Arrow Chest",
+    "region": "SnowheadTemple"
+  },
+  {
+    "name": "ice_arrow_chest",
+    "display_name": "Ice Arrow Chest",
+    "region": "GreatBayTemple"
+  },
+  {
+    "name": "light_arrow_chest",
+    "display_name": "Light Arrow Chest",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "bomb_bag_purchase",
+    "display_name": "Bomb Bag Purchase",
+    "region": "WestClockTown"
+  },
+  {
+    "name": "bean_man",
+    "display_name": "Bean Man",
+    "region": "DekuPalace"
+  },
+  {
+    "name": "powder_keg_challenge",
+    "display_name": "Powder Keg Challenge",
+    "region": "GoronVillage"
+  },
+  {
+    "name": "koume",
+    "display_name": "Koume",
+    "region": "SouthernSwamp"
+  },
+  {
+    "name": "lens_of_truth_chest",
+    "display_name": "Lens of Truth Chest",
+    "region": "GoronVillage"
+  },
+  {
+    "name": "hookshot_chest",
+    "display_name": "Hookshot Chest",
+    "region": "PiratesFortressInterior"
+  },
+  {
+    "name": "town_great_fairy_nonhuman",
+    "display_name": "Town Great Fairy Non-Human",
+    "region": "NorthClockTown"
+  },
+  {
+    "name": "woodfall_great_fairy",
+    "display_name": "Woodfall Great Fairy",
+    "region": "Woodfall"
+  },
+  {
+    "name": "snowhead_great_fairy",
+    "display_name": "Snowhead Great Fairy",
+    "region": "Snowhead"
+  },
+  {
+    "name": "ocean_great_fairy",
+    "display_name": "Ocean Great Fairy",
+    "region": "ZoraCape"
+  },
+  {
+    "name": "ikana_great_fairy",
+    "display_name": "Ikana Great Fairy",
+    "region": "IkanaCanyon"
+  },
+  {
+    "name": "kotake",
+    "display_name": "Kotake",
+    "region": "SouthernSwamp"
+  },
+  {
+    "name": "aliens_defense",
+    "display_name": "Aliens Defense",
+    "region": "RomaniRanch"
+  },
+  {
+    "name": "goron_race",
+    "display_name": "Goron Race",
+    "region": "TwinIslands"
+  },
+  {
+    "name": "beaver_race_1",
+    "display_name": "Beaver Race #1",
+    "region": "ZoraCape"
+  },
+  {
+    "name": "dampe_digging",
+    "display_name": "Dampe Digging",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "madame_aroma_in_bar",
+    "display_name": "Madame Aroma in Bar",
+    "region": "EastClockTown"
+  },
+  {
+    "name": "bombers_hide_and_seek",
+    "display_name": "Bombers' Hide and Seek",
+    "region": "NorthClockTown"
+  },
+  {
+    "name": "mountain_smithy_day_1",
+    "display_name": "Mountain Smithy Day 1",
+    "region": "MountainVillage"
+  },
+  {
+    "name": "mountain_smithy_day_2",
+    "display_name": "Mountain Smithy Day 2",
+    "region": "MountainVillage"
+  },
+  {
+    "name": "mirror_shield_chest",
+    "display_name": "Mirror Shield Chest",
+    "region": "BeneathTheWell"
+  },
+  {
+    "name": "town_archery_1",
+    "display_name": "Town Archery #1",
+    "region": "EastClockTown"
+  },
+  {
+    "name": "swamp_archery_1",
+    "display_name": "Swamp Archery #1",
+    "region": "RoadToSouthernSwamp"
+  },
+  {
+    "name": "big_bomb_bag_purchase",
+    "display_name": "Big Bomb Bag Purchase",
+    "region": "WestClockTown"
+  },
+  {
+    "name": "bank_reward_1",
+    "display_name": "Bank Reward #1",
+    "region": "WestClockTown"
+  },
+  {
+    "name": "ocean_spider_house_day_1_reward",
+    "display_name": "Ocean Spider House Day 1 Reward",
+    "region": "GreatBayCoast"
+  },
+  {
+    "name": "removed_by_royal_wallet",
+    "display_name": "Removed by Royal Wallet",
+    "region": "Misc"
+  },
+  {
+    "name": "astronomy_telescope",
+    "display_name": "Astronomy Telescope",
+    "region": "TerminaField"
+  },
+  {
+    "name": "clock_town_scrub_trade",
+    "display_name": "Clock Town Scrub Trade",
+    "region": "SouthClockTown"
+  },
+  {
+    "name": "swamp_scrub_trade",
+    "display_name": "Swamp Scrub Trade",
+    "region": "SouthernSwamp"
+  },
+  {
+    "name": "mountain_scrub_trade",
+    "display_name": "Mountain Scrub Trade",
+    "region": "GoronVillage"
+  },
+  {
+    "name": "ocean_scrub_trade",
+    "display_name": "Ocean Scrub Trade",
+    "region": "ZoraHall"
+  },
+  {
+    "name": "inn_reservation",
+    "display_name": "Inn Reservation",
+    "region": "StockPotInn"
+  },
+  {
+    "name": "midnight_meeting",
+    "display_name": "Midnight Meeting",
+    "region": "StockPotInn"
+  },
+  {
+    "name": "kafei",
+    "display_name": "Kafei",
+    "region": "LaundryPool"
+  },
+  {
+    "name": "curiosity_shop_man_2",
+    "display_name": "Curiosity Shop Man #2",
+    "region": "LaundryPool"
+  },
+  {
+    "name": "mayor",
+    "display_name": "Mayor",
+    "region": "EastClockTown"
+  },
+  {
+    "name": "postmans_game",
+    "display_name": "Postman's Game",
+    "region": "WestClockTown"
+  },
+  {
+    "name": "rosa_sisters",
+    "display_name": "Rosa Sisters",
+    "region": "WestClockTown"
+  },
+  {
+    "name": "toilet_hand",
+    "display_name": "Toilet Hand",
+    "region": "StockPotInn"
+  },
+  {
+    "name": "grandma_short_story",
+    "display_name": "Grandma Short Story",
+    "region": "StockPotInn"
+  },
+  {
+    "name": "grandma_long_story",
+    "display_name": "Grandma Long Story",
+    "region": "StockPotInn"
+  },
+  {
+    "name": "deku_playground_three_days",
+    "display_name": "Deku Playground Three Days",
+    "region": "NorthClockTown"
+  },
+  {
+    "name": "town_archery_2",
+    "display_name": "Town Archery #2",
+    "region": "EastClockTown"
+  },
+  {
+    "name": "honey_and_darling_three_days",
+    "display_name": "Honey and Darling Three Days",
+    "region": "EastClockTown"
+  },
+  {
+    "name": "swordsmans_school",
+    "display_name": "Swordsman's School",
+    "region": "WestClockTown"
+  },
+  {
+    "name": "gossip_stones",
+    "display_name": "Gossip Stones",
+    "region": "TerminaField"
+  },
+  {
+    "name": "business_scrub_purchase",
+    "display_name": "Business Scrub Purchase",
+    "region": "TerminaField"
+  },
+  {
+    "name": "swamp_archery_2",
+    "display_name": "Swamp Archery #2",
+    "region": "RoadToSouthernSwamp"
+  },
+  {
+    "name": "pictograph_contest_winner",
+    "display_name": "Pictograph Contest Winner",
+    "region": "SouthernSwamp"
+  },
+  {
+    "name": "boat_archery",
+    "display_name": "Boat Archery",
+    "region": "SouthernSwamp"
+  },
+  {
+    "name": "frog_choir",
+    "display_name": "Frog Choir",
+    "region": "MountainVillage"
+  },
+  {
+    "name": "beaver_race_2",
+    "display_name": "Beaver Race #2",
+    "region": "ZoraCape"
+  },
+  {
+    "name": "seahorses",
+    "display_name": "Seahorses",
+    "region": "PinnacleRock"
+  },
+  {
+    "name": "fisherman_game",
+    "display_name": "Fisherman Game",
+    "region": "GreatBayCoast"
+  },
+  {
+    "name": "evan",
+    "display_name": "Evan",
+    "region": "ZoraHall"
+  },
+  {
+    "name": "dog_race",
+    "display_name": "Dog Race",
+    "region": "RomaniRanch"
+  },
+  {
+    "name": "poe_hut",
+    "display_name": "Poe Hut",
+    "region": "IkanaCanyon"
+  },
+  {
+    "name": "treasure_chest_game_goron",
+    "display_name": "Treasure Chest Game Goron",
+    "region": "EastClockTown"
+  },
+  {
+    "name": "peahat_grotto",
+    "display_name": "Peahat Grotto",
+    "region": "TerminaField"
+  },
+  {
+    "name": "dodongo_grotto",
+    "display_name": "Dodongo Grotto",
+    "region": "TerminaField"
+  },
+  {
+    "name": "woodfall_bridge_chest",
+    "display_name": "Woodfall Bridge Chest",
+    "region": "Woodfall"
+  },
+  {
+    "name": "twin_islands_underwater_ramp_chest",
+    "display_name": "Twin Islands Underwater Ramp Chest",
+    "region": "TwinIslands"
+  },
+  {
+    "name": "ocean_spider_house_chest",
+    "display_name": "Ocean Spider House Chest",
+    "region": "GreatBayCoast"
+  },
+  {
+    "name": "iron_knuckle_chest",
+    "display_name": "Iron Knuckle Chest",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "postmans_freedom_reward",
+    "display_name": "Postman's Freedom Reward",
+    "region": "EastClockTown"
+  },
+  {
+    "name": "allnight_mask_purchase",
+    "display_name": "All-Night Mask Purchase",
+    "region": "WestClockTown"
+  },
+  {
+    "name": "old_lady",
+    "display_name": "Old Lady",
+    "region": "NorthClockTown"
+  },
+  {
+    "name": "invisible_soldier",
+    "display_name": "Invisible Soldier",
+    "region": "RoadToIkana"
+  },
+  {
+    "name": "town_great_fairy",
+    "display_name": "Town Great Fairy",
+    "region": "NorthClockTown"
+  },
+  {
+    "name": "curiosity_shop_man_1",
+    "display_name": "Curiosity Shop Man #1",
+    "region": "LaundryPool"
+  },
+  {
+    "name": "guru_guru",
+    "display_name": "Guru Guru",
+    "region": "LaundryPool"
+  },
+  {
+    "name": "grog",
+    "display_name": "Grog",
+    "region": "RomaniRanch"
+  },
+  {
+    "name": "hungry_goron",
+    "display_name": "Hungry Goron",
+    "region": "MountainVillage"
+  },
+  {
+    "name": "butler",
+    "display_name": "Butler",
+    "region": "DekuPalace"
+  },
+  {
+    "name": "cremia",
+    "display_name": "Cremia",
+    "region": "RomaniRanch"
+  },
+  {
+    "name": "gorman",
+    "display_name": "Gorman",
+    "region": "EastClockTown"
+  },
+  {
+    "name": "madame_aroma_in_office",
+    "display_name": "Madame Aroma in Office",
+    "region": "EastClockTown"
+  },
+  {
+    "name": "anju_and_kafei",
+    "display_name": "Anju and Kafei",
+    "region": "StockPotInn"
+  },
+  {
+    "name": "swamp_spider_house_reward",
+    "display_name": "Swamp Spider House Reward",
+    "region": "SouthernSwamp"
+  },
+  {
+    "name": "kamaro",
+    "display_name": "Kamaro",
+    "region": "TerminaField"
+  },
+  {
+    "name": "pamelas_father",
+    "display_name": "Pamela's Father",
+    "region": "IkanaCanyon"
+  },
+  {
+    "name": "gorman_bros_race",
+    "display_name": "Gorman Bros Race",
+    "region": "MilkRoad"
+  },
+  {
+    "name": "captain_keetas_chest",
+    "display_name": "Captain Keeta's Chest",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "giants_mask_chest",
+    "display_name": "Giant's Mask Chest",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "darmani",
+    "display_name": "Darmani",
+    "region": "MountainVillage"
+  },
+  {
+    "name": "mikau",
+    "display_name": "Mikau",
+    "region": "GreatBayCoast"
+  },
+  {
+    "name": "skull_kid",
+    "display_name": "Skull Kid",
+    "region": "ClockTowerRoof"
+  },
+  {
+    "name": "skull_kid_song",
+    "display_name": "Skull Kid Song",
+    "region": "ClockTowerRoof"
+  },
+  {
+    "name": "starting_song",
+    "display_name": "Starting Song",
+    "region": "Misc"
+  },
+  {
+    "name": "swamp_music_statue",
+    "display_name": "Swamp Music Statue",
+    "region": "SouthernSwamp"
+  },
+  {
+    "name": "romanis_game",
+    "display_name": "Romani's Game",
+    "region": "RomaniRanch"
+  },
+  {
+    "name": "day_1_grave_tablet",
+    "display_name": "Day 1 Grave Tablet",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "imprisoned_monkey",
+    "display_name": "Imprisoned Monkey",
+    "region": "DekuPalace"
+  },
+  {
+    "name": "baby_goron",
+    "display_name": "Baby Goron",
+    "region": "GoronVillage"
+  },
+  {
+    "name": "baby_zoras",
+    "display_name": "Baby Zoras",
+    "region": "GreatBayCoast"
+  },
+  {
+    "name": "ikana_king",
+    "display_name": "Ikana King",
+    "region": "IkanaCastle"
+  },
+  {
+    "name": "woodfall_map_chest",
+    "display_name": "Woodfall Map Chest",
+    "region": "WoodfallTemple"
+  },
+  {
+    "name": "woodfall_compass_chest",
+    "display_name": "Woodfall Compass Chest",
+    "region": "WoodfallTemple"
+  },
+  {
+    "name": "woodfall_boss_key_chest",
+    "display_name": "Woodfall Boss Key Chest",
+    "region": "WoodfallTemple"
+  },
+  {
+    "name": "woodfall_small_key_chest",
+    "display_name": "Woodfall Small Key Chest",
+    "region": "WoodfallTemple"
+  },
+  {
+    "name": "snowhead_map_chest",
+    "display_name": "Snowhead Map Chest",
+    "region": "SnowheadTemple"
+  },
+  {
+    "name": "snowhead_compass_chest",
+    "display_name": "Snowhead Compass Chest",
+    "region": "SnowheadTemple"
+  },
+  {
+    "name": "snowhead_boss_key_chest",
+    "display_name": "Snowhead Boss Key Chest",
+    "region": "SnowheadTemple"
+  },
+  {
+    "name": "snowhead_block_room_chest",
+    "display_name": "Snowhead Block Room Chest",
+    "region": "SnowheadTemple"
+  },
+  {
+    "name": "snowhead_icicle_room_chest",
+    "display_name": "Snowhead Icicle Room Chest",
+    "region": "SnowheadTemple"
+  },
+  {
+    "name": "snowhead_bridge_room_chest",
+    "display_name": "Snowhead Bridge Room Chest",
+    "region": "SnowheadTemple"
+  },
+  {
+    "name": "great_bay_map_chest",
+    "display_name": "Great Bay Map Chest",
+    "region": "GreatBayTemple"
+  },
+  {
+    "name": "great_bay_compass_chest",
+    "display_name": "Great Bay Compass Chest",
+    "region": "GreatBayTemple"
+  },
+  {
+    "name": "great_bay_boss_key_chest",
+    "display_name": "Great Bay Boss Key Chest",
+    "region": "GreatBayTemple"
+  },
+  {
+    "name": "great_bay_small_key_chest",
+    "display_name": "Great Bay Small Key Chest",
+    "region": "GreatBayTemple"
+  },
+  {
+    "name": "stone_tower_map_chest",
+    "display_name": "Stone Tower Map Chest",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "stone_tower_compass_chest",
+    "display_name": "Stone Tower Compass Chest",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "stone_tower_boss_key_chest",
+    "display_name": "Stone Tower Boss Key Chest",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "stone_tower_armos_room_chest",
+    "display_name": "Stone Tower Armos Room Chest",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "stone_tower_eyegore_room_chest",
+    "display_name": "Stone Tower Eyegore Room Chest",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "stone_tower_updraft_room_chest",
+    "display_name": "Stone Tower Updraft Room Chest",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "stone_tower_death_armos_maze_chest",
+    "display_name": "Stone Tower Death Armos Maze Chest",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "trading_post_red_potion",
+    "display_name": "Trading Post Red Potion",
+    "region": "WestClockTown"
+  },
+  {
+    "name": "trading_post_green_potion",
+    "display_name": "Trading Post Green Potion",
+    "region": "WestClockTown"
+  },
+  {
+    "name": "trading_post_heros_shield",
+    "display_name": "Trading Post Hero's Shield",
+    "region": "WestClockTown"
+  },
+  {
+    "name": "trading_post_fairy",
+    "display_name": "Trading Post Fairy",
+    "region": "WestClockTown"
+  },
+  {
+    "name": "trading_post_deku_stick",
+    "display_name": "Trading Post Deku Stick",
+    "region": "WestClockTown"
+  },
+  {
+    "name": "trading_post_30_arrows",
+    "display_name": "Trading Post 30 Arrows",
+    "region": "WestClockTown"
+  },
+  {
+    "name": "trading_post_10_deku_nuts",
+    "display_name": "Trading Post 10 Deku Nuts",
+    "region": "WestClockTown"
+  },
+  {
+    "name": "trading_post_50_arrows",
+    "display_name": "Trading Post 50 Arrows",
+    "region": "WestClockTown"
+  },
+  {
+    "name": "witch_shop_blue_potion",
+    "display_name": "Witch Shop Blue Potion",
+    "region": "SouthernSwamp"
+  },
+  {
+    "name": "witch_shop_red_potion",
+    "display_name": "Witch Shop Red Potion",
+    "region": "SouthernSwamp"
+  },
+  {
+    "name": "witch_shop_green_potion",
+    "display_name": "Witch Shop Green Potion",
+    "region": "SouthernSwamp"
+  },
+  {
+    "name": "bomb_shop_10_bombs",
+    "display_name": "Bomb Shop 10 Bombs",
+    "region": "WestClockTown"
+  },
+  {
+    "name": "bomb_shop_10_bombchu",
+    "display_name": "Bomb Shop 10 Bombchu",
+    "region": "WestClockTown"
+  },
+  {
+    "name": "zora_shop_heros_shield",
+    "display_name": "Zora Shop Hero's Shield",
+    "region": "ZoraHall"
+  },
+  {
+    "name": "zora_shop_10_arrows",
+    "display_name": "Zora Shop 10 Arrows",
+    "region": "ZoraHall"
+  },
+  {
+    "name": "zora_shop_red_potion",
+    "display_name": "Zora Shop Red Potion",
+    "region": "ZoraHall"
+  },
+  {
+    "name": "bottle_fairy",
+    "display_name": "Bottle: Fairy",
+    "region": "BottleCatch"
+  },
+  {
+    "name": "bottle_deku_princess",
+    "display_name": "Bottle: Deku Princess",
+    "region": "BottleCatch"
+  },
+  {
+    "name": "bottle_fish",
+    "display_name": "Bottle: Fish",
+    "region": "BottleCatch"
+  },
+  {
+    "name": "bottle_bug",
+    "display_name": "Bottle: Bug",
+    "region": "BottleCatch"
+  },
+  {
+    "name": "bottle_poe",
+    "display_name": "Bottle: Poe",
+    "region": "BottleCatch"
+  },
+  {
+    "name": "bottle_big_poe",
+    "display_name": "Bottle: Big Poe",
+    "region": "BottleCatch"
+  },
+  {
+    "name": "bottle_spring_water",
+    "display_name": "Bottle: Spring Water",
+    "region": "BottleCatch"
+  },
+  {
+    "name": "bottle_hot_spring_water",
+    "display_name": "Bottle: Hot Spring Water",
+    "region": "BottleCatch"
+  },
+  {
+    "name": "bottle_zora_egg",
+    "display_name": "Bottle: Zora Egg",
+    "region": "BottleCatch"
+  },
+  {
+    "name": "bottle_mushroom",
+    "display_name": "Bottle: Mushroom",
+    "region": "BottleCatch"
+  },
+  {
+    "name": "lens_cave_invisible_chest",
+    "display_name": "Lens Cave Invisible Chest",
+    "region": "GoronVillage"
+  },
+  {
+    "name": "lens_cave_rock_chest",
+    "display_name": "Lens Cave Rock Chest",
+    "region": "GoronVillage"
+  },
+  {
+    "name": "bean_grotto",
+    "display_name": "Bean Grotto",
+    "region": "DekuPalace"
+  },
+  {
+    "name": "hot_spring_water_grotto",
+    "display_name": "Hot Spring Water Grotto",
+    "region": "TwinIslands"
+  },
+  {
+    "name": "day_1_grave_bats",
+    "display_name": "Day 1 Grave Bats",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "secret_shrine_grotto",
+    "display_name": "Secret Shrine Grotto",
+    "region": "IkanaCanyon"
+  },
+  {
+    "name": "pirates_fortress_interior_lower_chest",
+    "display_name": "Pirates' Fortress Interior Lower Chest",
+    "region": "PiratesFortressInterior"
+  },
+  {
+    "name": "pirates_fortress_interior_upper_chest",
+    "display_name": "Pirates' Fortress Interior Upper Chest",
+    "region": "PiratesFortressInterior"
+  },
+  {
+    "name": "pirates_fortress_interior_tank_chest",
+    "display_name": "Pirates' Fortress Interior Tank Chest",
+    "region": "PiratesFortressInterior"
+  },
+  {
+    "name": "pirates_fortress_interior_guard_room_chest",
+    "display_name": "Pirates' Fortress Interior Guard Room Chest",
+    "region": "PiratesFortressInterior"
+  },
+  {
+    "name": "pirates_fortress_cage_room_shallow_chest",
+    "display_name": "Pirates' Fortress Cage Room Shallow Chest",
+    "region": "PiratesFortressSewer"
+  },
+  {
+    "name": "pirates_fortress_cage_room_deep_chest",
+    "display_name": "Pirates' Fortress Cage Room Deep Chest",
+    "region": "PiratesFortressSewer"
+  },
+  {
+    "name": "pirates_fortress_maze_chest",
+    "display_name": "Pirates' Fortress Maze Chest",
+    "region": "PiratesFortressSewer"
+  },
+  {
+    "name": "pinnacle_rock_lower_chest",
+    "display_name": "Pinnacle Rock Lower Chest",
+    "region": "PinnacleRock"
+  },
+  {
+    "name": "pinnacle_rock_upper_chest",
+    "display_name": "Pinnacle Rock Upper Chest",
+    "region": "PinnacleRock"
+  },
+  {
+    "name": "bombers_hideout_chest",
+    "display_name": "Bombers' Hideout Chest",
+    "region": "EastClockTown"
+  },
+  {
+    "name": "termina_field_pillar_grotto",
+    "display_name": "Termina Field Pillar Grotto",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_grass_grotto",
+    "display_name": "Termina Field Grass Grotto",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_underwater_chest",
+    "display_name": "Termina Field Underwater Chest",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_grass_chest",
+    "display_name": "Termina Field Grass Chest",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_stump_chest",
+    "display_name": "Termina Field Stump Chest",
+    "region": "TerminaField"
+  },
+  {
+    "name": "great_bay_coast_grotto",
+    "display_name": "Great Bay Coast Grotto",
+    "region": "GreatBayCoast"
+  },
+  {
+    "name": "zora_cape_ledge_without_tree_chest",
+    "display_name": "Zora Cape Ledge Without Tree Chest",
+    "region": "ZoraCape"
+  },
+  {
+    "name": "zora_cape_ledge_with_tree_chest",
+    "display_name": "Zora Cape Ledge With Tree Chest",
+    "region": "ZoraCape"
+  },
+  {
+    "name": "zora_cape_grotto",
+    "display_name": "Zora Cape Grotto",
+    "region": "ZoraCape"
+  },
+  {
+    "name": "zora_cape_underwater_chest",
+    "display_name": "Zora Cape Underwater Chest",
+    "region": "ZoraCape"
+  },
+  {
+    "name": "pirates_fortress_exterior_log_chest",
+    "display_name": "Pirates' Fortress Exterior Log Chest",
+    "region": "PiratesFortressExterior"
+  },
+  {
+    "name": "pirates_fortress_exterior_sand_chest",
+    "display_name": "Pirates' Fortress Exterior Sand Chest",
+    "region": "PiratesFortressExterior"
+  },
+  {
+    "name": "pirates_fortress_exterior_corner_chest",
+    "display_name": "Pirates' Fortress Exterior Corner Chest",
+    "region": "PiratesFortressExterior"
+  },
+  {
+    "name": "path_to_swamp_grotto",
+    "display_name": "Path to Swamp Grotto",
+    "region": "RoadToSouthernSwamp"
+  },
+  {
+    "name": "doggy_racetrack_roof_chest",
+    "display_name": "Doggy Racetrack Roof Chest",
+    "region": "RomaniRanch"
+  },
+  {
+    "name": "ikana_graveyard_grotto",
+    "display_name": "Ikana Graveyard Grotto",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "near_swamp_spider_house_grotto",
+    "display_name": "Near Swamp Spider House Grotto",
+    "region": "SouthernSwamp"
+  },
+  {
+    "name": "behind_woodfall_owl_chest",
+    "display_name": "Behind Woodfall Owl Chest",
+    "region": "Woodfall"
+  },
+  {
+    "name": "entrance_to_woodfall_chest",
+    "display_name": "Entrance to Woodfall Chest",
+    "region": "Woodfall"
+  },
+  {
+    "name": "well_right_path_chest",
+    "display_name": "Well Right Path Chest",
+    "region": "BeneathTheWell"
+  },
+  {
+    "name": "well_left_path_chest",
+    "display_name": "Well Left Path Chest",
+    "region": "BeneathTheWell"
+  },
+  {
+    "name": "mountain_waterfall_chest",
+    "display_name": "Mountain Waterfall Chest",
+    "region": "MountainVillage"
+  },
+  {
+    "name": "mountain_spring_grotto",
+    "display_name": "Mountain Spring Grotto",
+    "region": "MountainVillage"
+  },
+  {
+    "name": "path_to_ikana_pillar_chest",
+    "display_name": "Path to Ikana Pillar Chest",
+    "region": "RoadToIkana"
+  },
+  {
+    "name": "path_to_ikana_grotto",
+    "display_name": "Path to Ikana Grotto",
+    "region": "RoadToIkana"
+  },
+  {
+    "name": "inverted_stone_tower_right_chest",
+    "display_name": "Inverted Stone Tower Right Chest",
+    "region": "StoneTower"
+  },
+  {
+    "name": "inverted_stone_tower_middle_chest",
+    "display_name": "Inverted Stone Tower Middle Chest",
+    "region": "StoneTower"
+  },
+  {
+    "name": "inverted_stone_tower_left_chest",
+    "display_name": "Inverted Stone Tower Left Chest",
+    "region": "StoneTower"
+  },
+  {
+    "name": "path_to_snowhead_grotto",
+    "display_name": "Path to Snowhead Grotto",
+    "region": "PathToSnowhead"
+  },
+  {
+    "name": "twin_islands_cave_chest",
+    "display_name": "Twin Islands Cave Chest",
+    "region": "TwinIslands"
+  },
+  {
+    "name": "secret_shrine_final_chest",
+    "display_name": "Secret Shrine Final Chest",
+    "region": "SecretShrine"
+  },
+  {
+    "name": "secret_shrine_dinolfos_chest",
+    "display_name": "Secret Shrine Dinolfos Chest",
+    "region": "SecretShrine"
+  },
+  {
+    "name": "secret_shrine_wizzrobe_chest",
+    "display_name": "Secret Shrine Wizzrobe Chest",
+    "region": "SecretShrine"
+  },
+  {
+    "name": "secret_shrine_wart_chest",
+    "display_name": "Secret Shrine Wart Chest",
+    "region": "SecretShrine"
+  },
+  {
+    "name": "secret_shrine_garo_master_chest",
+    "display_name": "Secret Shrine Garo Master Chest",
+    "region": "SecretShrine"
+  },
+  {
+    "name": "inn_staff_room_chest",
+    "display_name": "Inn Staff Room Chest",
+    "region": "StockPotInn"
+  },
+  {
+    "name": "inn_guest_room_chest",
+    "display_name": "Inn Guest Room Chest",
+    "region": "StockPotInn"
+  },
+  {
+    "name": "mystery_woods_grotto",
+    "display_name": "Mystery Woods Grotto",
+    "region": "SouthernSwamp"
+  },
+  {
+    "name": "east_clock_town_chest",
+    "display_name": "East Clock Town Chest",
+    "region": "EastClockTown"
+  },
+  {
+    "name": "south_clock_town_straw_roof_chest",
+    "display_name": "South Clock Town Straw Roof Chest",
+    "region": "SouthClockTown"
+  },
+  {
+    "name": "south_clock_town_final_day_chest",
+    "display_name": "South Clock Town Final Day Chest",
+    "region": "SouthClockTown"
+  },
+  {
+    "name": "bank_reward_3",
+    "display_name": "Bank Reward #3",
+    "region": "WestClockTown"
+  },
+  {
+    "name": "clock_tower_entrance",
+    "display_name": "Clock Tower Entrance",
+    "region": "SouthClockTown"
+  },
+  {
+    "name": "north_clock_town_tree",
+    "display_name": "North Clock Town Tree",
+    "region": "NorthClockTown"
+  },
+  {
+    "name": "path_to_swamp_tree",
+    "display_name": "Path to Swamp Tree",
+    "region": "RoadToSouthernSwamp"
+  },
+  {
+    "name": "swamp_tourist_center_roof",
+    "display_name": "Swamp Tourist Center Roof",
+    "region": "SouthernSwamp"
+  },
+  {
+    "name": "deku_palace_west_garden",
+    "display_name": "Deku Palace West Garden",
+    "region": "DekuPalace"
+  },
+  {
+    "name": "goron_village_ledge",
+    "display_name": "Goron Village Ledge",
+    "region": "GoronVillage"
+  },
+  {
+    "name": "bio_baba_grotto",
+    "display_name": "Bio Baba Grotto",
+    "region": "TerminaField"
+  },
+  {
+    "name": "lab_fish",
+    "display_name": "Lab Fish",
+    "region": "GreatBayCoast"
+  },
+  {
+    "name": "zora_cape_likelike",
+    "display_name": "Zora Cape Like-Like",
+    "region": "ZoraCape"
+  },
+  {
+    "name": "pirates_fortress_cage",
+    "display_name": "Pirates' Fortress Cage",
+    "region": "PiratesFortressSewer"
+  },
+  {
+    "name": "lulus_room_ledge",
+    "display_name": "Lulu's Room Ledge",
+    "region": "ZoraHall"
+  },
+  {
+    "name": "path_to_snowhead_pillar",
+    "display_name": "Path to Snowhead Pillar",
+    "region": "PathToSnowhead"
+  },
+  {
+    "name": "great_bay_coast_ledge",
+    "display_name": "Great Bay Coast Ledge",
+    "region": "GreatBayCoast"
+  },
+  {
+    "name": "ikana_canyon_ledge",
+    "display_name": "Ikana Canyon Ledge",
+    "region": "IkanaCanyon"
+  },
+  {
+    "name": "ikana_castle_pillar",
+    "display_name": "Ikana Castle Pillar",
+    "region": "IkanaCastle"
+  },
+  {
+    "name": "goron_racetrack_grotto",
+    "display_name": "Goron Racetrack Grotto",
+    "region": "TwinIslands"
+  },
+  {
+    "name": "canyon_scrub_trade",
+    "display_name": "Canyon Scrub Trade",
+    "region": "IkanaCanyon"
+  },
+  {
+    "name": "deku_trial_bonus",
+    "display_name": "Deku Trial Bonus",
+    "region": "TheMoon"
+  },
+  {
+    "name": "goron_trial_bonus",
+    "display_name": "Goron Trial Bonus",
+    "region": "TheMoon"
+  },
+  {
+    "name": "zora_trial_bonus",
+    "display_name": "Zora Trial Bonus",
+    "region": "TheMoon"
+  },
+  {
+    "name": "link_trial_bonus",
+    "display_name": "Link Trial Bonus",
+    "region": "TheMoon"
+  },
+  {
+    "name": "majora_child",
+    "display_name": "Majora Child",
+    "region": "TheMoon"
+  },
+  {
+    "name": "link_trial_garo_master_chest",
+    "display_name": "Link Trial Garo Master Chest",
+    "region": "TheMoon"
+  },
+  {
+    "name": "link_trial_iron_knuckle_chest",
+    "display_name": "Link Trial Iron Knuckle Chest",
+    "region": "TheMoon"
+  },
+  {
+    "name": "preclocktown_chest",
+    "display_name": "Pre-Clocktown Chest",
+    "region": "BeneathClocktown"
+  },
+  {
+    "name": "starting_sword",
+    "display_name": "Starting Sword",
+    "region": "Misc"
+  },
+  {
+    "name": "starting_shield",
+    "display_name": "Starting Shield",
+    "region": "Misc"
+  },
+  {
+    "name": "starting_heart_container_1",
+    "display_name": "Starting Heart Container #1",
+    "region": "Misc"
+  },
+  {
+    "name": "starting_heart_container_2",
+    "display_name": "Starting Heart Container #2",
+    "region": "Misc"
+  },
+  {
+    "name": "ranch_cow_1",
+    "display_name": "Ranch Cow #1",
+    "region": "RomaniRanch"
+  },
+  {
+    "name": "ranch_cow_2",
+    "display_name": "Ranch Cow #2",
+    "region": "RomaniRanch"
+  },
+  {
+    "name": "ranch_cow_3",
+    "display_name": "Ranch Cow #3",
+    "region": "RomaniRanch"
+  },
+  {
+    "name": "cow_beneath_the_well",
+    "display_name": "Cow Beneath the Well",
+    "region": "BeneathTheWell"
+  },
+  {
+    "name": "termina_grotto_cow_1",
+    "display_name": "Termina Grotto Cow #1",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_grotto_cow_2",
+    "display_name": "Termina Grotto Cow #2",
+    "region": "TerminaField"
+  },
+  {
+    "name": "great_bay_coast_grotto_cow_1",
+    "display_name": "Great Bay Coast Grotto Cow #1",
+    "region": "GreatBayCoast"
+  },
+  {
+    "name": "great_bay_coast_grotto_cow_2",
+    "display_name": "Great Bay Coast Grotto Cow #2",
+    "region": "GreatBayCoast"
+  },
+  {
+    "name": "swamp_skulltula_main_room_near_ceiling",
+    "display_name": "Swamp Skulltula Main Room Near Ceiling",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "swamp_skulltula_gold_room_near_ceiling",
+    "display_name": "Swamp Skulltula Gold Room Near Ceiling",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "swamp_skulltula_monument_room_torch",
+    "display_name": "Swamp Skulltula Monument Room Torch",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "swamp_skulltula_gold_room_pillar",
+    "display_name": "Swamp Skulltula Gold Room Pillar",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "swamp_skulltula_pot_room_jar",
+    "display_name": "Swamp Skulltula Pot Room Jar",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "swamp_skulltula_tree_room_grass_1",
+    "display_name": "Swamp Skulltula Tree Room Grass 1",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "swamp_skulltula_tree_room_grass_2",
+    "display_name": "Swamp Skulltula Tree Room Grass 2",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "swamp_skulltula_main_room_water",
+    "display_name": "Swamp Skulltula Main Room Water",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "swamp_skulltula_main_room_lower_left_soft_soil",
+    "display_name": "Swamp Skulltula Main Room Lower Left Soft Soil",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "swamp_skulltula_monument_room_crate_1",
+    "display_name": "Swamp Skulltula Monument Room Crate 1",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "swamp_skulltula_main_room_upper_soft_soil",
+    "display_name": "Swamp Skulltula Main Room Upper Soft Soil",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "swamp_skulltula_main_room_lower_right_soft_soil",
+    "display_name": "Swamp Skulltula Main Room Lower Right Soft Soil",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "swamp_skulltula_monument_room_lower_wall",
+    "display_name": "Swamp Skulltula Monument Room Lower Wall",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "swamp_skulltula_monument_room_on_monument",
+    "display_name": "Swamp Skulltula Monument Room On Monument",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "swamp_skulltula_main_room_pillar",
+    "display_name": "Swamp Skulltula Main Room Pillar",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "swamp_skulltula_pot_room_pot_1",
+    "display_name": "Swamp Skulltula Pot Room Pot 1",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "swamp_skulltula_pot_room_pot_2",
+    "display_name": "Swamp Skulltula Pot Room Pot 2",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "swamp_skulltula_gold_room_hive",
+    "display_name": "Swamp Skulltula Gold Room Hive",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "swamp_skulltula_main_room_upper_pillar",
+    "display_name": "Swamp Skulltula Main Room Upper Pillar",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "swamp_skulltula_pot_room_behind_vines",
+    "display_name": "Swamp Skulltula Pot Room Behind Vines",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "swamp_skulltula_tree_room_tree_1",
+    "display_name": "Swamp Skulltula Tree Room Tree 1",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "swamp_skulltula_pot_room_wall",
+    "display_name": "Swamp Skulltula Pot Room Wall",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "swamp_skulltula_pot_room_hive_1",
+    "display_name": "Swamp Skulltula Pot Room Hive 1",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "swamp_skulltula_tree_room_tree_2",
+    "display_name": "Swamp Skulltula Tree Room Tree 2",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "swamp_skulltula_gold_room_wall",
+    "display_name": "Swamp Skulltula Gold Room Wall",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "swamp_skulltula_tree_room_hive",
+    "display_name": "Swamp Skulltula Tree Room Hive",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "swamp_skulltula_monument_room_crate_2",
+    "display_name": "Swamp Skulltula Monument Room Crate 2",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "swamp_skulltula_pot_room_hive_2",
+    "display_name": "Swamp Skulltula Pot Room Hive 2",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "swamp_skulltula_tree_room_tree_3",
+    "display_name": "Swamp Skulltula Tree Room Tree 3",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "swamp_skulltula_main_room_jar",
+    "display_name": "Swamp Skulltula Main Room Jar",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "ocean_skulltula_storage_room_behind_boat",
+    "display_name": "Ocean Skulltula Storage Room Behind Boat",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "ocean_skulltula_library_hole_behind_picture",
+    "display_name": "Ocean Skulltula Library Hole Behind Picture",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "ocean_skulltula_library_hole_behind_cabinet",
+    "display_name": "Ocean Skulltula Library Hole Behind Cabinet",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "ocean_skulltula_library_on_corner_bookshelf",
+    "display_name": "Ocean Skulltula Library On Corner Bookshelf",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "ocean_skulltula_2nd_room_ceiling_edge",
+    "display_name": "Ocean Skulltula 2nd Room Ceiling Edge",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "ocean_skulltula_2nd_room_ceiling_plank",
+    "display_name": "Ocean Skulltula 2nd Room Ceiling Plank",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "ocean_skulltula_colored_skulls_ceiling_edge",
+    "display_name": "Ocean Skulltula Colored Skulls Ceiling Edge",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "ocean_skulltula_library_ceiling_edge",
+    "display_name": "Ocean Skulltula Library Ceiling Edge",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "ocean_skulltula_storage_room_ceiling_web",
+    "display_name": "Ocean Skulltula Storage Room Ceiling Web",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "ocean_skulltula_storage_room_behind_crate",
+    "display_name": "Ocean Skulltula Storage Room Behind Crate",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "ocean_skulltula_2nd_room_jar",
+    "display_name": "Ocean Skulltula 2nd Room Jar",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "ocean_skulltula_entrance_right_wall",
+    "display_name": "Ocean Skulltula Entrance Right Wall",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "ocean_skulltula_entrance_left_wall",
+    "display_name": "Ocean Skulltula Entrance Left Wall",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "ocean_skulltula_2nd_room_webbed_hole",
+    "display_name": "Ocean Skulltula 2nd Room Webbed Hole",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "ocean_skulltula_entrance_web",
+    "display_name": "Ocean Skulltula Entrance Web",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "ocean_skulltula_colored_skulls_chandelier_1",
+    "display_name": "Ocean Skulltula Colored Skulls Chandelier 1",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "ocean_skulltula_colored_skulls_chandelier_2",
+    "display_name": "Ocean Skulltula Colored Skulls Chandelier 2",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "ocean_skulltula_colored_skulls_chandelier_3",
+    "display_name": "Ocean Skulltula Colored Skulls Chandelier 3",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "ocean_skulltula_colored_skulls_behind_picture",
+    "display_name": "Ocean Skulltula Colored Skulls Behind Picture",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "ocean_skulltula_library_behind_picture",
+    "display_name": "Ocean Skulltula Library Behind Picture",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "ocean_skulltula_library_behind_bookcase_1",
+    "display_name": "Ocean Skulltula Library Behind Bookcase 1",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "ocean_skulltula_storage_room_crate",
+    "display_name": "Ocean Skulltula Storage Room Crate",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "ocean_skulltula_2nd_room_webbed_pot",
+    "display_name": "Ocean Skulltula 2nd Room Webbed Pot",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "ocean_skulltula_2nd_room_upper_pot",
+    "display_name": "Ocean Skulltula 2nd Room Upper Pot",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "ocean_skulltula_colored_skulls_pot",
+    "display_name": "Ocean Skulltula Colored Skulls Pot",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "ocean_skulltula_storage_room_jar",
+    "display_name": "Ocean Skulltula Storage Room Jar",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "ocean_skulltula_2nd_room_lower_pot",
+    "display_name": "Ocean Skulltula 2nd Room Lower Pot",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "ocean_skulltula_library_behind_bookcase_2",
+    "display_name": "Ocean Skulltula Library Behind Bookcase 2",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "ocean_skulltula_2nd_room_behind_skull_1",
+    "display_name": "Ocean Skulltula 2nd Room Behind Skull 1",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "ocean_skulltula_2nd_room_behind_skull_2",
+    "display_name": "Ocean Skulltula 2nd Room Behind Skull 2",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "woodfall_preboss_lower_right_bubble",
+    "display_name": "Woodfall Pre-Boss Lower Right Bubble",
+    "region": "WoodfallTemple"
+  },
+  {
+    "name": "woodfall_entrance_fairy",
+    "display_name": "Woodfall Entrance Fairy",
+    "region": "WoodfallTemple"
+  },
+  {
+    "name": "woodfall_preboss_upper_left_bubble",
+    "display_name": "Woodfall Pre-Boss Upper Left Bubble",
+    "region": "WoodfallTemple"
+  },
+  {
+    "name": "woodfall_preboss_pillar_bubble",
+    "display_name": "Woodfall Pre-Boss Pillar Bubble",
+    "region": "WoodfallTemple"
+  },
+  {
+    "name": "woodfall_deku_baba",
+    "display_name": "Woodfall Deku Baba",
+    "region": "WoodfallTemple"
+  },
+  {
+    "name": "woodfall_poison_water_bubble",
+    "display_name": "Woodfall Poison Water Bubble",
+    "region": "WoodfallTemple"
+  },
+  {
+    "name": "woodfall_main_room_bubble",
+    "display_name": "Woodfall Main Room Bubble",
+    "region": "WoodfallTemple"
+  },
+  {
+    "name": "woodfall_skulltula",
+    "display_name": "Woodfall Skulltula",
+    "region": "WoodfallTemple"
+  },
+  {
+    "name": "woodfall_preboss_upper_right_bubble",
+    "display_name": "Woodfall Pre-Boss Upper Right Bubble",
+    "region": "WoodfallTemple"
+  },
+  {
+    "name": "woodfall_main_room_switch",
+    "display_name": "Woodfall Main Room Switch",
+    "region": "WoodfallTemple"
+  },
+  {
+    "name": "woodfall_entrance_platform",
+    "display_name": "Woodfall Entrance Platform",
+    "region": "WoodfallTemple"
+  },
+  {
+    "name": "woodfall_dark_room",
+    "display_name": "Woodfall Dark Room",
+    "region": "WoodfallTemple"
+  },
+  {
+    "name": "woodfall_jar_fairy",
+    "display_name": "Woodfall Jar Fairy",
+    "region": "WoodfallTemple"
+  },
+  {
+    "name": "woodfall_bridge_room_hive",
+    "display_name": "Woodfall Bridge Room Hive",
+    "region": "WoodfallTemple"
+  },
+  {
+    "name": "woodfall_platform_room_hive",
+    "display_name": "Woodfall Platform Room Hive",
+    "region": "WoodfallTemple"
+  },
+  {
+    "name": "snowhead_snow_room_bubble",
+    "display_name": "Snowhead Snow Room Bubble",
+    "region": "SnowheadTemple"
+  },
+  {
+    "name": "snowhead_ceiling_bubble",
+    "display_name": "Snowhead Ceiling Bubble",
+    "region": "SnowheadTemple"
+  },
+  {
+    "name": "snowhead_dinolfos_1",
+    "display_name": "Snowhead Dinolfos 1",
+    "region": "SnowheadTemple"
+  },
+  {
+    "name": "snowhead_bridge_room_ledge_bubble",
+    "display_name": "Snowhead Bridge Room Ledge Bubble",
+    "region": "SnowheadTemple"
+  },
+  {
+    "name": "snowhead_bridge_room_pillar_bubble",
+    "display_name": "Snowhead Bridge Room Pillar Bubble",
+    "region": "SnowheadTemple"
+  },
+  {
+    "name": "snowhead_dinolfos_2",
+    "display_name": "Snowhead Dinolfos 2",
+    "region": "SnowheadTemple"
+  },
+  {
+    "name": "snowhead_map_room_fairy",
+    "display_name": "Snowhead Map Room Fairy",
+    "region": "SnowheadTemple"
+  },
+  {
+    "name": "snowhead_map_room_ledge",
+    "display_name": "Snowhead Map Room Ledge",
+    "region": "SnowheadTemple"
+  },
+  {
+    "name": "snowhead_basement",
+    "display_name": "Snowhead Basement",
+    "region": "SnowheadTemple"
+  },
+  {
+    "name": "snowhead_twin_block",
+    "display_name": "Snowhead Twin Block",
+    "region": "SnowheadTemple"
+  },
+  {
+    "name": "snowhead_icicle_room_wall",
+    "display_name": "Snowhead Icicle Room Wall",
+    "region": "SnowheadTemple"
+  },
+  {
+    "name": "snowhead_main_room_wall",
+    "display_name": "Snowhead Main Room Wall",
+    "region": "SnowheadTemple"
+  },
+  {
+    "name": "snowhead_pillar_freezards",
+    "display_name": "Snowhead Pillar Freezards",
+    "region": "SnowheadTemple"
+  },
+  {
+    "name": "snowhead_ice_puzzle",
+    "display_name": "Snowhead Ice Puzzle",
+    "region": "SnowheadTemple"
+  },
+  {
+    "name": "snowhead_crate",
+    "display_name": "Snowhead Crate",
+    "region": "SnowheadTemple"
+  },
+  {
+    "name": "great_bay_skulltula",
+    "display_name": "Great Bay Skulltula",
+    "region": "GreatBayTemple"
+  },
+  {
+    "name": "great_bay_preboss_room_underwater_bubble",
+    "display_name": "Great Bay Pre-Boss Room Underwater Bubble",
+    "region": "GreatBayTemple"
+  },
+  {
+    "name": "great_bay_water_control_room_underwater_bubble",
+    "display_name": "Great Bay Water Control Room Underwater Bubble",
+    "region": "GreatBayTemple"
+  },
+  {
+    "name": "great_bay_preboss_room_bubble",
+    "display_name": "Great Bay Pre-Boss Room Bubble",
+    "region": "GreatBayTemple"
+  },
+  {
+    "name": "great_bay_waterwheel_room_upper",
+    "display_name": "Great Bay Waterwheel Room Upper",
+    "region": "GreatBayTemple"
+  },
+  {
+    "name": "great_bay_green_valve",
+    "display_name": "Great Bay Green Valve",
+    "region": "GreatBayTemple"
+  },
+  {
+    "name": "great_bay_seesaw_room",
+    "display_name": "Great Bay Seesaw Room",
+    "region": "GreatBayTemple"
+  },
+  {
+    "name": "great_bay_waterwheel_room_lower",
+    "display_name": "Great Bay Waterwheel Room Lower",
+    "region": "GreatBayTemple"
+  },
+  {
+    "name": "great_bay_entrance_torches",
+    "display_name": "Great Bay Entrance Torches",
+    "region": "GreatBayTemple"
+  },
+  {
+    "name": "great_bay_bio_babas",
+    "display_name": "Great Bay Bio Babas",
+    "region": "GreatBayTemple"
+  },
+  {
+    "name": "great_bay_underwater_barrel",
+    "display_name": "Great Bay Underwater Barrel",
+    "region": "GreatBayTemple"
+  },
+  {
+    "name": "great_bay_whirlpool_jar",
+    "display_name": "Great Bay Whirlpool Jar",
+    "region": "GreatBayTemple"
+  },
+  {
+    "name": "great_bay_whirlpool_barrel",
+    "display_name": "Great Bay Whirlpool Barrel",
+    "region": "GreatBayTemple"
+  },
+  {
+    "name": "great_bay_dexihands_jar",
+    "display_name": "Great Bay Dexihands Jar",
+    "region": "GreatBayTemple"
+  },
+  {
+    "name": "great_bay_ledge_jar",
+    "display_name": "Great Bay Ledge Jar",
+    "region": "GreatBayTemple"
+  },
+  {
+    "name": "stone_tower_mirror_sun_block",
+    "display_name": "Stone Tower Mirror Sun Block",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "stone_tower_eyegore",
+    "display_name": "Stone Tower Eyegore",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "stone_tower_lava_room_fire_ring",
+    "display_name": "Stone Tower Lava Room Fire Ring",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "stone_tower_updraft_fire_ring",
+    "display_name": "Stone Tower Updraft Fire Ring",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "stone_tower_mirror_sun_switch",
+    "display_name": "Stone Tower Mirror Sun Switch",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "stone_tower_entrance_sun_switch",
+    "display_name": "Stone Tower Entrance Sun Switch",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "stone_tower_wizzrobe",
+    "display_name": "Stone Tower Wizzrobe",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "stone_tower_death_armos",
+    "display_name": "Stone Tower Death Armos",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "stone_tower_updraft_frozen_eye",
+    "display_name": "Stone Tower Updraft Frozen Eye",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "stone_tower_thin_bridge",
+    "display_name": "Stone Tower Thin Bridge",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "stone_tower_basement_ledge",
+    "display_name": "Stone Tower Basement Ledge",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "stone_tower_statue_eye",
+    "display_name": "Stone Tower Statue Eye",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "stone_tower_underwater",
+    "display_name": "Stone Tower Underwater",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "stone_tower_bridge_crystal",
+    "display_name": "Stone Tower Bridge Crystal",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "stone_tower_lava_room_ledge",
+    "display_name": "Stone Tower Lava Room Ledge",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "lottery",
+    "display_name": "Lottery",
+    "region": "WestClockTown"
+  },
+  {
+    "name": "bank_reward_2",
+    "display_name": "Bank Reward #2",
+    "region": "WestClockTown"
+  },
+  {
+    "name": "milk_bar_chateau",
+    "display_name": "Milk Bar Chateau",
+    "region": "EastClockTown"
+  },
+  {
+    "name": "milk_bar_milk",
+    "display_name": "Milk Bar Milk",
+    "region": "EastClockTown"
+  },
+  {
+    "name": "deku_playground_any_day",
+    "display_name": "Deku Playground Any Day",
+    "region": "NorthClockTown"
+  },
+  {
+    "name": "honey_and_darling_any_day",
+    "display_name": "Honey and Darling Any Day",
+    "region": "EastClockTown"
+  },
+  {
+    "name": "kotake_mushroom_sale",
+    "display_name": "Kotake Mushroom Sale",
+    "region": "SouthernSwamp"
+  },
+  {
+    "name": "pictograph_contest_standard_photo",
+    "display_name": "Pictograph Contest Standard Photo",
+    "region": "SouthernSwamp"
+  },
+  {
+    "name": "pictograph_contest_good_photo",
+    "display_name": "Pictograph Contest Good Photo",
+    "region": "SouthernSwamp"
+  },
+  {
+    "name": "zora_hall_stage_lights",
+    "display_name": "Zora Hall Stage Lights",
+    "region": "ZoraHall"
+  },
+  {
+    "name": "gorman_bros_milk_purchase",
+    "display_name": "Gorman Bros Milk Purchase",
+    "region": "MilkRoad"
+  },
+  {
+    "name": "ocean_spider_house_day_2_reward",
+    "display_name": "Ocean Spider House Day 2 Reward",
+    "region": "GreatBayCoast"
+  },
+  {
+    "name": "ocean_spider_house_day_3_reward",
+    "display_name": "Ocean Spider House Day 3 Reward",
+    "region": "GreatBayCoast"
+  },
+  {
+    "name": "bad_pictograph_of_lulu",
+    "display_name": "Bad Pictograph of Lulu",
+    "region": "ZoraHall"
+  },
+  {
+    "name": "good_pictograph_of_lulu",
+    "display_name": "Good Pictograph of Lulu",
+    "region": "ZoraHall"
+  },
+  {
+    "name": "treasure_chest_game_human",
+    "display_name": "Treasure Chest Game Human",
+    "region": "EastClockTown"
+  },
+  {
+    "name": "treasure_chest_game_zora",
+    "display_name": "Treasure Chest Game Zora",
+    "region": "EastClockTown"
+  },
+  {
+    "name": "treasure_chest_game_deku",
+    "display_name": "Treasure Chest Game Deku",
+    "region": "EastClockTown"
+  },
+  {
+    "name": "curiosity_shop_blue_rupee",
+    "display_name": "Curiosity Shop Blue Rupee",
+    "region": "WestClockTown"
+  },
+  {
+    "name": "curiosity_shop_red_rupee",
+    "display_name": "Curiosity Shop Red Rupee",
+    "region": "WestClockTown"
+  },
+  {
+    "name": "curiosity_shop_purple_rupee",
+    "display_name": "Curiosity Shop Purple Rupee",
+    "region": "WestClockTown"
+  },
+  {
+    "name": "curiosity_shop_gold_rupee",
+    "display_name": "Curiosity Shop Gold Rupee",
+    "region": "WestClockTown"
+  },
+  {
+    "name": "fisherman_pictograph",
+    "display_name": "Fisherman Pictograph",
+    "region": "GreatBayCoast"
+  },
+  {
+    "name": "ikana_castle_courtyard_grass",
+    "display_name": "Ikana Castle Courtyard Grass",
+    "region": "IkanaCastle"
+  },
+  {
+    "name": "ikana_castle_courtyard_grass_2",
+    "display_name": "Ikana Castle Courtyard Grass 2",
+    "region": "IkanaCastle"
+  },
+  {
+    "name": "night_1_grave_pot",
+    "display_name": "Night 1 Grave Pot",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "night_2_grave_pot",
+    "display_name": "Night 2 Grave Pot",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "night_1_grave_pot_2",
+    "display_name": "Night 1 Grave Pot 2",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "cucco_shack_crate",
+    "display_name": "Cucco Shack Crate",
+    "region": "RomaniRanch"
+  },
+  {
+    "name": "dampes_basement_pot",
+    "display_name": "Dampe's Basement Pot",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "dampes_basement_pot_2",
+    "display_name": "Dampe's Basement Pot 2",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "dampes_basement_pot_3",
+    "display_name": "Dampe's Basement Pot 3",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "dampes_basement_pot_4",
+    "display_name": "Dampe's Basement Pot 4",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "goron_village_small_snowball",
+    "display_name": "Goron Village Small Snowball",
+    "region": "GoronVillage"
+  },
+  {
+    "name": "goron_village_small_snowball_2",
+    "display_name": "Goron Village Small Snowball 2",
+    "region": "GoronVillage"
+  },
+  {
+    "name": "great_bay_coast_pot",
+    "display_name": "Great Bay Coast Pot",
+    "region": "GreatBayCoast"
+  },
+  {
+    "name": "great_bay_coast_pot_2",
+    "display_name": "Great Bay Coast Pot 2",
+    "region": "GreatBayCoast"
+  },
+  {
+    "name": "great_bay_coast_pot_3",
+    "display_name": "Great Bay Coast Pot 3",
+    "region": "GreatBayCoast"
+  },
+  {
+    "name": "great_bay_coast_pot_4",
+    "display_name": "Great Bay Coast Pot 4",
+    "region": "GreatBayCoast"
+  },
+  {
+    "name": "great_bay_temple_red_valve_barrel",
+    "display_name": "Great Bay Temple Red Valve Barrel",
+    "region": "GreatBayTemple"
+  },
+  {
+    "name": "ikana_king_pot",
+    "display_name": "Ikana King Pot",
+    "region": "IkanaCastle"
+  },
+  {
+    "name": "ikana_king_pot_2",
+    "display_name": "Ikana King Pot 2",
+    "region": "IkanaCastle"
+  },
+  {
+    "name": "ikana_king_entry_pot",
+    "display_name": "Ikana King Entry Pot",
+    "region": "IkanaCastle"
+  },
+  {
+    "name": "ikana_king_entry_pot_2",
+    "display_name": "Ikana King Entry Pot 2",
+    "region": "IkanaCastle"
+  },
+  {
+    "name": "ikana_graveyard_grass",
+    "display_name": "Ikana Graveyard Grass",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "oceanside_spider_house_entrance_pot",
+    "display_name": "Oceanside Spider House Entrance Pot",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "oceanside_spider_house_entrance_pot_2",
+    "display_name": "Oceanside Spider House Entrance Pot 2",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "pirates_fortress_sewer_gate_pot",
+    "display_name": "Pirates' Fortress Sewer Gate Pot",
+    "region": "PiratesFortressSewer"
+  },
+  {
+    "name": "pirates_fortress_guarded_egg_pot",
+    "display_name": "Pirates' Fortress Guarded Egg Pot",
+    "region": "PiratesFortressInterior"
+  },
+  {
+    "name": "pirates_fortress_barrel_maze_egg_pot",
+    "display_name": "Pirates' Fortress Barrel Maze Egg Pot",
+    "region": "PiratesFortressInterior"
+  },
+  {
+    "name": "pirates_fortress_sewer_exit_pot",
+    "display_name": "Pirates' Fortress Sewer Exit Pot",
+    "region": "PiratesFortressSewer"
+  },
+  {
+    "name": "secret_shrine_underwater_pot",
+    "display_name": "Secret Shrine Underwater Pot",
+    "region": "SecretShrine"
+  },
+  {
+    "name": "secret_shrine_underwater_pot_2",
+    "display_name": "Secret Shrine Underwater Pot 2",
+    "region": "SecretShrine"
+  },
+  {
+    "name": "snowhead_temple_icicle_room_snowball",
+    "display_name": "Snowhead Temple Icicle Room Snowball",
+    "region": "SnowheadTemple"
+  },
+  {
+    "name": "snowhead_temple_icicle_room_snowball_2",
+    "display_name": "Snowhead Temple Icicle Room Snowball 2",
+    "region": "SnowheadTemple"
+  },
+  {
+    "name": "stone_tower_upper_scarecrow_pot",
+    "display_name": "Stone Tower Upper Scarecrow Pot",
+    "region": "StoneTower"
+  },
+  {
+    "name": "stone_tower_upper_scarecrow_pot_2",
+    "display_name": "Stone Tower Upper Scarecrow Pot 2",
+    "region": "StoneTower"
+  },
+  {
+    "name": "great_bay_coast_pot_5",
+    "display_name": "Great Bay Coast Pot 5",
+    "region": "GreatBayCoast"
+  },
+  {
+    "name": "great_bay_temple_seesaw_room_pot",
+    "display_name": "Great Bay Temple Seesaw Room Pot",
+    "region": "GreatBayTemple"
+  },
+  {
+    "name": "great_bay_temple_green_pump_barrel",
+    "display_name": "Great Bay Temple Green Pump Barrel",
+    "region": "GreatBayTemple"
+  },
+  {
+    "name": "ikana_canyon_grass",
+    "display_name": "Ikana Canyon Grass",
+    "region": "IkanaCanyon"
+  },
+  {
+    "name": "milk_road_grass",
+    "display_name": "Milk Road Grass",
+    "region": "MilkRoad"
+  },
+  {
+    "name": "mountain_village_spring_snowball",
+    "display_name": "Mountain Village Spring Snowball",
+    "region": "MountainVillage"
+  },
+  {
+    "name": "mountain_village_winter_small_snowball",
+    "display_name": "Mountain Village Winter Small Snowball",
+    "region": "MountainVillage"
+  },
+  {
+    "name": "pirates_fortress_lone_guard_egg_pot",
+    "display_name": "Pirates' Fortress Lone Guard Egg Pot",
+    "region": "PiratesFortressInterior"
+  },
+  {
+    "name": "pirates_fortress_cage_pot",
+    "display_name": "Pirates' Fortress Cage Pot",
+    "region": "PiratesFortressSewer"
+  },
+  {
+    "name": "ranch_crate",
+    "display_name": "Ranch Crate",
+    "region": "RomaniRanch"
+  },
+  {
+    "name": "snowhead_small_snowball",
+    "display_name": "Snowhead Small Snowball",
+    "region": "Snowhead"
+  },
+  {
+    "name": "stone_tower_owl_pot",
+    "display_name": "Stone Tower Owl Pot",
+    "region": "StoneTower"
+  },
+  {
+    "name": "zora_cape_owl_pot",
+    "display_name": "Zora Cape Owl Pot",
+    "region": "ZoraCape"
+  },
+  {
+    "name": "observatory_scarecrow_pot",
+    "display_name": "Observatory Scarecrow Pot",
+    "region": "EastClockTown"
+  },
+  {
+    "name": "observatory_scarecrow_pot_2",
+    "display_name": "Observatory Scarecrow Pot 2",
+    "region": "EastClockTown"
+  },
+  {
+    "name": "deku_palace_item",
+    "display_name": "Deku Palace Item",
+    "region": "DekuPalace"
+  },
+  {
+    "name": "deku_palace_item_2",
+    "display_name": "Deku Palace Item 2",
+    "region": "DekuPalace"
+  },
+  {
+    "name": "deku_palace_item_3",
+    "display_name": "Deku Palace Item 3",
+    "region": "DekuPalace"
+  },
+  {
+    "name": "deku_palace_item_4",
+    "display_name": "Deku Palace Item 4",
+    "region": "DekuPalace"
+  },
+  {
+    "name": "deku_palace_item_5",
+    "display_name": "Deku Palace Item 5",
+    "region": "DekuPalace"
+  },
+  {
+    "name": "doggy_racetrack_pot",
+    "display_name": "Doggy Racetrack Pot",
+    "region": "RomaniRanch"
+  },
+  {
+    "name": "doggy_racetrack_pot_2",
+    "display_name": "Doggy Racetrack Pot 2",
+    "region": "RomaniRanch"
+  },
+  {
+    "name": "doggy_racetrack_pot_3",
+    "display_name": "Doggy Racetrack Pot 3",
+    "region": "RomaniRanch"
+  },
+  {
+    "name": "doggy_racetrack_pot_4",
+    "display_name": "Doggy Racetrack Pot 4",
+    "region": "RomaniRanch"
+  },
+  {
+    "name": "goron_village_large_snowball",
+    "display_name": "Goron Village Large Snowball",
+    "region": "GoronVillage"
+  },
+  {
+    "name": "goron_village_large_snowball_2",
+    "display_name": "Goron Village Large Snowball 2",
+    "region": "GoronVillage"
+  },
+  {
+    "name": "goron_village_large_snowball_3",
+    "display_name": "Goron Village Large Snowball 3",
+    "region": "GoronVillage"
+  },
+  {
+    "name": "great_bay_coast_ledge_pot",
+    "display_name": "Great Bay Coast Ledge Pot",
+    "region": "GreatBayCoast"
+  },
+  {
+    "name": "great_bay_coast_ledge_pot_2",
+    "display_name": "Great Bay Coast Ledge Pot 2",
+    "region": "GreatBayCoast"
+  },
+  {
+    "name": "great_bay_coast_ledge_pot_3",
+    "display_name": "Great Bay Coast Ledge Pot 3",
+    "region": "GreatBayCoast"
+  },
+  {
+    "name": "great_bay_temple_water_control_room_item",
+    "display_name": "Great Bay Temple Water Control Room Item",
+    "region": "GreatBayTemple"
+  },
+  {
+    "name": "great_bay_temple_water_control_room_item_2",
+    "display_name": "Great Bay Temple Water Control Room Item 2",
+    "region": "GreatBayTemple"
+  },
+  {
+    "name": "bio_baba_grotto_hive",
+    "display_name": "Bio Baba Grotto Hive",
+    "region": "TerminaField"
+  },
+  {
+    "name": "laundry_pool_crate",
+    "display_name": "Laundry Pool Crate",
+    "region": "LaundryPool"
+  },
+  {
+    "name": "mountain_village_day_3_snowball",
+    "display_name": "Mountain Village Day 3 Snowball",
+    "region": "MountainVillage"
+  },
+  {
+    "name": "mountain_village_day_2_snowball",
+    "display_name": "Mountain Village Day 2 Snowball",
+    "region": "MountainVillage"
+  },
+  {
+    "name": "twin_islands_item",
+    "display_name": "Twin Islands Item",
+    "region": "TwinIslands"
+  },
+  {
+    "name": "twin_islands_item_2",
+    "display_name": "Twin Islands Item 2",
+    "region": "TwinIslands"
+  },
+  {
+    "name": "twin_islands_item_3",
+    "display_name": "Twin Islands Item 3",
+    "region": "TwinIslands"
+  },
+  {
+    "name": "twin_islands_item_4",
+    "display_name": "Twin Islands Item 4",
+    "region": "TwinIslands"
+  },
+  {
+    "name": "pirates_fortress_barrel_maze_egg_pot_2",
+    "display_name": "Pirates' Fortress Barrel Maze Egg Pot 2",
+    "region": "PiratesFortressInterior"
+  },
+  {
+    "name": "pirates_fortress_sewer_exit_barrel",
+    "display_name": "Pirates' Fortress Sewer Exit Barrel",
+    "region": "PiratesFortressSewer"
+  },
+  {
+    "name": "pirates_fortress_sewer_exit_barrel_2",
+    "display_name": "Pirates' Fortress Sewer Exit Barrel 2",
+    "region": "PiratesFortressSewer"
+  },
+  {
+    "name": "pirates_fortress_sewer_exit_barrel_3",
+    "display_name": "Pirates' Fortress Sewer Exit Barrel 3",
+    "region": "PiratesFortressSewer"
+  },
+  {
+    "name": "pirates_fortress_cage_room_barrel",
+    "display_name": "Pirates' Fortress Cage Room Barrel",
+    "region": "PiratesFortressSewer"
+  },
+  {
+    "name": "ranch_barn_hay_item",
+    "display_name": "Ranch Barn Hay Item",
+    "region": "RomaniRanch"
+  },
+  {
+    "name": "ranch_barn_hay_item_2",
+    "display_name": "Ranch Barn Hay Item 2",
+    "region": "RomaniRanch"
+  },
+  {
+    "name": "snowhead_temple_icicle_room_snowball_3",
+    "display_name": "Snowhead Temple Icicle Room Snowball 3",
+    "region": "SnowheadTemple"
+  },
+  {
+    "name": "snowhead_temple_icicle_room_snowball_4",
+    "display_name": "Snowhead Temple Icicle Room Snowball 4",
+    "region": "SnowheadTemple"
+  },
+  {
+    "name": "snowhead_temple_icicle_room_snowball_5",
+    "display_name": "Snowhead Temple Icicle Room Snowball 5",
+    "region": "SnowheadTemple"
+  },
+  {
+    "name": "snowhead_temple_elevator_room_crate",
+    "display_name": "Snowhead Temple Elevator Room Crate",
+    "region": "SnowheadTemple"
+  },
+  {
+    "name": "snowhead_temple_elevator_room_crate_2",
+    "display_name": "Snowhead Temple Elevator Room Crate 2",
+    "region": "SnowheadTemple"
+  },
+  {
+    "name": "snowhead_temple_elevator_room_crate_3",
+    "display_name": "Snowhead Temple Elevator Room Crate 3",
+    "region": "SnowheadTemple"
+  },
+  {
+    "name": "snowhead_temple_elevator_room_crate_4",
+    "display_name": "Snowhead Temple Elevator Room Crate 4",
+    "region": "SnowheadTemple"
+  },
+  {
+    "name": "snowhead_temple_elevator_room_crate_5",
+    "display_name": "Snowhead Temple Elevator Room Crate 5",
+    "region": "SnowheadTemple"
+  },
+  {
+    "name": "snowhead_temple_safety_bridge_pot",
+    "display_name": "Snowhead Temple Safety Bridge Pot",
+    "region": "SnowheadTemple"
+  },
+  {
+    "name": "snowhead_temple_safety_bridge_pot_2",
+    "display_name": "Snowhead Temple Safety Bridge Pot 2",
+    "region": "SnowheadTemple"
+  },
+  {
+    "name": "cleared_swamp_potion_shop_pot",
+    "display_name": "Cleared Swamp Potion Shop Pot",
+    "region": "SouthernSwamp"
+  },
+  {
+    "name": "swamp_near_frog_item",
+    "display_name": "Swamp Near Frog Item",
+    "region": "SouthernSwamp"
+  },
+  {
+    "name": "swamp_near_frog_item_2",
+    "display_name": "Swamp Near Frog Item 2",
+    "region": "SouthernSwamp"
+  },
+  {
+    "name": "potion_shop_pot",
+    "display_name": "Potion Shop Pot",
+    "region": "SouthernSwamp"
+  },
+  {
+    "name": "stone_tower_temple_lava_room_item",
+    "display_name": "Stone Tower Temple Lava Room Item",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "stone_tower_temple_lava_room_item_2",
+    "display_name": "Stone Tower Temple Lava Room Item 2",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "stone_tower_temple_thin_bridge_item",
+    "display_name": "Stone Tower Temple Thin Bridge Item",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "stone_tower_temple_thin_bridge_item_2",
+    "display_name": "Stone Tower Temple Thin Bridge Item 2",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "stone_tower_temple_thin_bridge_item_3",
+    "display_name": "Stone Tower Temple Thin Bridge Item 3",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "stone_tower_temple_thin_bridge_item_4",
+    "display_name": "Stone Tower Temple Thin Bridge Item 4",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "stone_tower_temple_thin_bridge_item_5",
+    "display_name": "Stone Tower Temple Thin Bridge Item 5",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "stone_tower_temple_thin_bridge_item_6",
+    "display_name": "Stone Tower Temple Thin Bridge Item 6",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "stone_tower_temple_thin_bridge_item_7",
+    "display_name": "Stone Tower Temple Thin Bridge Item 7",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "stone_tower_temple_thin_bridge_item_8",
+    "display_name": "Stone Tower Temple Thin Bridge Item 8",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "inverted_stone_tower_temple_dexihand_item",
+    "display_name": "Inverted Stone Tower Temple Dexihand Item",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "inverted_stone_tower_temple_preboss_closest_item",
+    "display_name": "Inverted Stone Tower Temple Pre-Boss Closest Item",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "inverted_stone_tower_temple_preboss_2nd_closest_item",
+    "display_name": "Inverted Stone Tower Temple Pre-Boss 2nd Closest Item",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "inverted_stone_tower_temple_preboss_item",
+    "display_name": "Inverted Stone Tower Temple Pre-Boss Item",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "inverted_stone_tower_temple_preboss_item_2",
+    "display_name": "Inverted Stone Tower Temple Pre-Boss Item 2",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "inverted_stone_tower_temple_preboss_item_3",
+    "display_name": "Inverted Stone Tower Temple Pre-Boss Item 3",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "inverted_stone_tower_temple_preboss_furthest_item",
+    "display_name": "Inverted Stone Tower Temple Pre-Boss Furthest Item",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "inverted_stone_tower_temple_preboss_furthest_item_2",
+    "display_name": "Inverted Stone Tower Temple Pre-Boss Furthest Item 2",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "inverted_stone_tower_temple_preboss_2nd_furthest_item",
+    "display_name": "Inverted Stone Tower Temple Pre-Boss 2nd Furthest Item",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "inverted_stone_tower_temple_preboss_2nd_furthest_item_2",
+    "display_name": "Inverted Stone Tower Temple Pre-Boss 2nd Furthest Item 2",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "inverted_stone_tower_temple_preboss_closest_item_2",
+    "display_name": "Inverted Stone Tower Temple Pre-Boss Closest Item 2",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "inverted_stone_tower_temple_preboss_2nd_closest_item_2",
+    "display_name": "Inverted Stone Tower Temple Pre-Boss 2nd Closest Item 2",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "swordsmans_school_pot",
+    "display_name": "Swordsman's School Pot",
+    "region": "WestClockTown"
+  },
+  {
+    "name": "swordsmans_school_pot_2",
+    "display_name": "Swordsman's School Pot 2",
+    "region": "WestClockTown"
+  },
+  {
+    "name": "swordsmans_school_pot_3",
+    "display_name": "Swordsman's School Pot 3",
+    "region": "WestClockTown"
+  },
+  {
+    "name": "swordsmans_school_pot_4",
+    "display_name": "Swordsman's School Pot 4",
+    "region": "WestClockTown"
+  },
+  {
+    "name": "swordsmans_school_pot_5",
+    "display_name": "Swordsman's School Pot 5",
+    "region": "WestClockTown"
+  },
+  {
+    "name": "woodfall_item",
+    "display_name": "Woodfall Item",
+    "region": "Woodfall"
+  },
+  {
+    "name": "woodfall_temple_entrance_hive",
+    "display_name": "Woodfall Temple Entrance Hive",
+    "region": "WoodfallTemple"
+  },
+  {
+    "name": "woodfall_temple_gekko_room_pot",
+    "display_name": "Woodfall Temple Gekko Room Pot",
+    "region": "WoodfallTemple"
+  },
+  {
+    "name": "woodfall_temple_gekko_room_pot_2",
+    "display_name": "Woodfall Temple Gekko Room Pot 2",
+    "region": "WoodfallTemple"
+  },
+  {
+    "name": "woodfall_temple_gekko_room_pot_3",
+    "display_name": "Woodfall Temple Gekko Room Pot 3",
+    "region": "WoodfallTemple"
+  },
+  {
+    "name": "woodfall_temple_gekko_room_pot_4",
+    "display_name": "Woodfall Temple Gekko Room Pot 4",
+    "region": "WoodfallTemple"
+  },
+  {
+    "name": "woodfall_temple_preboss_platform_item",
+    "display_name": "Woodfall Temple Pre-Boss Platform Item",
+    "region": "WoodfallTemple"
+  },
+  {
+    "name": "woodfall_temple_preboss_platform_item_2",
+    "display_name": "Woodfall Temple Pre-Boss Platform Item 2",
+    "region": "WoodfallTemple"
+  },
+  {
+    "name": "woodfall_temple_preboss_platform_item_3",
+    "display_name": "Woodfall Temple Pre-Boss Platform Item 3",
+    "region": "WoodfallTemple"
+  },
+  {
+    "name": "woodfall_temple_preboss_platform_item_4",
+    "display_name": "Woodfall Temple Pre-Boss Platform Item 4",
+    "region": "WoodfallTemple"
+  },
+  {
+    "name": "well_left_path_pot",
+    "display_name": "Well Left Path Pot",
+    "region": "BeneathTheWell"
+  },
+  {
+    "name": "well_left_path_pot_2",
+    "display_name": "Well Left Path Pot 2",
+    "region": "BeneathTheWell"
+  },
+  {
+    "name": "well_left_path_pot_3",
+    "display_name": "Well Left Path Pot 3",
+    "region": "BeneathTheWell"
+  },
+  {
+    "name": "well_left_path_pot_4",
+    "display_name": "Well Left Path Pot 4",
+    "region": "BeneathTheWell"
+  },
+  {
+    "name": "well_left_path_pot_5",
+    "display_name": "Well Left Path Pot 5",
+    "region": "BeneathTheWell"
+  },
+  {
+    "name": "goron_village_small_snowball_3",
+    "display_name": "Goron Village Small Snowball 3",
+    "region": "GoronVillage"
+  },
+  {
+    "name": "goron_village_small_snowball_4",
+    "display_name": "Goron Village Small Snowball 4",
+    "region": "GoronVillage"
+  },
+  {
+    "name": "great_bay_coast_pot_6",
+    "display_name": "Great Bay Coast Pot 6",
+    "region": "GreatBayCoast"
+  },
+  {
+    "name": "great_bay_temple_red_valve_barrel_2",
+    "display_name": "Great Bay Temple Red Valve Barrel 2",
+    "region": "GreatBayTemple"
+  },
+  {
+    "name": "great_bay_temple_green_pump_barrel_2",
+    "display_name": "Great Bay Temple Green Pump Barrel 2",
+    "region": "GreatBayTemple"
+  },
+  {
+    "name": "ikana_canyon_grass_2",
+    "display_name": "Ikana Canyon Grass 2",
+    "region": "IkanaCanyon"
+  },
+  {
+    "name": "mountain_village_spring_snowball_2",
+    "display_name": "Mountain Village Spring Snowball 2",
+    "region": "MountainVillage"
+  },
+  {
+    "name": "mountain_village_winter_small_snowball_2",
+    "display_name": "Mountain Village Winter Small Snowball 2",
+    "region": "MountainVillage"
+  },
+  {
+    "name": "snowhead_small_snowball_2",
+    "display_name": "Snowhead Small Snowball 2",
+    "region": "Snowhead"
+  },
+  {
+    "name": "stone_tower_owl_pot_2",
+    "display_name": "Stone Tower Owl Pot 2",
+    "region": "StoneTower"
+  },
+  {
+    "name": "inverted_stone_tower_pot",
+    "display_name": "Inverted Stone Tower Pot",
+    "region": "StoneTower"
+  },
+  {
+    "name": "zora_cape_owl_pot_2",
+    "display_name": "Zora Cape Owl Pot 2",
+    "region": "ZoraCape"
+  },
+  {
+    "name": "ikana_castle_left_staircase_pot",
+    "display_name": "Ikana Castle Left Staircase Pot",
+    "region": "IkanaCastle"
+  },
+  {
+    "name": "goron_village_small_snowball_5",
+    "display_name": "Goron Village Small Snowball 5",
+    "region": "GoronVillage"
+  },
+  {
+    "name": "goron_village_small_snowball_6",
+    "display_name": "Goron Village Small Snowball 6",
+    "region": "GoronVillage"
+  },
+  {
+    "name": "pirates_fortress_sewer_exit_pot_2",
+    "display_name": "Pirates' Fortress Sewer Exit Pot 2",
+    "region": "PiratesFortressSewer"
+  },
+  {
+    "name": "woodfall_pot",
+    "display_name": "Woodfall Pot",
+    "region": "Woodfall"
+  },
+  {
+    "name": "goron_shrine_pot",
+    "display_name": "Goron Shrine Pot",
+    "region": "GoronVillage"
+  },
+  {
+    "name": "goron_shrine_pot_2",
+    "display_name": "Goron Shrine Pot 2",
+    "region": "GoronVillage"
+  },
+  {
+    "name": "goron_shrine_pot_3",
+    "display_name": "Goron Shrine Pot 3",
+    "region": "GoronVillage"
+  },
+  {
+    "name": "goron_shrine_pot_4",
+    "display_name": "Goron Shrine Pot 4",
+    "region": "GoronVillage"
+  },
+  {
+    "name": "goron_shrine_pot_5",
+    "display_name": "Goron Shrine Pot 5",
+    "region": "GoronVillage"
+  },
+  {
+    "name": "goron_village_small_snowball_7",
+    "display_name": "Goron Village Small Snowball 7",
+    "region": "GoronVillage"
+  },
+  {
+    "name": "goron_village_small_snowball_8",
+    "display_name": "Goron Village Small Snowball 8",
+    "region": "GoronVillage"
+  },
+  {
+    "name": "cleared_swamp_owl_grass",
+    "display_name": "Cleared Swamp Owl Grass",
+    "region": "SouthernSwamp"
+  },
+  {
+    "name": "southern_swamp_owl_grass",
+    "display_name": "Southern Swamp Owl Grass",
+    "region": "SouthernSwamp"
+  },
+  {
+    "name": "woodfall_pot_2",
+    "display_name": "Woodfall Pot 2",
+    "region": "Woodfall"
+  },
+  {
+    "name": "dampes_basement_pot_5",
+    "display_name": "Dampe's Basement Pot 5",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "dampes_basement_pot_6",
+    "display_name": "Dampe's Basement Pot 6",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "dampes_basement_pot_7",
+    "display_name": "Dampe's Basement Pot 7",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "deku_palace_item_6",
+    "display_name": "Deku Palace Item 6",
+    "region": "DekuPalace"
+  },
+  {
+    "name": "deku_palace_item_7",
+    "display_name": "Deku Palace Item 7",
+    "region": "DekuPalace"
+  },
+  {
+    "name": "deku_palace_item_8",
+    "display_name": "Deku Palace Item 8",
+    "region": "DekuPalace"
+  },
+  {
+    "name": "deku_palace_item_9",
+    "display_name": "Deku Palace Item 9",
+    "region": "DekuPalace"
+  },
+  {
+    "name": "deku_palace_item_10",
+    "display_name": "Deku Palace Item 10",
+    "region": "DekuPalace"
+  },
+  {
+    "name": "deku_palace_item_11",
+    "display_name": "Deku Palace Item 11",
+    "region": "DekuPalace"
+  },
+  {
+    "name": "deku_palace_item_12",
+    "display_name": "Deku Palace Item 12",
+    "region": "DekuPalace"
+  },
+  {
+    "name": "deku_palace_item_13",
+    "display_name": "Deku Palace Item 13",
+    "region": "DekuPalace"
+  },
+  {
+    "name": "deku_palace_item_14",
+    "display_name": "Deku Palace Item 14",
+    "region": "DekuPalace"
+  },
+  {
+    "name": "deku_palace_out_of_bounds_item",
+    "display_name": "Deku Palace Out of Bounds Item",
+    "region": "DekuPalace"
+  },
+  {
+    "name": "deku_palace_item_15",
+    "display_name": "Deku Palace Item 15",
+    "region": "DekuPalace"
+  },
+  {
+    "name": "deku_palace_item_16",
+    "display_name": "Deku Palace Item 16",
+    "region": "DekuPalace"
+  },
+  {
+    "name": "deku_palace_item_17",
+    "display_name": "Deku Palace Item 17",
+    "region": "DekuPalace"
+  },
+  {
+    "name": "butler_race_pillar_item",
+    "display_name": "Butler Race Pillar Item",
+    "region": "ButlerRaceItems"
+  },
+  {
+    "name": "butler_race_pillar_item_2",
+    "display_name": "Butler Race Pillar Item 2",
+    "region": "ButlerRaceItems"
+  },
+  {
+    "name": "butler_race_pillar_item_3",
+    "display_name": "Butler Race Pillar Item 3",
+    "region": "ButlerRaceItems"
+  },
+  {
+    "name": "butler_race_pillar_item_4",
+    "display_name": "Butler Race Pillar Item 4",
+    "region": "ButlerRaceItems"
+  },
+  {
+    "name": "butler_race_pillar_item_5",
+    "display_name": "Butler Race Pillar Item 5",
+    "region": "ButlerRaceItems"
+  },
+  {
+    "name": "butler_race_pillar_item_6",
+    "display_name": "Butler Race Pillar Item 6",
+    "region": "ButlerRaceItems"
+  },
+  {
+    "name": "butler_race_river_item",
+    "display_name": "Butler Race River Item",
+    "region": "ButlerRaceItems"
+  },
+  {
+    "name": "butler_race_river_item_2",
+    "display_name": "Butler Race River Item 2",
+    "region": "ButlerRaceItems"
+  },
+  {
+    "name": "butler_race_river_item_3",
+    "display_name": "Butler Race River Item 3",
+    "region": "ButlerRaceItems"
+  },
+  {
+    "name": "butler_race_river_item_4",
+    "display_name": "Butler Race River Item 4",
+    "region": "ButlerRaceItems"
+  },
+  {
+    "name": "butler_race_river_item_5",
+    "display_name": "Butler Race River Item 5",
+    "region": "ButlerRaceItems"
+  },
+  {
+    "name": "butler_race_river_item_6",
+    "display_name": "Butler Race River Item 6",
+    "region": "ButlerRaceItems"
+  },
+  {
+    "name": "butler_race_right_path_item",
+    "display_name": "Butler Race Right Path Item",
+    "region": "ButlerRaceItems"
+  },
+  {
+    "name": "butler_race_right_path_item_2",
+    "display_name": "Butler Race Right Path Item 2",
+    "region": "ButlerRaceItems"
+  },
+  {
+    "name": "butler_race_right_path_item_3",
+    "display_name": "Butler Race Right Path Item 3",
+    "region": "ButlerRaceItems"
+  },
+  {
+    "name": "butler_race_right_path_item_4",
+    "display_name": "Butler Race Right Path Item 4",
+    "region": "ButlerRaceItems"
+  },
+  {
+    "name": "butler_race_right_path_item_5",
+    "display_name": "Butler Race Right Path Item 5",
+    "region": "ButlerRaceItems"
+  },
+  {
+    "name": "butler_race_right_path_item_6",
+    "display_name": "Butler Race Right Path Item 6",
+    "region": "ButlerRaceItems"
+  },
+  {
+    "name": "butler_race_final_room_item",
+    "display_name": "Butler Race Final Room Item",
+    "region": "ButlerRaceItems"
+  },
+  {
+    "name": "butler_race_final_room_item_2",
+    "display_name": "Butler Race Final Room Item 2",
+    "region": "ButlerRaceItems"
+  },
+  {
+    "name": "butler_race_final_room_item_3",
+    "display_name": "Butler Race Final Room Item 3",
+    "region": "ButlerRaceItems"
+  },
+  {
+    "name": "butler_race_final_room_item_4",
+    "display_name": "Butler Race Final Room Item 4",
+    "region": "ButlerRaceItems"
+  },
+  {
+    "name": "butler_race_final_room_item_5",
+    "display_name": "Butler Race Final Room Item 5",
+    "region": "ButlerRaceItems"
+  },
+  {
+    "name": "butler_race_final_room_item_6",
+    "display_name": "Butler Race Final Room Item 6",
+    "region": "ButlerRaceItems"
+  },
+  {
+    "name": "butler_race_final_room_item_7",
+    "display_name": "Butler Race Final Room Item 7",
+    "region": "ButlerRaceItems"
+  },
+  {
+    "name": "butler_race_final_room_item_8",
+    "display_name": "Butler Race Final Room Item 8",
+    "region": "ButlerRaceItems"
+  },
+  {
+    "name": "butler_race_final_room_item_9",
+    "display_name": "Butler Race Final Room Item 9",
+    "region": "ButlerRaceItems"
+  },
+  {
+    "name": "butler_race_final_room_item_10",
+    "display_name": "Butler Race Final Room Item 10",
+    "region": "ButlerRaceItems"
+  },
+  {
+    "name": "butler_race_dual_pot",
+    "display_name": "Butler Race Dual Pot",
+    "region": "ButlerRaceItems"
+  },
+  {
+    "name": "east_clock_town_crate",
+    "display_name": "East Clock Town Crate",
+    "region": "EastClockTown"
+  },
+  {
+    "name": "great_bay_temple_water_control_room_item_3",
+    "display_name": "Great Bay Temple Water Control Room Item 3",
+    "region": "GreatBayTemple"
+  },
+  {
+    "name": "great_bay_temple_water_control_room_item_4",
+    "display_name": "Great Bay Temple Water Control Room Item 4",
+    "region": "GreatBayTemple"
+  },
+  {
+    "name": "ikana_graveyard_grass_2",
+    "display_name": "Ikana Graveyard Grass 2",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "potion_shop_item",
+    "display_name": "Potion Shop Item",
+    "region": "SouthernSwamp"
+  },
+  {
+    "name": "pirates_fortress_cage_room_barrel_2",
+    "display_name": "Pirates' Fortress Cage Room Barrel 2",
+    "region": "PiratesFortressSewer"
+  },
+  {
+    "name": "pirates_fortress_cage_room_barrel_3",
+    "display_name": "Pirates' Fortress Cage Room Barrel 3",
+    "region": "PiratesFortressSewer"
+  },
+  {
+    "name": "pirates_fortress_cage_room_barrel_4",
+    "display_name": "Pirates' Fortress Cage Room Barrel 4",
+    "region": "PiratesFortressSewer"
+  },
+  {
+    "name": "pirates_fortress_cage_room_barrel_5",
+    "display_name": "Pirates' Fortress Cage Room Barrel 5",
+    "region": "PiratesFortressSewer"
+  },
+  {
+    "name": "secret_shrine_floating_item",
+    "display_name": "Secret Shrine Floating Item",
+    "region": "SecretShrine"
+  },
+  {
+    "name": "secret_shrine_floating_item_2",
+    "display_name": "Secret Shrine Floating Item 2",
+    "region": "SecretShrine"
+  },
+  {
+    "name": "secret_shrine_floating_item_3",
+    "display_name": "Secret Shrine Floating Item 3",
+    "region": "SecretShrine"
+  },
+  {
+    "name": "secret_shrine_floating_item_4",
+    "display_name": "Secret Shrine Floating Item 4",
+    "region": "SecretShrine"
+  },
+  {
+    "name": "secret_shrine_floating_item_5",
+    "display_name": "Secret Shrine Floating Item 5",
+    "region": "SecretShrine"
+  },
+  {
+    "name": "secret_shrine_floating_item_6",
+    "display_name": "Secret Shrine Floating Item 6",
+    "region": "SecretShrine"
+  },
+  {
+    "name": "secret_shrine_floating_item_7",
+    "display_name": "Secret Shrine Floating Item 7",
+    "region": "SecretShrine"
+  },
+  {
+    "name": "secret_shrine_floating_item_8",
+    "display_name": "Secret Shrine Floating Item 8",
+    "region": "SecretShrine"
+  },
+  {
+    "name": "secret_shrine_floating_item_9",
+    "display_name": "Secret Shrine Floating Item 9",
+    "region": "SecretShrine"
+  },
+  {
+    "name": "secret_shrine_floating_item_10",
+    "display_name": "Secret Shrine Floating Item 10",
+    "region": "SecretShrine"
+  },
+  {
+    "name": "secret_shrine_floating_item_11",
+    "display_name": "Secret Shrine Floating Item 11",
+    "region": "SecretShrine"
+  },
+  {
+    "name": "secret_shrine_floating_item_12",
+    "display_name": "Secret Shrine Floating Item 12",
+    "region": "SecretShrine"
+  },
+  {
+    "name": "secret_shrine_floating_item_13",
+    "display_name": "Secret Shrine Floating Item 13",
+    "region": "SecretShrine"
+  },
+  {
+    "name": "secret_shrine_floating_item_14",
+    "display_name": "Secret Shrine Floating Item 14",
+    "region": "SecretShrine"
+  },
+  {
+    "name": "secret_shrine_floating_item_15",
+    "display_name": "Secret Shrine Floating Item 15",
+    "region": "SecretShrine"
+  },
+  {
+    "name": "secret_shrine_floating_item_16",
+    "display_name": "Secret Shrine Floating Item 16",
+    "region": "SecretShrine"
+  },
+  {
+    "name": "secret_shrine_floating_item_17",
+    "display_name": "Secret Shrine Floating Item 17",
+    "region": "SecretShrine"
+  },
+  {
+    "name": "cleared_swamp_potion_shop_pot_2",
+    "display_name": "Cleared Swamp Potion Shop Pot 2",
+    "region": "SouthernSwamp"
+  },
+  {
+    "name": "potion_shop_pot_2",
+    "display_name": "Potion Shop Pot 2",
+    "region": "SouthernSwamp"
+  },
+  {
+    "name": "stone_tower_temple_lava_room_item_3",
+    "display_name": "Stone Tower Temple Lava Room Item 3",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "stone_tower_temple_lava_room_item_4",
+    "display_name": "Stone Tower Temple Lava Room Item 4",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "stone_tower_temple_lava_room_item_5",
+    "display_name": "Stone Tower Temple Lava Room Item 5",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "inverted_stone_tower_temple_dexihand_item_2",
+    "display_name": "Inverted Stone Tower Temple Dexihand Item 2",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "clock_tower_rooftop_pot",
+    "display_name": "Clock Tower Rooftop Pot",
+    "region": "ClockTowerRoof"
+  },
+  {
+    "name": "clock_tower_rooftop_pot_2",
+    "display_name": "Clock Tower Rooftop Pot 2",
+    "region": "ClockTowerRoof"
+  },
+  {
+    "name": "clock_tower_rooftop_pot_3",
+    "display_name": "Clock Tower Rooftop Pot 3",
+    "region": "ClockTowerRoof"
+  },
+  {
+    "name": "clock_tower_rooftop_pot_4",
+    "display_name": "Clock Tower Rooftop Pot 4",
+    "region": "ClockTowerRoof"
+  },
+  {
+    "name": "goron_racetrack_pot",
+    "display_name": "Goron Racetrack Pot",
+    "region": "GoronRaceItems"
+  },
+  {
+    "name": "goron_racetrack_pot_2",
+    "display_name": "Goron Racetrack Pot 2",
+    "region": "GoronRaceItems"
+  },
+  {
+    "name": "goron_racetrack_pot_3",
+    "display_name": "Goron Racetrack Pot 3",
+    "region": "GoronRaceItems"
+  },
+  {
+    "name": "goron_racetrack_pot_4",
+    "display_name": "Goron Racetrack Pot 4",
+    "region": "GoronRaceItems"
+  },
+  {
+    "name": "goron_racetrack_pot_5",
+    "display_name": "Goron Racetrack Pot 5",
+    "region": "GoronRaceItems"
+  },
+  {
+    "name": "goron_racetrack_pot_6",
+    "display_name": "Goron Racetrack Pot 6",
+    "region": "GoronRaceItems"
+  },
+  {
+    "name": "goron_racetrack_pot_7",
+    "display_name": "Goron Racetrack Pot 7",
+    "region": "GoronRaceItems"
+  },
+  {
+    "name": "goron_racetrack_pot_8",
+    "display_name": "Goron Racetrack Pot 8",
+    "region": "GoronRaceItems"
+  },
+  {
+    "name": "goron_racetrack_pot_9",
+    "display_name": "Goron Racetrack Pot 9",
+    "region": "GoronRaceItems"
+  },
+  {
+    "name": "goron_racetrack_pot_10",
+    "display_name": "Goron Racetrack Pot 10",
+    "region": "GoronRaceItems"
+  },
+  {
+    "name": "goron_racetrack_pot_11",
+    "display_name": "Goron Racetrack Pot 11",
+    "region": "GoronRaceItems"
+  },
+  {
+    "name": "goron_racetrack_pot_12",
+    "display_name": "Goron Racetrack Pot 12",
+    "region": "GoronRaceItems"
+  },
+  {
+    "name": "goron_racetrack_pot_13",
+    "display_name": "Goron Racetrack Pot 13",
+    "region": "GoronRaceItems"
+  },
+  {
+    "name": "goron_racetrack_pot_14",
+    "display_name": "Goron Racetrack Pot 14",
+    "region": "GoronRaceItems"
+  },
+  {
+    "name": "goron_racetrack_pot_15",
+    "display_name": "Goron Racetrack Pot 15",
+    "region": "GoronRaceItems"
+  },
+  {
+    "name": "goron_racetrack_pot_16",
+    "display_name": "Goron Racetrack Pot 16",
+    "region": "GoronRaceItems"
+  },
+  {
+    "name": "goron_racetrack_pot_17",
+    "display_name": "Goron Racetrack Pot 17",
+    "region": "GoronRaceItems"
+  },
+  {
+    "name": "goron_racetrack_pot_18",
+    "display_name": "Goron Racetrack Pot 18",
+    "region": "GoronRaceItems"
+  },
+  {
+    "name": "goron_racetrack_pot_19",
+    "display_name": "Goron Racetrack Pot 19",
+    "region": "GoronRaceItems"
+  },
+  {
+    "name": "goron_racetrack_pot_20",
+    "display_name": "Goron Racetrack Pot 20",
+    "region": "GoronRaceItems"
+  },
+  {
+    "name": "goron_racetrack_pot_21",
+    "display_name": "Goron Racetrack Pot 21",
+    "region": "GoronRaceItems"
+  },
+  {
+    "name": "goron_racetrack_pot_22",
+    "display_name": "Goron Racetrack Pot 22",
+    "region": "GoronRaceItems"
+  },
+  {
+    "name": "goron_racetrack_pot_23",
+    "display_name": "Goron Racetrack Pot 23",
+    "region": "GoronRaceItems"
+  },
+  {
+    "name": "goron_racetrack_pot_24",
+    "display_name": "Goron Racetrack Pot 24",
+    "region": "GoronRaceItems"
+  },
+  {
+    "name": "goron_racetrack_pot_25",
+    "display_name": "Goron Racetrack Pot 25",
+    "region": "GoronRaceItems"
+  },
+  {
+    "name": "goron_racetrack_pot_26",
+    "display_name": "Goron Racetrack Pot 26",
+    "region": "GoronRaceItems"
+  },
+  {
+    "name": "goron_racetrack_pot_27",
+    "display_name": "Goron Racetrack Pot 27",
+    "region": "GoronRaceItems"
+  },
+  {
+    "name": "goron_shrine_pot_6",
+    "display_name": "Goron Shrine Pot 6",
+    "region": "GoronVillage"
+  },
+  {
+    "name": "goron_shrine_pot_7",
+    "display_name": "Goron Shrine Pot 7",
+    "region": "GoronVillage"
+  },
+  {
+    "name": "goron_shrine_pot_8",
+    "display_name": "Goron Shrine Pot 8",
+    "region": "GoronVillage"
+  },
+  {
+    "name": "goron_shrine_pot_9",
+    "display_name": "Goron Shrine Pot 9",
+    "region": "GoronVillage"
+  },
+  {
+    "name": "great_bay_coast_pot_7",
+    "display_name": "Great Bay Coast Pot 7",
+    "region": "GreatBayCoast"
+  },
+  {
+    "name": "great_bay_temple_red_valve_crate",
+    "display_name": "Great Bay Temple Red Valve Crate",
+    "region": "GreatBayTemple"
+  },
+  {
+    "name": "ikana_king_pot_3",
+    "display_name": "Ikana King Pot 3",
+    "region": "IkanaCastle"
+  },
+  {
+    "name": "ikana_canyon_grass_3",
+    "display_name": "Ikana Canyon Grass 3",
+    "region": "IkanaCanyon"
+  },
+  {
+    "name": "milk_road_grass_2",
+    "display_name": "Milk Road Grass 2",
+    "region": "MilkRoad"
+  },
+  {
+    "name": "mountain_village_spring_snowball_3",
+    "display_name": "Mountain Village Spring Snowball 3",
+    "region": "MountainVillage"
+  },
+  {
+    "name": "goron_graveyard_snowball",
+    "display_name": "Goron Graveyard Snowball",
+    "region": "MountainVillage"
+  },
+  {
+    "name": "goron_graveyard_snowball_2",
+    "display_name": "Goron Graveyard Snowball 2",
+    "region": "MountainVillage"
+  },
+  {
+    "name": "mountain_village_winter_small_snowball_3",
+    "display_name": "Mountain Village Winter Small Snowball 3",
+    "region": "MountainVillage"
+  },
+  {
+    "name": "snowhead_small_snowball_3",
+    "display_name": "Snowhead Small Snowball 3",
+    "region": "Snowhead"
+  },
+  {
+    "name": "stone_tower_owl_pot_3",
+    "display_name": "Stone Tower Owl Pot 3",
+    "region": "StoneTower"
+  },
+  {
+    "name": "inverted_stone_tower_pot_2",
+    "display_name": "Inverted Stone Tower Pot 2",
+    "region": "StoneTower"
+  },
+  {
+    "name": "link_trial_pot",
+    "display_name": "Link Trial Pot",
+    "region": "TheMoon"
+  },
+  {
+    "name": "link_trial_pot_2",
+    "display_name": "Link Trial Pot 2",
+    "region": "TheMoon"
+  },
+  {
+    "name": "link_trial_pot_3",
+    "display_name": "Link Trial Pot 3",
+    "region": "TheMoon"
+  },
+  {
+    "name": "link_trial_pot_4",
+    "display_name": "Link Trial Pot 4",
+    "region": "TheMoon"
+  },
+  {
+    "name": "zora_cape_owl_pot_3",
+    "display_name": "Zora Cape Owl Pot 3",
+    "region": "ZoraCape"
+  },
+  {
+    "name": "dampes_basement_pot_8",
+    "display_name": "Dampe's Basement Pot 8",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "pirates_fortress_item",
+    "display_name": "Pirates' Fortress Item",
+    "region": "PiratesFortressInterior"
+  },
+  {
+    "name": "pirates_fortress_item_2",
+    "display_name": "Pirates' Fortress Item 2",
+    "region": "PiratesFortressInterior"
+  },
+  {
+    "name": "pirates_fortress_item_3",
+    "display_name": "Pirates' Fortress Item 3",
+    "region": "PiratesFortressInterior"
+  },
+  {
+    "name": "butler_race_pillar_item_7",
+    "display_name": "Butler Race Pillar Item 7",
+    "region": "ButlerRaceItems"
+  },
+  {
+    "name": "butler_race_pillar_item_8",
+    "display_name": "Butler Race Pillar Item 8",
+    "region": "ButlerRaceItems"
+  },
+  {
+    "name": "great_bay_temple_water_control_room_item_5",
+    "display_name": "Great Bay Temple Water Control Room Item 5",
+    "region": "GreatBayTemple"
+  },
+  {
+    "name": "great_bay_temple_dexihand_item",
+    "display_name": "Great Bay Temple Dexihand Item",
+    "region": "GreatBayTemple"
+  },
+  {
+    "name": "great_bay_temple_dexihand_item_2",
+    "display_name": "Great Bay Temple Dexihand Item 2",
+    "region": "GreatBayTemple"
+  },
+  {
+    "name": "great_bay_temple_green_pump_item",
+    "display_name": "Great Bay Temple Green Pump Item",
+    "region": "GreatBayTemple"
+  },
+  {
+    "name": "great_bay_temple_green_pump_item_2",
+    "display_name": "Great Bay Temple Green Pump Item 2",
+    "region": "GreatBayTemple"
+  },
+  {
+    "name": "laundry_pool_item",
+    "display_name": "Laundry Pool Item",
+    "region": "LaundryPool"
+  },
+  {
+    "name": "laundry_pool_item_2",
+    "display_name": "Laundry Pool Item 2",
+    "region": "LaundryPool"
+  },
+  {
+    "name": "laundry_pool_item_3",
+    "display_name": "Laundry Pool Item 3",
+    "region": "LaundryPool"
+  },
+  {
+    "name": "mountain_village_spring_stair_item",
+    "display_name": "Mountain Village Spring Stair Item",
+    "region": "MountainVillage"
+  },
+  {
+    "name": "snowhead_temple_icicle_room_frozen_item",
+    "display_name": "Snowhead Temple Icicle Room Frozen Item",
+    "region": "SnowheadTemple"
+  },
+  {
+    "name": "snowhead_temple_icicle_room_frozen_item_2",
+    "display_name": "Snowhead Temple Icicle Room Frozen Item 2",
+    "region": "SnowheadTemple"
+  },
+  {
+    "name": "snowhead_temple_icicle_room_frozen_item_3",
+    "display_name": "Snowhead Temple Icicle Room Frozen Item 3",
+    "region": "SnowheadTemple"
+  },
+  {
+    "name": "swamp_near_frog_hive",
+    "display_name": "Swamp Near Frog Hive",
+    "region": "SouthernSwamp"
+  },
+  {
+    "name": "stone_tower_temple_lava_room_item_6",
+    "display_name": "Stone Tower Temple Lava Room Item 6",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "stone_tower_temple_eyegore_room_item",
+    "display_name": "Stone Tower Temple Eyegore Room Item",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "stone_tower_temple_mirror_room_crate",
+    "display_name": "Stone Tower Temple Mirror Room Crate",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "stone_tower_temple_mirror_room_crate_2",
+    "display_name": "Stone Tower Temple Mirror Room Crate 2",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "stone_tower_temple_eyegore_room_item_2",
+    "display_name": "Stone Tower Temple Eyegore Room Item 2",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "inverted_stone_tower_temple_dexihand_item_3",
+    "display_name": "Inverted Stone Tower Temple Dexihand Item 3",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "inverted_stone_tower_temple_updraft_room_item",
+    "display_name": "Inverted Stone Tower Temple Updraft Room Item",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "inverted_stone_tower_temple_updraft_room_item_2",
+    "display_name": "Inverted Stone Tower Temple Updraft Room Item 2",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "termina_field_pillar_item",
+    "display_name": "Termina Field Pillar Item",
+    "region": "TerminaField"
+  },
+  {
+    "name": "woodfall_temple_preboss_left_pillar_item",
+    "display_name": "Woodfall Temple Pre-Boss Left Pillar Item",
+    "region": "WoodfallTemple"
+  },
+  {
+    "name": "woodfall_temple_preboss_right_pillar_item",
+    "display_name": "Woodfall Temple Pre-Boss Right Pillar Item",
+    "region": "WoodfallTemple"
+  },
+  {
+    "name": "ikana_castle_courtyard_grass_3",
+    "display_name": "Ikana Castle Courtyard Grass 3",
+    "region": "IkanaCastle"
+  },
+  {
+    "name": "ikana_castle_courtyard_grass_4",
+    "display_name": "Ikana Castle Courtyard Grass 4",
+    "region": "IkanaCastle"
+  },
+  {
+    "name": "ikana_castle_fire_ceiling_room_pot",
+    "display_name": "Ikana Castle Fire Ceiling Room Pot",
+    "region": "IkanaCastle"
+  },
+  {
+    "name": "ikana_castle_hole_room_pot",
+    "display_name": "Ikana Castle Hole Room Pot",
+    "region": "IkanaCastle"
+  },
+  {
+    "name": "ikana_castle_hole_room_pot_2",
+    "display_name": "Ikana Castle Hole Room Pot 2",
+    "region": "IkanaCastle"
+  },
+  {
+    "name": "observatory_balloon_pot",
+    "display_name": "Observatory Balloon Pot",
+    "region": "EastClockTown"
+  },
+  {
+    "name": "observatory_balloon_pot_2",
+    "display_name": "Observatory Balloon Pot 2",
+    "region": "EastClockTown"
+  },
+  {
+    "name": "observatory_scarecrow_pot_3",
+    "display_name": "Observatory Scarecrow Pot 3",
+    "region": "EastClockTown"
+  },
+  {
+    "name": "night_2_grave_pot_2",
+    "display_name": "Night 2 Grave Pot 2",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "deku_palace_pot",
+    "display_name": "Deku Palace Pot",
+    "region": "DekuPalace"
+  },
+  {
+    "name": "deku_palace_pot_2",
+    "display_name": "Deku Palace Pot 2",
+    "region": "DekuPalace"
+  },
+  {
+    "name": "goron_racetrack_pot_28",
+    "display_name": "Goron Racetrack Pot 28",
+    "region": "GoronRaceItems"
+  },
+  {
+    "name": "goron_racetrack_pot_29",
+    "display_name": "Goron Racetrack Pot 29",
+    "region": "GoronRaceItems"
+  },
+  {
+    "name": "goron_racetrack_pot_30",
+    "display_name": "Goron Racetrack Pot 30",
+    "region": "GoronRaceItems"
+  },
+  {
+    "name": "goron_shrine_pot_10",
+    "display_name": "Goron Shrine Pot 10",
+    "region": "GoronVillage"
+  },
+  {
+    "name": "goron_shrine_pot_11",
+    "display_name": "Goron Shrine Pot 11",
+    "region": "GoronVillage"
+  },
+  {
+    "name": "goron_village_large_snowball_4",
+    "display_name": "Goron Village Large Snowball 4",
+    "region": "GoronVillage"
+  },
+  {
+    "name": "goron_village_large_snowball_5",
+    "display_name": "Goron Village Large Snowball 5",
+    "region": "GoronVillage"
+  },
+  {
+    "name": "goron_village_large_snowball_6",
+    "display_name": "Goron Village Large Snowball 6",
+    "region": "GoronVillage"
+  },
+  {
+    "name": "goron_village_small_snowball_9",
+    "display_name": "Goron Village Small Snowball 9",
+    "region": "GoronVillage"
+  },
+  {
+    "name": "goron_village_small_snowball_10",
+    "display_name": "Goron Village Small Snowball 10",
+    "region": "GoronVillage"
+  },
+  {
+    "name": "ikana_king_entry_pot_3",
+    "display_name": "Ikana King Entry Pot 3",
+    "region": "IkanaCastle"
+  },
+  {
+    "name": "ikana_graveyard_grass_3",
+    "display_name": "Ikana Graveyard Grass 3",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "mountain_village_winter_small_snowball_4",
+    "display_name": "Mountain Village Winter Small Snowball 4",
+    "region": "MountainVillage"
+  },
+  {
+    "name": "mountain_village_winter_small_snowball_5",
+    "display_name": "Mountain Village Winter Small Snowball 5",
+    "region": "MountainVillage"
+  },
+  {
+    "name": "mountain_village_day_1_snowball",
+    "display_name": "Mountain Village Day 1 Snowball",
+    "region": "MountainVillage"
+  },
+  {
+    "name": "mountain_village_day_2_snowball_2",
+    "display_name": "Mountain Village Day 2 Snowball 2",
+    "region": "MountainVillage"
+  },
+  {
+    "name": "oceanside_spider_house_main_room_pot",
+    "display_name": "Oceanside Spider House Main Room Pot",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "oceanside_spider_house_entrance_pot_3",
+    "display_name": "Oceanside Spider House Entrance Pot 3",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "oceanside_spider_house_main_room_pot_2",
+    "display_name": "Oceanside Spider House Main Room Pot 2",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "oceanside_spider_house_storage_room_pot",
+    "display_name": "Oceanside Spider House Storage Room Pot",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "twin_islands_day_3_snowball",
+    "display_name": "Twin Islands Day 3 Snowball",
+    "region": "TwinIslands"
+  },
+  {
+    "name": "twin_islands_day_3_snowball_2",
+    "display_name": "Twin Islands Day 3 Snowball 2",
+    "region": "TwinIslands"
+  },
+  {
+    "name": "twin_islands_day_3_snowball_3",
+    "display_name": "Twin Islands Day 3 Snowball 3",
+    "region": "TwinIslands"
+  },
+  {
+    "name": "twin_islands_day_3_snowball_4",
+    "display_name": "Twin Islands Day 3 Snowball 4",
+    "region": "TwinIslands"
+  },
+  {
+    "name": "twin_islands_day_3_snowball_5",
+    "display_name": "Twin Islands Day 3 Snowball 5",
+    "region": "TwinIslands"
+  },
+  {
+    "name": "twin_islands_day_2_snowball",
+    "display_name": "Twin Islands Day 2 Snowball",
+    "region": "TwinIslands"
+  },
+  {
+    "name": "twin_islands_day_2_snowball_2",
+    "display_name": "Twin Islands Day 2 Snowball 2",
+    "region": "TwinIslands"
+  },
+  {
+    "name": "twin_islands_day_2_snowball_3",
+    "display_name": "Twin Islands Day 2 Snowball 3",
+    "region": "TwinIslands"
+  },
+  {
+    "name": "twin_islands_day_2_snowball_4",
+    "display_name": "Twin Islands Day 2 Snowball 4",
+    "region": "TwinIslands"
+  },
+  {
+    "name": "twin_islands_day_1_snowball",
+    "display_name": "Twin Islands Day 1 Snowball",
+    "region": "TwinIslands"
+  },
+  {
+    "name": "twin_islands_day_1_snowball_2",
+    "display_name": "Twin Islands Day 1 Snowball 2",
+    "region": "TwinIslands"
+  },
+  {
+    "name": "twin_islands_day_1_snowball_3",
+    "display_name": "Twin Islands Day 1 Snowball 3",
+    "region": "TwinIslands"
+  },
+  {
+    "name": "twin_islands_day_1_snowball_4",
+    "display_name": "Twin Islands Day 1 Snowball 4",
+    "region": "TwinIslands"
+  },
+  {
+    "name": "twin_islands_day_1_snowball_5",
+    "display_name": "Twin Islands Day 1 Snowball 5",
+    "region": "TwinIslands"
+  },
+  {
+    "name": "twin_islands_small_snowball",
+    "display_name": "Twin Islands Small Snowball",
+    "region": "TwinIslands"
+  },
+  {
+    "name": "twin_islands_small_snowball_2",
+    "display_name": "Twin Islands Small Snowball 2",
+    "region": "TwinIslands"
+  },
+  {
+    "name": "twin_islands_ramp_snowball",
+    "display_name": "Twin Islands Ramp Snowball",
+    "region": "TwinIslands"
+  },
+  {
+    "name": "path_to_mountain_village_small_snowball",
+    "display_name": "Path to Mountain Village Small Snowball",
+    "region": "PathToMountainVillage"
+  },
+  {
+    "name": "path_to_snowhead_large_snowball",
+    "display_name": "Path to Snowhead Large Snowball",
+    "region": "PathToSnowhead"
+  },
+  {
+    "name": "path_to_snowhead_large_snowball_2",
+    "display_name": "Path to Snowhead Large Snowball 2",
+    "region": "PathToSnowhead"
+  },
+  {
+    "name": "path_to_snowhead_large_snowball_3",
+    "display_name": "Path to Snowhead Large Snowball 3",
+    "region": "PathToSnowhead"
+  },
+  {
+    "name": "path_to_snowhead_large_snowball_4",
+    "display_name": "Path to Snowhead Large Snowball 4",
+    "region": "PathToSnowhead"
+  },
+  {
+    "name": "pinnacle_rock_pot",
+    "display_name": "Pinnacle Rock Pot",
+    "region": "PinnacleRock"
+  },
+  {
+    "name": "pinnacle_rock_pot_2",
+    "display_name": "Pinnacle Rock Pot 2",
+    "region": "PinnacleRock"
+  },
+  {
+    "name": "pinnacle_rock_pot_3",
+    "display_name": "Pinnacle Rock Pot 3",
+    "region": "PinnacleRock"
+  },
+  {
+    "name": "pinnacle_rock_pot_4",
+    "display_name": "Pinnacle Rock Pot 4",
+    "region": "PinnacleRock"
+  },
+  {
+    "name": "secret_shrine_underwater_pot_3",
+    "display_name": "Secret Shrine Underwater Pot 3",
+    "region": "SecretShrine"
+  },
+  {
+    "name": "secret_shrine_underwater_pot_4",
+    "display_name": "Secret Shrine Underwater Pot 4",
+    "region": "SecretShrine"
+  },
+  {
+    "name": "snowhead_large_snowball",
+    "display_name": "Snowhead Large Snowball",
+    "region": "Snowhead"
+  },
+  {
+    "name": "snowhead_large_snowball_2",
+    "display_name": "Snowhead Large Snowball 2",
+    "region": "Snowhead"
+  },
+  {
+    "name": "snowhead_large_snowball_3",
+    "display_name": "Snowhead Large Snowball 3",
+    "region": "Snowhead"
+  },
+  {
+    "name": "snowhead_large_snowball_4",
+    "display_name": "Snowhead Large Snowball 4",
+    "region": "Snowhead"
+  },
+  {
+    "name": "snowhead_large_snowball_5",
+    "display_name": "Snowhead Large Snowball 5",
+    "region": "Snowhead"
+  },
+  {
+    "name": "snowhead_large_snowball_6",
+    "display_name": "Snowhead Large Snowball 6",
+    "region": "Snowhead"
+  },
+  {
+    "name": "stone_tower_lower_scarecrow_pot",
+    "display_name": "Stone Tower Lower Scarecrow Pot",
+    "region": "StoneTower"
+  },
+  {
+    "name": "stone_tower_lower_scarecrow_pot_2",
+    "display_name": "Stone Tower Lower Scarecrow Pot 2",
+    "region": "StoneTower"
+  },
+  {
+    "name": "stone_tower_upper_scarecrow_pot_3",
+    "display_name": "Stone Tower Upper Scarecrow Pot 3",
+    "region": "StoneTower"
+  },
+  {
+    "name": "stone_tower_upper_scarecrow_pot_4",
+    "display_name": "Stone Tower Upper Scarecrow Pot 4",
+    "region": "StoneTower"
+  },
+  {
+    "name": "stone_tower_lower_scarecrow_pot_3",
+    "display_name": "Stone Tower Lower Scarecrow Pot 3",
+    "region": "StoneTower"
+  },
+  {
+    "name": "zora_cape_waterfall_pot",
+    "display_name": "Zora Cape Waterfall Pot",
+    "region": "ZoraCape"
+  },
+  {
+    "name": "ranch_fence_item",
+    "display_name": "Ranch Fence Item",
+    "region": "RomaniRanch"
+  },
+  {
+    "name": "ranch_fence_item_2",
+    "display_name": "Ranch Fence Item 2",
+    "region": "RomaniRanch"
+  },
+  {
+    "name": "ranch_fence_item_3",
+    "display_name": "Ranch Fence Item 3",
+    "region": "RomaniRanch"
+  },
+  {
+    "name": "ranch_fence_item_4",
+    "display_name": "Ranch Fence Item 4",
+    "region": "RomaniRanch"
+  },
+  {
+    "name": "ranch_fence_item_5",
+    "display_name": "Ranch Fence Item 5",
+    "region": "RomaniRanch"
+  },
+  {
+    "name": "ranch_fence_item_6",
+    "display_name": "Ranch Fence Item 6",
+    "region": "RomaniRanch"
+  },
+  {
+    "name": "termina_field_above_cow_grotto_invisible_item",
+    "display_name": "Termina Field Above Cow Grotto Invisible Item",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_invisible_item_2",
+    "display_name": "Termina Field Invisible Item 2",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_invisible_item_3",
+    "display_name": "Termina Field Invisible Item 3",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_invisible_item_4",
+    "display_name": "Termina Field Invisible Item 4",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_invisible_item_5",
+    "display_name": "Termina Field Invisible Item 5",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_invisible_item_6",
+    "display_name": "Termina Field Invisible Item 6",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_invisible_item_7",
+    "display_name": "Termina Field Invisible Item 7",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_invisible_item_8",
+    "display_name": "Termina Field Invisible Item 8",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_northern_ramp_invisible_item",
+    "display_name": "Termina Field Northern Ramp Invisible Item",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_invisible_item_10",
+    "display_name": "Termina Field Invisible Item 10",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_invisible_item_11",
+    "display_name": "Termina Field Invisible Item 11",
+    "region": "TerminaField"
+  },
+  {
+    "name": "swamp_spider_house_invisible_item",
+    "display_name": "Swamp Spider House Invisible Item",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "swamp_spider_house_invisible_item_2",
+    "display_name": "Swamp Spider House Invisible Item 2",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "swamp_spider_house_invisible_item_3",
+    "display_name": "Swamp Spider House Invisible Item 3",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "swamp_spider_house_invisible_item_4",
+    "display_name": "Swamp Spider House Invisible Item 4",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "swamp_spider_house_invisible_item_5",
+    "display_name": "Swamp Spider House Invisible Item 5",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "termina_field_tree_item",
+    "display_name": "Termina Field Tree Item",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_pillar_spawned_item",
+    "display_name": "Termina Field Pillar Spawned Item",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_telescope_guay",
+    "display_name": "Termina Field Telescope Guay",
+    "region": "TerminaField"
+  },
+  {
+    "name": "swordsman_school_gong",
+    "display_name": "Swordsman School Gong",
+    "region": "WestClockTown"
+  },
+  {
+    "name": "bean_grotto_soft_soil",
+    "display_name": "Bean Grotto Soft Soil",
+    "region": "DekuPalace"
+  },
+  {
+    "name": "deku_palace_soft_soil",
+    "display_name": "Deku Palace Soft Soil",
+    "region": "DekuPalace"
+  },
+  {
+    "name": "doggy_racetrack_soft_soil",
+    "display_name": "Doggy Racetrack Soft Soil",
+    "region": "RomaniRanch"
+  },
+  {
+    "name": "great_bay_coast_soft_soil",
+    "display_name": "Great Bay Coast Soft Soil",
+    "region": "GreatBayCoast"
+  },
+  {
+    "name": "ranch_day_1_soil",
+    "display_name": "Ranch Day 1 Soil",
+    "region": "RomaniRanch"
+  },
+  {
+    "name": "ranch_day_2_or_3_soil",
+    "display_name": "Ranch Day 2 or 3 Soil",
+    "region": "RomaniRanch"
+  },
+  {
+    "name": "secret_shrine_soft_soil",
+    "display_name": "Secret Shrine Soft Soil",
+    "region": "SecretShrine"
+  },
+  {
+    "name": "stone_tower_soft_soil_lower",
+    "display_name": "Stone Tower Soft Soil Lower",
+    "region": "StoneTower"
+  },
+  {
+    "name": "stone_tower_soft_soil_upper",
+    "display_name": "Stone Tower Soft Soil Upper",
+    "region": "StoneTower"
+  },
+  {
+    "name": "swamp_spider_house_rock_soft_soil",
+    "display_name": "Swamp Spider House Rock Soft Soil",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "swamp_spider_house_gold_room_soft_soil",
+    "display_name": "Swamp Spider House Gold Room Soft Soil",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "termina_field_stump_soft_soil",
+    "display_name": "Termina Field Stump Soft Soil",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_observatory_soft_soil",
+    "display_name": "Termina Field Observatory Soft Soil",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_south_wall_soft_soil",
+    "display_name": "Termina Field South Wall Soft Soil",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_pillar_soft_soil",
+    "display_name": "Termina Field Pillar Soft Soil",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_guay_1",
+    "display_name": "Termina Field Guay #1",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_guay_2",
+    "display_name": "Termina Field Guay #2",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_guay_3",
+    "display_name": "Termina Field Guay #3",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_guay_4",
+    "display_name": "Termina Field Guay #4",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_guay_5",
+    "display_name": "Termina Field Guay #5",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_guay_6",
+    "display_name": "Termina Field Guay #6",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_guay_7",
+    "display_name": "Termina Field Guay #7",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_guay_8",
+    "display_name": "Termina Field Guay #8",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_guay_9",
+    "display_name": "Termina Field Guay #9",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_guay_10",
+    "display_name": "Termina Field Guay #10",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_guay_11",
+    "display_name": "Termina Field Guay #11",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_guay_12",
+    "display_name": "Termina Field Guay #12",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_guay_13",
+    "display_name": "Termina Field Guay #13",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_guay_14",
+    "display_name": "Termina Field Guay #14",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_guay_15",
+    "display_name": "Termina Field Guay #15",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_guay_16",
+    "display_name": "Termina Field Guay #16",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_guay_17",
+    "display_name": "Termina Field Guay #17",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_guay_18",
+    "display_name": "Termina Field Guay #18",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_guay_19",
+    "display_name": "Termina Field Guay #19",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_guay_20",
+    "display_name": "Termina Field Guay #20",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_guay_5a",
+    "display_name": "Termina Field Guay #5a",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_guay_10a",
+    "display_name": "Termina Field Guay #10a",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_guay_15a",
+    "display_name": "Termina Field Guay #15a",
+    "region": "TerminaField"
+  },
+  {
+    "name": "deku_palace_rupee_cluster",
+    "display_name": "Deku Palace Rupee Cluster",
+    "region": "DekuPalace"
+  },
+  {
+    "name": "deku_palace_rupee_cluster_2",
+    "display_name": "Deku Palace Rupee Cluster 2",
+    "region": "DekuPalace"
+  },
+  {
+    "name": "deku_palace_rupee_cluster_3",
+    "display_name": "Deku Palace Rupee Cluster 3",
+    "region": "DekuPalace"
+  },
+  {
+    "name": "deku_palace_rupee_cluster_4",
+    "display_name": "Deku Palace Rupee Cluster 4",
+    "region": "DekuPalace"
+  },
+  {
+    "name": "deku_palace_rupee_cluster_5",
+    "display_name": "Deku Palace Rupee Cluster 5",
+    "region": "DekuPalace"
+  },
+  {
+    "name": "deku_palace_rupee_cluster_6",
+    "display_name": "Deku Palace Rupee Cluster 6",
+    "region": "DekuPalace"
+  },
+  {
+    "name": "deku_palace_rupee_cluster_7",
+    "display_name": "Deku Palace Rupee Cluster 7",
+    "region": "DekuPalace"
+  },
+  {
+    "name": "ikana_graveyard_rupee_cluster",
+    "display_name": "Ikana Graveyard Rupee Cluster",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "ikana_graveyard_rupee_cluster_2",
+    "display_name": "Ikana Graveyard Rupee Cluster 2",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "ikana_graveyard_rupee_cluster_3",
+    "display_name": "Ikana Graveyard Rupee Cluster 3",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "ikana_graveyard_rupee_cluster_4",
+    "display_name": "Ikana Graveyard Rupee Cluster 4",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "ikana_graveyard_rupee_cluster_5",
+    "display_name": "Ikana Graveyard Rupee Cluster 5",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "ikana_graveyard_rupee_cluster_6",
+    "display_name": "Ikana Graveyard Rupee Cluster 6",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "ikana_graveyard_rupee_cluster_7",
+    "display_name": "Ikana Graveyard Rupee Cluster 7",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "termina_field_song_wall_dawn",
+    "display_name": "Termina Field Song Wall Dawn",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_song_wall_dawn_2",
+    "display_name": "Termina Field Song Wall Dawn 2",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_song_wall_dawn_3",
+    "display_name": "Termina Field Song Wall Dawn 3",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_song_wall_0_8_12_16",
+    "display_name": "Termina Field Song Wall 0 / 8 / 12 / 16",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_song_wall_0_8_12_16_2",
+    "display_name": "Termina Field Song Wall 0 / 8 / 12 / 16 2",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_song_wall_0_8_12_16_3",
+    "display_name": "Termina Field Song Wall 0 / 8 / 12 / 16 3",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_song_wall_2_10_14_18_22",
+    "display_name": "Termina Field Song Wall 2 / 10 / 14 / 18 / 22",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_song_wall_2_10_14_18_22_2",
+    "display_name": "Termina Field Song Wall 2 / 10 / 14 / 18 / 22 2",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_song_wall_2_10_14_18_22_3",
+    "display_name": "Termina Field Song Wall 2 / 10 / 14 / 18 / 22 3",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_song_wall_4_20",
+    "display_name": "Termina Field Song Wall 4 / 20",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_song_wall_4_20_2",
+    "display_name": "Termina Field Song Wall 4 / 20 2",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_song_wall_4_20_3",
+    "display_name": "Termina Field Song Wall 4 / 20 3",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_song_wall_odd_hours",
+    "display_name": "Termina Field Song Wall Odd Hours",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_song_wall_odd_hours_2",
+    "display_name": "Termina Field Song Wall Odd Hours 2",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_song_wall_odd_hours_3",
+    "display_name": "Termina Field Song Wall Odd Hours 3",
+    "region": "TerminaField"
+  },
+  {
+    "name": "deku_playground_day_2_item",
+    "display_name": "Deku Playground Day 2 Item",
+    "region": "DekuPlaygroundItems"
+  },
+  {
+    "name": "deku_playground_day_2_item_2",
+    "display_name": "Deku Playground Day 2 Item 2",
+    "region": "DekuPlaygroundItems"
+  },
+  {
+    "name": "deku_playground_day_2_item_3",
+    "display_name": "Deku Playground Day 2 Item 3",
+    "region": "DekuPlaygroundItems"
+  },
+  {
+    "name": "deku_playground_day_2_item_4",
+    "display_name": "Deku Playground Day 2 Item 4",
+    "region": "DekuPlaygroundItems"
+  },
+  {
+    "name": "deku_playground_day_2_item_5",
+    "display_name": "Deku Playground Day 2 Item 5",
+    "region": "DekuPlaygroundItems"
+  },
+  {
+    "name": "deku_playground_day_2_item_6",
+    "display_name": "Deku Playground Day 2 Item 6",
+    "region": "DekuPlaygroundItems"
+  },
+  {
+    "name": "deku_playground_day_1_item",
+    "display_name": "Deku Playground Day 1 Item",
+    "region": "DekuPlaygroundItems"
+  },
+  {
+    "name": "deku_playground_day_1_item_2",
+    "display_name": "Deku Playground Day 1 Item 2",
+    "region": "DekuPlaygroundItems"
+  },
+  {
+    "name": "deku_playground_day_1_item_3",
+    "display_name": "Deku Playground Day 1 Item 3",
+    "region": "DekuPlaygroundItems"
+  },
+  {
+    "name": "deku_playground_day_1_item_4",
+    "display_name": "Deku Playground Day 1 Item 4",
+    "region": "DekuPlaygroundItems"
+  },
+  {
+    "name": "deku_playground_day_1_item_5",
+    "display_name": "Deku Playground Day 1 Item 5",
+    "region": "DekuPlaygroundItems"
+  },
+  {
+    "name": "deku_playground_day_1_item_6",
+    "display_name": "Deku Playground Day 1 Item 6",
+    "region": "DekuPlaygroundItems"
+  },
+  {
+    "name": "deku_playground_day_3_item",
+    "display_name": "Deku Playground Day 3 Item",
+    "region": "DekuPlaygroundItems"
+  },
+  {
+    "name": "deku_playground_day_3_item_2",
+    "display_name": "Deku Playground Day 3 Item 2",
+    "region": "DekuPlaygroundItems"
+  },
+  {
+    "name": "deku_playground_day_3_item_3",
+    "display_name": "Deku Playground Day 3 Item 3",
+    "region": "DekuPlaygroundItems"
+  },
+  {
+    "name": "deku_playground_day_3_item_4",
+    "display_name": "Deku Playground Day 3 Item 4",
+    "region": "DekuPlaygroundItems"
+  },
+  {
+    "name": "deku_playground_day_3_item_5",
+    "display_name": "Deku Playground Day 3 Item 5",
+    "region": "DekuPlaygroundItems"
+  },
+  {
+    "name": "deku_playground_day_3_item_6",
+    "display_name": "Deku Playground Day 3 Item 6",
+    "region": "DekuPlaygroundItems"
+  },
+  {
+    "name": "pirates_fortress_skull_flag_left_eye",
+    "display_name": "Pirates' Fortress Skull Flag Left Eye",
+    "region": "PiratesFortressInterior"
+  },
+  {
+    "name": "pirates_fortress_skull_flag_left_eye_2",
+    "display_name": "Pirates' Fortress Skull Flag Left Eye 2",
+    "region": "PiratesFortressInterior"
+  },
+  {
+    "name": "pirates_fortress_skull_flag_left_eye_3",
+    "display_name": "Pirates' Fortress Skull Flag Left Eye 3",
+    "region": "PiratesFortressInterior"
+  },
+  {
+    "name": "pirates_fortress_skull_flag_right_eye",
+    "display_name": "Pirates' Fortress Skull Flag Right Eye",
+    "region": "PiratesFortressInterior"
+  },
+  {
+    "name": "pirates_fortress_skull_flag_right_eye_2",
+    "display_name": "Pirates' Fortress Skull Flag Right Eye 2",
+    "region": "PiratesFortressInterior"
+  },
+  {
+    "name": "pirates_fortress_skull_flag_right_eye_3",
+    "display_name": "Pirates' Fortress Skull Flag Right Eye 3",
+    "region": "PiratesFortressInterior"
+  },
+  {
+    "name": "hookshot_room_skull_flag_forehead",
+    "display_name": "Hookshot Room Skull Flag Forehead",
+    "region": "PiratesFortressInterior"
+  },
+  {
+    "name": "hookshot_room_skull_flag_forehead_2",
+    "display_name": "Hookshot Room Skull Flag Forehead 2",
+    "region": "PiratesFortressInterior"
+  },
+  {
+    "name": "hookshot_room_skull_flag_forehead_3",
+    "display_name": "Hookshot Room Skull Flag Forehead 3",
+    "region": "PiratesFortressInterior"
+  },
+  {
+    "name": "swamp_spider_house_blue_gem",
+    "display_name": "Swamp Spider House Blue Gem",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "swamp_spider_house_blue_gem_2",
+    "display_name": "Swamp Spider House Blue Gem 2",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "swamp_spider_house_blue_gem_3",
+    "display_name": "Swamp Spider House Blue Gem 3",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "swamp_spider_house_blue_gem_4",
+    "display_name": "Swamp Spider House Blue Gem 4",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "swamp_spider_house_blue_gem_5",
+    "display_name": "Swamp Spider House Blue Gem 5",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "swamp_spider_house_blue_gem_6",
+    "display_name": "Swamp Spider House Blue Gem 6",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "swamp_spider_house_blue_gem_7",
+    "display_name": "Swamp Spider House Blue Gem 7",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "swamp_spider_house_blue_gem_8",
+    "display_name": "Swamp Spider House Blue Gem 8",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "swamp_spider_house_blue_gem_9",
+    "display_name": "Swamp Spider House Blue Gem 9",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "swamp_spider_house_blue_gem_10",
+    "display_name": "Swamp Spider House Blue Gem 10",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "swamp_spider_house_blue_gem_11",
+    "display_name": "Swamp Spider House Blue Gem 11",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "swamp_spider_house_blue_gem_12",
+    "display_name": "Swamp Spider House Blue Gem 12",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "oceanside_spider_house_mask",
+    "display_name": "Oceanside Spider House Mask",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "oceanside_spider_house_mask_2",
+    "display_name": "Oceanside Spider House Mask 2",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "oceanside_spider_house_mask_3",
+    "display_name": "Oceanside Spider House Mask 3",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "oceanside_spider_house_mask_4",
+    "display_name": "Oceanside Spider House Mask 4",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "oceanside_spider_house_mask_5",
+    "display_name": "Oceanside Spider House Mask 5",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "oceanside_spider_house_mask_6",
+    "display_name": "Oceanside Spider House Mask 6",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "oceanside_spider_house_mask_7",
+    "display_name": "Oceanside Spider House Mask 7",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "oceanside_spider_house_mask_8",
+    "display_name": "Oceanside Spider House Mask 8",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "oceanside_spider_house_mask_9",
+    "display_name": "Oceanside Spider House Mask 9",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "termina_field_clam",
+    "display_name": "Termina Field Clam",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_clam_2",
+    "display_name": "Termina Field Clam 2",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_clam_3",
+    "display_name": "Termina Field Clam 3",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_wall",
+    "display_name": "Termina Field Wall",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_wall_2",
+    "display_name": "Termina Field Wall 2",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_wall_3",
+    "display_name": "Termina Field Wall 3",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_skull_kid_drawing",
+    "display_name": "Termina Field Skull Kid Drawing",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_skull_kid_drawing_2",
+    "display_name": "Termina Field Skull Kid Drawing 2",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_skull_kid_drawing_3",
+    "display_name": "Termina Field Skull Kid Drawing 3",
+    "region": "TerminaField"
+  },
+  {
+    "name": "cucco_shack_diamond_hole",
+    "display_name": "Cucco Shack Diamond Hole",
+    "region": "RomaniRanch"
+  },
+  {
+    "name": "cucco_shack_diamond_hole_2",
+    "display_name": "Cucco Shack Diamond Hole 2",
+    "region": "RomaniRanch"
+  },
+  {
+    "name": "cucco_shack_diamond_hole_3",
+    "display_name": "Cucco Shack Diamond Hole 3",
+    "region": "RomaniRanch"
+  },
+  {
+    "name": "cucco_shack_diamond_hole_4",
+    "display_name": "Cucco Shack Diamond Hole 4",
+    "region": "RomaniRanch"
+  },
+  {
+    "name": "cucco_shack_diamond_hole_5",
+    "display_name": "Cucco Shack Diamond Hole 5",
+    "region": "RomaniRanch"
+  },
+  {
+    "name": "cucco_shack_diamond_hole_6",
+    "display_name": "Cucco Shack Diamond Hole 6",
+    "region": "RomaniRanch"
+  },
+  {
+    "name": "ikana_graveyard_lantern",
+    "display_name": "Ikana Graveyard Lantern",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "ikana_graveyard_lantern_2",
+    "display_name": "Ikana Graveyard Lantern 2",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "ikana_graveyard_lantern_3",
+    "display_name": "Ikana Graveyard Lantern 3",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "ikana_graveyard_lantern_4",
+    "display_name": "Ikana Graveyard Lantern 4",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "ikana_graveyard_lantern_5",
+    "display_name": "Ikana Graveyard Lantern 5",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "ikana_graveyard_lantern_6",
+    "display_name": "Ikana Graveyard Lantern 6",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "ikana_graveyard_lantern_7",
+    "display_name": "Ikana Graveyard Lantern 7",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "ikana_graveyard_lantern_8",
+    "display_name": "Ikana Graveyard Lantern 8",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "ikana_graveyard_lantern_9",
+    "display_name": "Ikana Graveyard Lantern 9",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "ikana_graveyard_lantern_10",
+    "display_name": "Ikana Graveyard Lantern 10",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "ikana_graveyard_lantern_11",
+    "display_name": "Ikana Graveyard Lantern 11",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "ikana_graveyard_lantern_12",
+    "display_name": "Ikana Graveyard Lantern 12",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "stock_pot_inn_mask",
+    "display_name": "Stock Pot Inn Mask",
+    "region": "StockPotInn"
+  },
+  {
+    "name": "stock_pot_inn_mask_2",
+    "display_name": "Stock Pot Inn Mask 2",
+    "region": "StockPotInn"
+  },
+  {
+    "name": "stock_pot_inn_mask_3",
+    "display_name": "Stock Pot Inn Mask 3",
+    "region": "StockPotInn"
+  },
+  {
+    "name": "east_clock_town_target",
+    "display_name": "East Clock Town Target",
+    "region": "EastClockTown"
+  },
+  {
+    "name": "east_clock_town_target_2",
+    "display_name": "East Clock Town Target 2",
+    "region": "EastClockTown"
+  },
+  {
+    "name": "east_clock_town_target_3",
+    "display_name": "East Clock Town Target 3",
+    "region": "EastClockTown"
+  },
+  {
+    "name": "east_clock_town_target_4",
+    "display_name": "East Clock Town Target 4",
+    "region": "EastClockTown"
+  },
+  {
+    "name": "east_clock_town_target_5",
+    "display_name": "East Clock Town Target 5",
+    "region": "EastClockTown"
+  },
+  {
+    "name": "east_clock_town_target_6",
+    "display_name": "East Clock Town Target 6",
+    "region": "EastClockTown"
+  },
+  {
+    "name": "east_clock_town_basket",
+    "display_name": "East Clock Town Basket",
+    "region": "EastClockTown"
+  },
+  {
+    "name": "east_clock_town_basket_2",
+    "display_name": "East Clock Town Basket 2",
+    "region": "EastClockTown"
+  },
+  {
+    "name": "east_clock_town_basket_3",
+    "display_name": "East Clock Town Basket 3",
+    "region": "EastClockTown"
+  },
+  {
+    "name": "clock_tower_clock",
+    "display_name": "Clock Tower Clock",
+    "region": "SouthClockTown"
+  },
+  {
+    "name": "clock_tower_clock_2",
+    "display_name": "Clock Tower Clock 2",
+    "region": "SouthClockTown"
+  },
+  {
+    "name": "clock_tower_clock_3",
+    "display_name": "Clock Tower Clock 3",
+    "region": "SouthClockTown"
+  },
+  {
+    "name": "takkuri",
+    "display_name": "Takkuri",
+    "region": "TerminaField"
+  },
+  {
+    "name": "hookshot_room_pot",
+    "display_name": "Hookshot Room Pot",
+    "region": "PiratesFortressInterior"
+  },
+  {
+    "name": "hookshot_room_pot_2",
+    "display_name": "Hookshot Room Pot 2",
+    "region": "PiratesFortressInterior"
+  },
+  {
+    "name": "termina_field_rock",
+    "display_name": "Termina Field Rock",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_rock_2",
+    "display_name": "Termina Field Rock 2",
+    "region": "TerminaField"
+  },
+  {
+    "name": "ikana_graveyard_highest_rock",
+    "display_name": "Ikana Graveyard Highest Rock",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "ikana_graveyard_lowest_rock",
+    "display_name": "Ikana Graveyard Lowest Rock",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "ikana_graveyard_2nd_lowest_rock",
+    "display_name": "Ikana Graveyard 2nd Lowest Rock",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "termina_field_rock_3",
+    "display_name": "Termina Field Rock 3",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_rock_4",
+    "display_name": "Termina Field Rock 4",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_rock_5",
+    "display_name": "Termina Field Rock 5",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_rock_6",
+    "display_name": "Termina Field Rock 6",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_rock_7",
+    "display_name": "Termina Field Rock 7",
+    "region": "TerminaField"
+  },
+  {
+    "name": "ikana_graveyard_2nd_highest_rock",
+    "display_name": "Ikana Graveyard 2nd Highest Rock",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "ikana_graveyard_middle_rock",
+    "display_name": "Ikana Graveyard Middle Rock",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "termina_field_rock_8",
+    "display_name": "Termina Field Rock 8",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_rock_9",
+    "display_name": "Termina Field Rock 9",
+    "region": "TerminaField"
+  },
+  {
+    "name": "milk_road_keaton_grass",
+    "display_name": "Milk Road Keaton Grass",
+    "region": "MilkRoad"
+  },
+  {
+    "name": "milk_road_keaton_grass_2",
+    "display_name": "Milk Road Keaton Grass 2",
+    "region": "MilkRoad"
+  },
+  {
+    "name": "milk_road_keaton_grass_3",
+    "display_name": "Milk Road Keaton Grass 3",
+    "region": "MilkRoad"
+  },
+  {
+    "name": "milk_road_keaton_grass_4",
+    "display_name": "Milk Road Keaton Grass 4",
+    "region": "MilkRoad"
+  },
+  {
+    "name": "milk_road_keaton_grass_5",
+    "display_name": "Milk Road Keaton Grass 5",
+    "region": "MilkRoad"
+  },
+  {
+    "name": "milk_road_keaton_grass_6",
+    "display_name": "Milk Road Keaton Grass 6",
+    "region": "MilkRoad"
+  },
+  {
+    "name": "milk_road_keaton_grass_7",
+    "display_name": "Milk Road Keaton Grass 7",
+    "region": "MilkRoad"
+  },
+  {
+    "name": "milk_road_keaton_grass_8",
+    "display_name": "Milk Road Keaton Grass 8",
+    "region": "MilkRoad"
+  },
+  {
+    "name": "milk_road_keaton_grass_9",
+    "display_name": "Milk Road Keaton Grass 9",
+    "region": "MilkRoad"
+  },
+  {
+    "name": "north_clock_town_keaton_grass",
+    "display_name": "North Clock Town Keaton Grass",
+    "region": "NorthClockTown"
+  },
+  {
+    "name": "north_clock_town_keaton_grass_2",
+    "display_name": "North Clock Town Keaton Grass 2",
+    "region": "NorthClockTown"
+  },
+  {
+    "name": "north_clock_town_keaton_grass_3",
+    "display_name": "North Clock Town Keaton Grass 3",
+    "region": "NorthClockTown"
+  },
+  {
+    "name": "north_clock_town_keaton_grass_4",
+    "display_name": "North Clock Town Keaton Grass 4",
+    "region": "NorthClockTown"
+  },
+  {
+    "name": "north_clock_town_keaton_grass_5",
+    "display_name": "North Clock Town Keaton Grass 5",
+    "region": "NorthClockTown"
+  },
+  {
+    "name": "north_clock_town_keaton_grass_6",
+    "display_name": "North Clock Town Keaton Grass 6",
+    "region": "NorthClockTown"
+  },
+  {
+    "name": "north_clock_town_keaton_grass_7",
+    "display_name": "North Clock Town Keaton Grass 7",
+    "region": "NorthClockTown"
+  },
+  {
+    "name": "north_clock_town_keaton_grass_8",
+    "display_name": "North Clock Town Keaton Grass 8",
+    "region": "NorthClockTown"
+  },
+  {
+    "name": "north_clock_town_keaton_grass_9",
+    "display_name": "North Clock Town Keaton Grass 9",
+    "region": "NorthClockTown"
+  },
+  {
+    "name": "mountain_village_spring_keaton_grass",
+    "display_name": "Mountain Village Spring Keaton Grass",
+    "region": "MountainVillage"
+  },
+  {
+    "name": "mountain_village_spring_keaton_grass_2",
+    "display_name": "Mountain Village Spring Keaton Grass 2",
+    "region": "MountainVillage"
+  },
+  {
+    "name": "mountain_village_spring_keaton_grass_3",
+    "display_name": "Mountain Village Spring Keaton Grass 3",
+    "region": "MountainVillage"
+  },
+  {
+    "name": "mountain_village_spring_keaton_grass_4",
+    "display_name": "Mountain Village Spring Keaton Grass 4",
+    "region": "MountainVillage"
+  },
+  {
+    "name": "mountain_village_spring_keaton_grass_5",
+    "display_name": "Mountain Village Spring Keaton Grass 5",
+    "region": "MountainVillage"
+  },
+  {
+    "name": "mountain_village_spring_keaton_grass_6",
+    "display_name": "Mountain Village Spring Keaton Grass 6",
+    "region": "MountainVillage"
+  },
+  {
+    "name": "mountain_village_spring_keaton_grass_7",
+    "display_name": "Mountain Village Spring Keaton Grass 7",
+    "region": "MountainVillage"
+  },
+  {
+    "name": "mountain_village_spring_keaton_grass_8",
+    "display_name": "Mountain Village Spring Keaton Grass 8",
+    "region": "MountainVillage"
+  },
+  {
+    "name": "mountain_village_spring_keaton_grass_9",
+    "display_name": "Mountain Village Spring Keaton Grass 9",
+    "region": "MountainVillage"
+  },
+  {
+    "name": "oceanside_spider_house_mask_room_pot",
+    "display_name": "Oceanside Spider House Mask Room Pot",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "oceanside_spider_house_mask_room_pot_2",
+    "display_name": "Oceanside Spider House Mask Room Pot 2",
+    "region": "OceanSpiderHouseItems"
+  },
+  {
+    "name": "ikana_canyon_cleared_grass",
+    "display_name": "Ikana Canyon Cleared Grass",
+    "region": "IkanaCanyon"
+  },
+  {
+    "name": "ikana_canyon_cleared_grass_2",
+    "display_name": "Ikana Canyon Cleared Grass 2",
+    "region": "IkanaCanyon"
+  },
+  {
+    "name": "ikana_canyon_cleared_grass_3",
+    "display_name": "Ikana Canyon Cleared Grass 3",
+    "region": "IkanaCanyon"
+  },
+  {
+    "name": "path_to_snowhead_spring_snowball",
+    "display_name": "Path to Snowhead Spring Snowball",
+    "region": "PathToSnowhead"
+  },
+  {
+    "name": "path_to_snowhead_spring_snowball_2",
+    "display_name": "Path to Snowhead Spring Snowball 2",
+    "region": "PathToSnowhead"
+  },
+  {
+    "name": "path_to_snowhead_spring_snowball_3",
+    "display_name": "Path to Snowhead Spring Snowball 3",
+    "region": "PathToSnowhead"
+  },
+  {
+    "name": "path_to_snowhead_spring_snowball_4",
+    "display_name": "Path to Snowhead Spring Snowball 4",
+    "region": "PathToSnowhead"
+  },
+  {
+    "name": "path_to_mountain_village_spring_snowball",
+    "display_name": "Path to Mountain Village Spring Snowball",
+    "region": "PathToMountainVillage"
+  },
+  {
+    "name": "path_to_mountain_village_spring_snowball_2",
+    "display_name": "Path to Mountain Village Spring Snowball 2",
+    "region": "PathToMountainVillage"
+  },
+  {
+    "name": "path_to_mountain_village_spring_snowball_3",
+    "display_name": "Path to Mountain Village Spring Snowball 3",
+    "region": "PathToMountainVillage"
+  },
+  {
+    "name": "zora_cape_jar_game",
+    "display_name": "Zora Cape Jar Game",
+    "region": "ZoraCape"
+  },
+  {
+    "name": "ikana_graveyard_day_2_bats",
+    "display_name": "Ikana Graveyard Day 2 Bats",
+    "region": "IkanaGraveyard"
+  },
+  {
+    "name": "cucco_shack_potted_plant",
+    "display_name": "Cucco Shack Potted Plant",
+    "region": "RomaniRanch"
+  },
+  {
+    "name": "notebook_meeting_romani",
+    "display_name": "Notebook Meeting: Romani",
+    "region": "RomaniRanch"
+  },
+  {
+    "name": "notebook_meeting_cremia",
+    "display_name": "Notebook Meeting: Cremia",
+    "region": "RomaniRanch"
+  },
+  {
+    "name": "notebook_meeting_mayor_dotour",
+    "display_name": "Notebook Meeting: Mayor Dotour",
+    "region": "EastClockTown"
+  },
+  {
+    "name": "notebook_meeting_madame_aroma",
+    "display_name": "Notebook Meeting: Madame Aroma",
+    "region": "EastClockTown"
+  },
+  {
+    "name": "notebook_meeting_toto",
+    "display_name": "Notebook Meeting: Toto",
+    "region": "EastClockTown"
+  },
+  {
+    "name": "notebook_meeting_the_toilet_hand",
+    "display_name": "Notebook Meeting: The Toilet Hand",
+    "region": "StockPotInn"
+  },
+  {
+    "name": "notebook_meeting_kamaro",
+    "display_name": "Notebook Meeting: Kamaro",
+    "region": "TerminaField"
+  },
+  {
+    "name": "notebook_meeting_grog",
+    "display_name": "Notebook Meeting: Grog",
+    "region": "RomaniRanch"
+  },
+  {
+    "name": "notebook_meeting_the_gorman_brothers",
+    "display_name": "Notebook Meeting: The Gorman Brothers",
+    "region": "MilkRoad"
+  },
+  {
+    "name": "notebook_meeting_shiro",
+    "display_name": "Notebook Meeting: Shiro",
+    "region": "RoadToIkana"
+  },
+  {
+    "name": "inn_reservation",
+    "display_name": "Inn Reservation",
+    "region": "StockPotInn"
+  },
+  {
+    "name": "setting_up_midnight_meeting",
+    "display_name": "Setting up Midnight Meeting",
+    "region": "StockPotInn"
+  },
+  {
+    "name": "midnight_meeting",
+    "display_name": "Midnight Meeting",
+    "region": "StockPotInn"
+  },
+  {
+    "name": "kafei",
+    "display_name": "Kafei",
+    "region": "LaundryPool"
+  },
+  {
+    "name": "deliver_the_pendant_of_memories",
+    "display_name": "Deliver the Pendant of Memories",
+    "region": "StockPotInn"
+  },
+  {
+    "name": "escaping_from_sakons_hideout",
+    "display_name": "Escaping from Sakon's Hideout",
+    "region": "IkanaCanyon"
+  },
+  {
+    "name": "romanis_game",
+    "display_name": "Romani's Game",
+    "region": "RomaniRanch"
+  },
+  {
+    "name": "aliens_defense",
+    "display_name": "Aliens Defense",
+    "region": "RomaniRanch"
+  },
+  {
+    "name": "cremia",
+    "display_name": "Cremia",
+    "region": "RomaniRanch"
+  },
+  {
+    "name": "curiosity_shop_man_1",
+    "display_name": "Curiosity Shop Man #1",
+    "region": "LaundryPool"
+  },
+  {
+    "name": "curiosity_shop_man_2",
+    "display_name": "Curiosity Shop Man #2",
+    "region": "LaundryPool"
+  },
+  {
+    "name": "madame_aroma_in_bar",
+    "display_name": "Madame Aroma in Bar",
+    "region": "EastClockTown"
+  },
+  {
+    "name": "mayor",
+    "display_name": "Mayor",
+    "region": "EastClockTown"
+  },
+  {
+    "name": "rosa_sisters",
+    "display_name": "Rosa Sisters",
+    "region": "WestClockTown"
+  },
+  {
+    "name": "toilet_hand",
+    "display_name": "Toilet Hand",
+    "region": "StockPotInn"
+  },
+  {
+    "name": "grandma_short_story",
+    "display_name": "Grandma Short Story",
+    "region": "StockPotInn"
+  },
+  {
+    "name": "grandma_long_story",
+    "display_name": "Grandma Long Story",
+    "region": "StockPotInn"
+  },
+  {
+    "name": "postmans_game",
+    "display_name": "Postman's Game",
+    "region": "WestClockTown"
+  },
+  {
+    "name": "madame_aroma_in_office",
+    "display_name": "Madame Aroma in Office",
+    "region": "EastClockTown"
+  },
+  {
+    "name": "allnight_mask_purchase",
+    "display_name": "All-Night Mask Purchase",
+    "region": "WestClockTown"
+  },
+  {
+    "name": "grog",
+    "display_name": "Grog",
+    "region": "RomaniRanch"
+  },
+  {
+    "name": "gorman_bros_race",
+    "display_name": "Gorman Bros Race",
+    "region": "MilkRoad"
+  },
+  {
+    "name": "gorman",
+    "display_name": "Gorman",
+    "region": "EastClockTown"
+  },
+  {
+    "name": "postmans_freedom_reward",
+    "display_name": "Postman's Freedom Reward",
+    "region": "EastClockTown"
+  },
+  {
+    "name": "anju_and_kafei",
+    "display_name": "Anju and Kafei",
+    "region": "StockPotInn"
+  },
+  {
+    "name": "old_lady",
+    "display_name": "Old Lady",
+    "region": "NorthClockTown"
+  },
+  {
+    "name": "kamaro",
+    "display_name": "Kamaro",
+    "region": "TerminaField"
+  },
+  {
+    "name": "invisible_soldier",
+    "display_name": "Invisible Soldier",
+    "region": "RoadToIkana"
+  },
+  {
+    "name": "guruguru",
+    "display_name": "Guru-Guru",
+    "region": "LaundryPool"
+  },
+  {
+    "name": "ikana_castle_courtyard_pot",
+    "display_name": "Ikana Castle Courtyard Pot",
+    "region": "IkanaCastle"
+  },
+  {
+    "name": "ikana_castle_hole_room_pot_3",
+    "display_name": "Ikana Castle Hole Room Pot 3",
+    "region": "IkanaCastle"
+  },
+  {
+    "name": "ikana_castle_hole_room_pot_4",
+    "display_name": "Ikana Castle Hole Room Pot 4",
+    "region": "IkanaCastle"
+  },
+  {
+    "name": "great_bay_coast_pot_8",
+    "display_name": "Great Bay Coast Pot 8",
+    "region": "GreatBayCoast"
+  },
+  {
+    "name": "great_bay_temple_entrance_room_barrel",
+    "display_name": "Great Bay Temple Entrance Room Barrel",
+    "region": "GreatBayTemple"
+  },
+  {
+    "name": "ikana_canyon_cleared_grass_4",
+    "display_name": "Ikana Canyon Cleared Grass 4",
+    "region": "IkanaCanyon"
+  },
+  {
+    "name": "ikana_canyon_grass_4",
+    "display_name": "Ikana Canyon Grass 4",
+    "region": "IkanaCanyon"
+  },
+  {
+    "name": "milk_road_grass_3",
+    "display_name": "Milk Road Grass 3",
+    "region": "MilkRoad"
+  },
+  {
+    "name": "mountain_village_spring_pot",
+    "display_name": "Mountain Village Spring Pot",
+    "region": "MountainVillage"
+  },
+  {
+    "name": "mountain_village_spring_snowball_4",
+    "display_name": "Mountain Village Spring Snowball 4",
+    "region": "MountainVillage"
+  },
+  {
+    "name": "mountain_village_winter_pot",
+    "display_name": "Mountain Village Winter Pot",
+    "region": "MountainVillage"
+  },
+  {
+    "name": "mountain_village_winter_small_snowball_6",
+    "display_name": "Mountain Village Winter Small Snowball 6",
+    "region": "MountainVillage"
+  },
+  {
+    "name": "road_to_ikana_pot",
+    "display_name": "Road to Ikana Pot",
+    "region": "RoadToIkana"
+  },
+  {
+    "name": "secret_shrine_underwater_pot_5",
+    "display_name": "Secret Shrine Underwater Pot 5",
+    "region": "SecretShrine"
+  },
+  {
+    "name": "snowhead_small_snowball_4",
+    "display_name": "Snowhead Small Snowball 4",
+    "region": "Snowhead"
+  },
+  {
+    "name": "snowhead_main_room_pot",
+    "display_name": "Snowhead Main Room Pot",
+    "region": "SnowheadTemple"
+  },
+  {
+    "name": "cleared_swamp_owl_grass_2",
+    "display_name": "Cleared Swamp Owl Grass 2",
+    "region": "SouthernSwamp"
+  },
+  {
+    "name": "southern_swamp_owl_grass_2",
+    "display_name": "Southern Swamp Owl Grass 2",
+    "region": "SouthernSwamp"
+  },
+  {
+    "name": "stone_tower_lower_scarecrow_pot_4",
+    "display_name": "Stone Tower Lower Scarecrow Pot 4",
+    "region": "StoneTower"
+  },
+  {
+    "name": "stone_tower_lower_scarecrow_pot_5",
+    "display_name": "Stone Tower Lower Scarecrow Pot 5",
+    "region": "StoneTower"
+  },
+  {
+    "name": "stone_tower_upper_scarecrow_pot_5",
+    "display_name": "Stone Tower Upper Scarecrow Pot 5",
+    "region": "StoneTower"
+  },
+  {
+    "name": "stone_tower_owl_pot_4",
+    "display_name": "Stone Tower Owl Pot 4",
+    "region": "StoneTower"
+  },
+  {
+    "name": "inverted_stone_tower_pot_3",
+    "display_name": "Inverted Stone Tower Pot 3",
+    "region": "StoneTower"
+  },
+  {
+    "name": "stone_tower_temple_wizzrobe_pot",
+    "display_name": "Stone Tower Temple Wizzrobe Pot",
+    "region": "StoneTowerTemple"
+  },
+  {
+    "name": "termina_field_pillar_pot",
+    "display_name": "Termina Field Pillar Pot",
+    "region": "TerminaField"
+  },
+  {
+    "name": "woodfall_pot_3",
+    "display_name": "Woodfall Pot 3",
+    "region": "Woodfall"
+  },
+  {
+    "name": "woodfall_temple_entrance_pot",
+    "display_name": "Woodfall Temple Entrance Pot",
+    "region": "WoodfallTemple"
+  },
+  {
+    "name": "zora_cape_owl_pot_4",
+    "display_name": "Zora Cape Owl Pot 4",
+    "region": "ZoraCape"
+  },
+  {
+    "name": "cucco_shack_gossip_fairy",
+    "display_name": "Cucco Shack Gossip Fairy",
+    "region": "RomaniRanch"
+  },
+  {
+    "name": "doggy_racetrack_gossip_fairy",
+    "display_name": "Doggy Racetrack Gossip Fairy",
+    "region": "RomaniRanch"
+  },
+  {
+    "name": "great_bay_coast_gossip_fairy",
+    "display_name": "Great Bay Coast Gossip Fairy",
+    "region": "GreatBayCoast"
+  },
+  {
+    "name": "gossip_grotto_fairy",
+    "display_name": "Gossip Grotto Fairy",
+    "region": "TerminaField"
+  },
+  {
+    "name": "ikana_canyon_dock_gossip_fairy",
+    "display_name": "Ikana Canyon Dock Gossip Fairy",
+    "region": "IkanaCanyon"
+  },
+  {
+    "name": "ikana_canyon_spirit_house_gossip_fairy",
+    "display_name": "Ikana Canyon Spirit House Gossip Fairy",
+    "region": "IkanaCanyon"
+  },
+  {
+    "name": "ikana_canyon_ravine_gossip_fairy",
+    "display_name": "Ikana Canyon Ravine Gossip Fairy",
+    "region": "IkanaCanyon"
+  },
+  {
+    "name": "milk_road_gossip_fairy",
+    "display_name": "Milk Road Gossip Fairy",
+    "region": "MilkRoad"
+  },
+  {
+    "name": "mountain_village_spring_path_gossip_fairy",
+    "display_name": "Mountain Village Spring Path Gossip Fairy",
+    "region": "MountainVillage"
+  },
+  {
+    "name": "mountain_village_spring_frog_gossip_fairy",
+    "display_name": "Mountain Village Spring Frog Gossip Fairy",
+    "region": "MountainVillage"
+  },
+  {
+    "name": "path_to_mountain_village_gossip_fairy",
+    "display_name": "Path to Mountain Village Gossip Fairy",
+    "region": "PathToMountainVillage"
+  },
+  {
+    "name": "road_to_ikana_gossip_fairy",
+    "display_name": "Road to Ikana Gossip Fairy",
+    "region": "RoadToIkana"
+  },
+  {
+    "name": "road_to_southern_swamp_gossip_fairy",
+    "display_name": "Road to Southern Swamp Gossip Fairy",
+    "region": "RoadToSouthernSwamp"
+  },
+  {
+    "name": "ranch_entrance_gossip_fairy",
+    "display_name": "Ranch Entrance Gossip Fairy",
+    "region": "RomaniRanch"
+  },
+  {
+    "name": "ranch_tree_gossip_fairy",
+    "display_name": "Ranch Tree Gossip Fairy",
+    "region": "RomaniRanch"
+  },
+  {
+    "name": "ranch_barn_gossip_fairy",
+    "display_name": "Ranch Barn Gossip Fairy",
+    "region": "RomaniRanch"
+  },
+  {
+    "name": "southern_swamp_gossip_fairy",
+    "display_name": "Southern Swamp Gossip Fairy",
+    "region": "SouthernSwamp"
+  },
+  {
+    "name": "swamp_spider_house_gossip_fairy",
+    "display_name": "Swamp Spider House Gossip Fairy",
+    "region": "SwampSpiderHouseItems"
+  },
+  {
+    "name": "termina_field_observatory_gossip_fairy",
+    "display_name": "Termina Field Observatory Gossip Fairy",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_east_gossip_fairy",
+    "display_name": "Termina Field East Gossip Fairy",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_south_gossip_fairy",
+    "display_name": "Termina Field South Gossip Fairy",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_north_gossip_fairy",
+    "display_name": "Termina Field North Gossip Fairy",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_west_gossip_fairy",
+    "display_name": "Termina Field West Gossip Fairy",
+    "region": "TerminaField"
+  },
+  {
+    "name": "termina_field_milk_gossip_fairy",
+    "display_name": "Termina Field Milk Gossip Fairy",
+    "region": "TerminaField"
+  },
+  {
+    "name": "deku_trial_left_closer_gossip_fairy",
+    "display_name": "Deku Trial Left Closer Gossip Fairy",
+    "region": "TheMoon"
+  },
+  {
+    "name": "deku_trial_right_closer_gossip_fairy",
+    "display_name": "Deku Trial Right Closer Gossip Fairy",
+    "region": "TheMoon"
+  },
+  {
+    "name": "deku_trial_left_middle_gossip_fairy",
+    "display_name": "Deku Trial Left Middle Gossip Fairy",
+    "region": "TheMoon"
+  },
+  {
+    "name": "deku_trial_right_middle_gossip_fairy",
+    "display_name": "Deku Trial Right Middle Gossip Fairy",
+    "region": "TheMoon"
+  },
+  {
+    "name": "deku_trial_right_further_gossip_fairy",
+    "display_name": "Deku Trial Right Further Gossip Fairy",
+    "region": "TheMoon"
+  },
+  {
+    "name": "goron_trial_end_gossip_fairy",
+    "display_name": "Goron Trial End Gossip Fairy",
+    "region": "TheMoon"
+  },
+  {
+    "name": "goron_trial_second_set_gossip_fairy",
+    "display_name": "Goron Trial Second Set Gossip Fairy",
+    "region": "TheMoon"
+  },
+  {
+    "name": "goron_trial_second_set_gossip_fairy_2",
+    "display_name": "Goron Trial Second Set Gossip Fairy 2",
+    "region": "TheMoon"
+  },
+  {
+    "name": "goron_trial_first_set_gossip_fairy",
+    "display_name": "Goron Trial First Set Gossip Fairy",
+    "region": "TheMoon"
+  },
+  {
+    "name": "goron_trial_first_set_gossip_fairy_2",
+    "display_name": "Goron Trial First Set Gossip Fairy 2",
+    "region": "TheMoon"
+  },
+  {
+    "name": "link_trial_first_gossip_fairy",
+    "display_name": "Link Trial First Gossip Fairy",
+    "region": "TheMoon"
+  },
+  {
+    "name": "link_trial_second_gossip_fairy",
+    "display_name": "Link Trial Second Gossip Fairy",
+    "region": "TheMoon"
+  },
+  {
+    "name": "link_trial_iron_knuckle_fairy",
+    "display_name": "Link Trial Iron Knuckle Fairy",
+    "region": "TheMoon"
+  },
+  {
+    "name": "link_trial_iron_knuckle_fairy_2",
+    "display_name": "Link Trial Iron Knuckle Fairy 2",
+    "region": "TheMoon"
+  },
+  {
+    "name": "link_trial_last_gossip_fairy",
+    "display_name": "Link Trial Last Gossip Fairy",
+    "region": "TheMoon"
+  },
+  {
+    "name": "zora_trial_gossip_fairy",
+    "display_name": "Zora Trial Gossip Fairy",
+    "region": "TheMoon"
+  },
+  {
+    "name": "zora_trial_gossip_fairy_2",
+    "display_name": "Zora Trial Gossip Fairy 2",
+    "region": "TheMoon"
+  },
+  {
+    "name": "zora_trial_gossip_fairy_3",
+    "display_name": "Zora Trial Gossip Fairy 3",
+    "region": "TheMoon"
+  },
+  {
+    "name": "zora_trial_gossip_fairy_4",
+    "display_name": "Zora Trial Gossip Fairy 4",
+    "region": "TheMoon"
+  },
+  {
+    "name": "zora_trial_gossip_fairy_5",
+    "display_name": "Zora Trial Gossip Fairy 5",
+    "region": "TheMoon"
+  },
+  {
+    "name": "zora_cape_gossip_fairy",
+    "display_name": "Zora Cape Gossip Fairy",
+    "region": "ZoraCape"
+  },
+  {
+    "name": "great_bay_coast_butterfly_fairy",
+    "display_name": "Great Bay Coast Butterfly Fairy",
+    "region": "GreatBayCoast"
+  },
+  {
+    "name": "termina_field_west_gossip_grotto_butterfly_fairy",
+    "display_name": "Termina Field West Gossip Grotto Butterfly Fairy",
+    "region": "TerminaField"
+  },
+  {
+    "name": "bean_man_butterfly_fairy",
+    "display_name": "Bean Man Butterfly Fairy",
+    "region": "DekuPalace"
+  },
+  {
+    "name": "termina_field_cow_grotto_butterfly_fairy",
+    "display_name": "Termina Field Cow Grotto Butterfly Fairy",
+    "region": "TerminaField"
+  },
+  {
+    "name": "great_bay_coast_cow_grotto_butterfly_fairy",
+    "display_name": "Great Bay Coast Cow Grotto Butterfly Fairy",
+    "region": "GreatBayCoast"
+  },
+  {
+    "name": "mountain_village_spring_butterfly_fairy",
+    "display_name": "Mountain Village Spring Butterfly Fairy",
+    "region": "MountainVillage"
+  },
+  {
+    "name": "mountain_village_spring_butterfly_fairy_2",
+    "display_name": "Mountain Village Spring Butterfly Fairy 2",
+    "region": "MountainVillage"
+  },
+  {
+    "name": "near_peahat_grotto_butterfly_fairy",
+    "display_name": "Near Peahat Grotto Butterfly Fairy",
+    "region": "TerminaField"
+  },
+  {
+    "name": "frog_in_woodfall_temple",
+    "display_name": "Frog in Woodfall Temple",
+    "region": "WoodfallTemple"
+  },
+  {
+    "name": "frog_in_great_bay_temple",
+    "display_name": "Frog in Great Bay Temple",
+    "region": "GreatBayTemple"
+  },
+  {
+    "name": "frog_in_the_swamp",
+    "display_name": "Frog in the Swamp",
+    "region": "SouthernSwamp"
+  },
+  {
+    "name": "frog_in_the_laundry_pool",
+    "display_name": "Frog in the Laundry Pool",
+    "region": "LaundryPool"
+  },
+  {
+    "name": "well_fountain_fairy_1",
+    "display_name": "Well Fountain Fairy 1",
+    "region": "BeneathTheWell"
+  },
+  {
+    "name": "well_fountain_fairy_2",
+    "display_name": "Well Fountain Fairy 2",
+    "region": "BeneathTheWell"
+  },
+  {
+    "name": "well_fountain_fairy_3",
+    "display_name": "Well Fountain Fairy 3",
+    "region": "BeneathTheWell"
+  },
+  {
+    "name": "well_fountain_fairy_4",
+    "display_name": "Well Fountain Fairy 4",
+    "region": "BeneathTheWell"
+  },
+  {
+    "name": "well_fountain_fairy_5",
+    "display_name": "Well Fountain Fairy 5",
+    "region": "BeneathTheWell"
+  },
+  {
+    "name": "well_fountain_fairy_6",
+    "display_name": "Well Fountain Fairy 6",
+    "region": "BeneathTheWell"
+  },
+  {
+    "name": "well_fountain_fairy_7",
+    "display_name": "Well Fountain Fairy 7",
+    "region": "BeneathTheWell"
+  },
+  {
+    "name": "well_fountain_fairy_8",
+    "display_name": "Well Fountain Fairy 8",
+    "region": "BeneathTheWell"
+  }
+]

@@ -1,0 +1,42 @@
+{
+    "dungeons": [
+        {
+            "name": "woodfall",
+            "displayName": "Woodfall Temple"
+        },
+        {
+            "name": "snowhead",
+            "displayName": "Snowhead"
+        },
+        {
+            "name": "great_bay",
+            "displayName": "Great Bay"
+        },
+        {
+            "name": "stone_tower",
+            "displayName": "Stone Tower"
+        },
+        {
+            "name": "inverted_stone_tower",
+            "displayName": "Inverted Stone Tower"
+        }
+    ],
+    "boss_entrances": [
+        {
+            "name": "odolwas_lair",
+            "displayName": "Odolwa's Lair"
+        },
+        {
+            "name": "gohts_lair",
+            "displayName": "Goht's Lair"
+        },
+        {
+            "name": "gyorgs_lair",
+            "displayName": "Gyorg's Lair"
+        },
+        {
+            "name": "twinmold_lair",
+            "displayName": "Twinmold's Lair"
+        }
+    ]
+}

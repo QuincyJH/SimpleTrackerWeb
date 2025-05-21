@@ -1,0 +1,72 @@
+version: "3.9"
+
+services:
+  
+  frontend:
+    container_name: mm_frontend
+    build: ./client
+    ports:
+      - "5173:5173"
+    depends_on:
+      - backend
+    volumes:
+      - ./client:/app
+      - /app/node_modules
+    networks:
+      - app-network
+
+  backend:
+    container_name: mm_backend
+    build: ./server
+    ports:
+      - "8000:8000"
+    depends_on:
+      - postgres
+    volumes:
+      - ./server:/app
+    environment:
+      DATABASE_URL: postgres://postgres:password@postgres:5432/database
+    networks:
+      - app-network
+
+  postgres:
+    container_name: mm_db
+    image: postgres:16
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5433:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=password
+      - POSTGRES_DB=mm_db
+    networks:
+      - app-network
+
+  flyway:
+    container_name: mm_flyway
+    image: flyway/flyway:10.17.1
+    volumes:
+      - ./server/db/flyway/migrations:/flyway/sql
+      - ./server/db/flyway/flyway-entrypoint.sh:/flyway-entrypoint.sh
+    entrypoint: ["/flyway-entrypoint.sh"]
+    environment:
+      - FLYWAY_URL=jdbc:postgresql://postgres:5432/mm_db
+      - FLYWAY_USER=postgres
+      - FLYWAY_PASSWORD=password
+    depends_on:
+      postgres:
+        condition: service_healthy
+    networks:
+      - app-network
+
+volumes:
+  postgres_data:
+
+networks:
+  app-network:

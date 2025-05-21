@@ -1,0 +1,4790 @@
+[
+  {
+    "name": "deku_mask",
+    "display_name": "Deku Mask"
+  },
+  {
+    "name": "heros_bow",
+    "display_name": "Hero's Bow"
+  },
+  {
+    "name": "fire_arrow",
+    "display_name": "Fire Arrow"
+  },
+  {
+    "name": "ice_arrow",
+    "display_name": "Ice Arrow"
+  },
+  {
+    "name": "light_arrow",
+    "display_name": "Light Arrow"
+  },
+  {
+    "name": "bomb_bag",
+    "display_name": "Bomb Bag"
+  },
+  {
+    "name": "magic_bean",
+    "display_name": "Magic Bean"
+  },
+  {
+    "name": "powder_keg",
+    "display_name": "Powder Keg"
+  },
+  {
+    "name": "pictograph_box",
+    "display_name": "Pictograph Box"
+  },
+  {
+    "name": "lens_of_truth",
+    "display_name": "Lens of Truth"
+  },
+  {
+    "name": "hookshot",
+    "display_name": "Hookshot"
+  },
+  {
+    "name": "magic_power",
+    "display_name": "Magic Power"
+  },
+  {
+    "name": "spin_attack_mastery",
+    "display_name": "Spin Attack Mastery"
+  },
+  {
+    "name": "extended_magic_power",
+    "display_name": "Extended Magic Power"
+  },
+  {
+    "name": "double_defense",
+    "display_name": "Double Defense"
+  },
+  {
+    "name": "great_fairys_sword",
+    "display_name": "Great Fairy's Sword"
+  },
+  {
+    "name": "bottle_of_red_potion",
+    "display_name": "Bottle of Red Potion"
+  },
+  {
+    "name": "milk_bottle",
+    "display_name": "Milk Bottle"
+  },
+  {
+    "name": "bottle_of_gold_dust",
+    "display_name": "Bottle of Gold Dust"
+  },
+  {
+    "name": "empty_bottle",
+    "display_name": "Empty Bottle"
+  },
+  {
+    "name": "empty_bottle",
+    "display_name": "Empty Bottle"
+  },
+  {
+    "name": "bottle_of_chateau_romani",
+    "display_name": "Bottle of Chateau Romani"
+  },
+  {
+    "name": "bombers_notebook",
+    "display_name": "Bombers' Notebook"
+  },
+  {
+    "name": "razor_sword",
+    "display_name": "Razor Sword"
+  },
+  {
+    "name": "gilded_sword",
+    "display_name": "Gilded Sword"
+  },
+  {
+    "name": "mirror_shield",
+    "display_name": "Mirror Shield"
+  },
+  {
+    "name": "large_quiver",
+    "display_name": "Large Quiver"
+  },
+  {
+    "name": "largest_quiver",
+    "display_name": "Largest Quiver"
+  },
+  {
+    "name": "big_bomb_bag",
+    "display_name": "Big Bomb Bag"
+  },
+  {
+    "name": "biggest_bomb_bag",
+    "display_name": "Biggest Bomb Bag"
+  },
+  {
+    "name": "adult_wallet",
+    "display_name": "Adult Wallet"
+  },
+  {
+    "name": "giant_wallet",
+    "display_name": "Giant Wallet"
+  },
+  {
+    "name": "royal_wallet",
+    "display_name": "Royal Wallet"
+  },
+  {
+    "name": "moons_tear",
+    "display_name": "Moon's Tear"
+  },
+  {
+    "name": "land_title_deed",
+    "display_name": "Land Title Deed"
+  },
+  {
+    "name": "swamp_title_deed",
+    "display_name": "Swamp Title Deed"
+  },
+  {
+    "name": "mountain_title_deed",
+    "display_name": "Mountain Title Deed"
+  },
+  {
+    "name": "ocean_title_deed",
+    "display_name": "Ocean Title Deed"
+  },
+  {
+    "name": "room_key",
+    "display_name": "Room Key"
+  },
+  {
+    "name": "letter_to_kafei",
+    "display_name": "Letter to Kafei"
+  },
+  {
+    "name": "pendant_of_memories",
+    "display_name": "Pendant of Memories"
+  },
+  {
+    "name": "letter_to_mama",
+    "display_name": "Letter to Mama"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "postmans_hat",
+    "display_name": "Postman's Hat"
+  },
+  {
+    "name": "allnight_mask",
+    "display_name": "All-Night Mask"
+  },
+  {
+    "name": "blast_mask",
+    "display_name": "Blast Mask"
+  },
+  {
+    "name": "stone_mask",
+    "display_name": "Stone Mask"
+  },
+  {
+    "name": "great_fairys_mask",
+    "display_name": "Great Fairy's Mask"
+  },
+  {
+    "name": "keaton_mask",
+    "display_name": "Keaton Mask"
+  },
+  {
+    "name": "bremen_mask",
+    "display_name": "Bremen Mask"
+  },
+  {
+    "name": "bunny_hood",
+    "display_name": "Bunny Hood"
+  },
+  {
+    "name": "don_geros_mask",
+    "display_name": "Don Gero's Mask"
+  },
+  {
+    "name": "mask_of_scents",
+    "display_name": "Mask of Scents"
+  },
+  {
+    "name": "romanis_mask",
+    "display_name": "Romani's Mask"
+  },
+  {
+    "name": "circus_leaders_mask",
+    "display_name": "Circus Leader's Mask"
+  },
+  {
+    "name": "kafeis_mask",
+    "display_name": "Kafei's Mask"
+  },
+  {
+    "name": "couples_mask",
+    "display_name": "Couple's Mask"
+  },
+  {
+    "name": "mask_of_truth",
+    "display_name": "Mask of Truth"
+  },
+  {
+    "name": "kamaros_mask",
+    "display_name": "Kamaro's Mask"
+  },
+  {
+    "name": "gibdo_mask",
+    "display_name": "Gibdo Mask"
+  },
+  {
+    "name": "garos_mask",
+    "display_name": "Garo's Mask"
+  },
+  {
+    "name": "captains_hat",
+    "display_name": "Captain's Hat"
+  },
+  {
+    "name": "giants_mask",
+    "display_name": "Giant's Mask"
+  },
+  {
+    "name": "goron_mask",
+    "display_name": "Goron Mask"
+  },
+  {
+    "name": "zora_mask",
+    "display_name": "Zora Mask"
+  },
+  {
+    "name": "ocarina_of_time",
+    "display_name": "Ocarina of Time"
+  },
+  {
+    "name": "song_of_time",
+    "display_name": "Song of Time"
+  },
+  {
+    "name": "song_of_healing",
+    "display_name": "Song of Healing"
+  },
+  {
+    "name": "song_of_soaring",
+    "display_name": "Song of Soaring"
+  },
+  {
+    "name": "eponas_song",
+    "display_name": "Epona's Song"
+  },
+  {
+    "name": "song_of_storms",
+    "display_name": "Song of Storms"
+  },
+  {
+    "name": "sonata_of_awakening",
+    "display_name": "Sonata of Awakening"
+  },
+  {
+    "name": "goron_lullaby",
+    "display_name": "Goron Lullaby"
+  },
+  {
+    "name": "new_wave_bossa_nova",
+    "display_name": "New Wave Bossa Nova"
+  },
+  {
+    "name": "elegy_of_emptiness",
+    "display_name": "Elegy of Emptiness"
+  },
+  {
+    "name": "oath_to_order",
+    "display_name": "Oath to Order"
+  },
+  {
+    "name": "woodfall_map",
+    "display_name": "Woodfall Map"
+  },
+  {
+    "name": "woodfall_compass",
+    "display_name": "Woodfall Compass"
+  },
+  {
+    "name": "woodfall_boss_key",
+    "display_name": "Woodfall Boss Key"
+  },
+  {
+    "name": "woodfall_small_key",
+    "display_name": "Woodfall Small Key"
+  },
+  {
+    "name": "snowhead_map",
+    "display_name": "Snowhead Map"
+  },
+  {
+    "name": "snowhead_compass",
+    "display_name": "Snowhead Compass"
+  },
+  {
+    "name": "snowhead_boss_key",
+    "display_name": "Snowhead Boss Key"
+  },
+  {
+    "name": "snowhead_small_key",
+    "display_name": "Snowhead Small Key"
+  },
+  {
+    "name": "snowhead_small_key",
+    "display_name": "Snowhead Small Key"
+  },
+  {
+    "name": "snowhead_small_key",
+    "display_name": "Snowhead Small Key"
+  },
+  {
+    "name": "great_bay_map",
+    "display_name": "Great Bay Map"
+  },
+  {
+    "name": "great_bay_compass",
+    "display_name": "Great Bay Compass"
+  },
+  {
+    "name": "great_bay_boss_key",
+    "display_name": "Great Bay Boss Key"
+  },
+  {
+    "name": "great_bay_small_key",
+    "display_name": "Great Bay Small Key"
+  },
+  {
+    "name": "stone_tower_map",
+    "display_name": "Stone Tower Map"
+  },
+  {
+    "name": "stone_tower_compass",
+    "display_name": "Stone Tower Compass"
+  },
+  {
+    "name": "stone_tower_boss_key",
+    "display_name": "Stone Tower Boss Key"
+  },
+  {
+    "name": "stone_tower_small_key",
+    "display_name": "Stone Tower Small Key"
+  },
+  {
+    "name": "stone_tower_small_key",
+    "display_name": "Stone Tower Small Key"
+  },
+  {
+    "name": "stone_tower_small_key",
+    "display_name": "Stone Tower Small Key"
+  },
+  {
+    "name": "stone_tower_small_key",
+    "display_name": "Stone Tower Small Key"
+  },
+  {
+    "name": "red_potion",
+    "display_name": "Red Potion"
+  },
+  {
+    "name": "green_potion",
+    "display_name": "Green Potion"
+  },
+  {
+    "name": "heros_shield",
+    "display_name": "Hero's Shield"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "deku_stick",
+    "display_name": "Deku Stick"
+  },
+  {
+    "name": "30_arrows",
+    "display_name": "30 Arrows"
+  },
+  {
+    "name": "10_deku_nuts",
+    "display_name": "10 Deku Nuts"
+  },
+  {
+    "name": "50_arrows",
+    "display_name": "50 Arrows"
+  },
+  {
+    "name": "blue_potion",
+    "display_name": "Blue Potion"
+  },
+  {
+    "name": "red_potion",
+    "display_name": "Red Potion"
+  },
+  {
+    "name": "green_potion",
+    "display_name": "Green Potion"
+  },
+  {
+    "name": "10_bombs",
+    "display_name": "10 Bombs"
+  },
+  {
+    "name": "10_bombchu",
+    "display_name": "10 Bombchu"
+  },
+  {
+    "name": "10_bombs",
+    "display_name": "10 Bombs"
+  },
+  {
+    "name": "10_arrows",
+    "display_name": "10 Arrows"
+  },
+  {
+    "name": "red_potion",
+    "display_name": "Red Potion"
+  },
+  {
+    "name": "heros_shield",
+    "display_name": "Hero's Shield"
+  },
+  {
+    "name": "10_arrows",
+    "display_name": "10 Arrows"
+  },
+  {
+    "name": "red_potion",
+    "display_name": "Red Potion"
+  },
+  {
+    "name": "bottle_fairy",
+    "display_name": "Bottle: Fairy"
+  },
+  {
+    "name": "bottle_deku_princess",
+    "display_name": "Bottle: Deku Princess"
+  },
+  {
+    "name": "bottle_fish",
+    "display_name": "Bottle: Fish"
+  },
+  {
+    "name": "bottle_bug",
+    "display_name": "Bottle: Bug"
+  },
+  {
+    "name": "bottle_poe",
+    "display_name": "Bottle: Poe"
+  },
+  {
+    "name": "bottle_big_poe",
+    "display_name": "Bottle: Big Poe"
+  },
+  {
+    "name": "bottle_spring_water",
+    "display_name": "Bottle: Spring Water"
+  },
+  {
+    "name": "bottle_hot_spring_water",
+    "display_name": "Bottle: Hot Spring Water"
+  },
+  {
+    "name": "bottle_zora_egg",
+    "display_name": "Bottle: Zora Egg"
+  },
+  {
+    "name": "bottle_mushroom",
+    "display_name": "Bottle: Mushroom"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "purple_rupee",
+    "display_name": "Purple Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "purple_rupee",
+    "display_name": "Purple Rupee"
+  },
+  {
+    "name": "5_bombchu",
+    "display_name": "5 Bombchu"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "silver_rupee",
+    "display_name": "Silver Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "silver_rupee",
+    "display_name": "Silver Rupee"
+  },
+  {
+    "name": "bombchu",
+    "display_name": "Bombchu"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "bombchu",
+    "display_name": "Bombchu"
+  },
+  {
+    "name": "purple_rupee",
+    "display_name": "Purple Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "purple_rupee",
+    "display_name": "Purple Rupee"
+  },
+  {
+    "name": "5_bombchu",
+    "display_name": "5 Bombchu"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "purple_rupee",
+    "display_name": "Purple Rupee"
+  },
+  {
+    "name": "purple_rupee",
+    "display_name": "Purple Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "bombchu",
+    "display_name": "Bombchu"
+  },
+  {
+    "name": "silver_rupee",
+    "display_name": "Silver Rupee"
+  },
+  {
+    "name": "10_bombchu",
+    "display_name": "10 Bombchu"
+  },
+  {
+    "name": "magic_bean",
+    "display_name": "Magic Bean"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "silver_rupee",
+    "display_name": "Silver Rupee"
+  },
+  {
+    "name": "silver_rupee",
+    "display_name": "Silver Rupee"
+  },
+  {
+    "name": "silver_rupee",
+    "display_name": "Silver Rupee"
+  },
+  {
+    "name": "silver_rupee",
+    "display_name": "Silver Rupee"
+  },
+  {
+    "name": "silver_rupee",
+    "display_name": "Silver Rupee"
+  },
+  {
+    "name": "silver_rupee",
+    "display_name": "Silver Rupee"
+  },
+  {
+    "name": "purple_rupee",
+    "display_name": "Purple Rupee"
+  },
+  {
+    "name": "silver_rupee",
+    "display_name": "Silver Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "purple_rupee",
+    "display_name": "Purple Rupee"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "heart_container",
+    "display_name": "Heart Container"
+  },
+  {
+    "name": "heart_container",
+    "display_name": "Heart Container"
+  },
+  {
+    "name": "heart_container",
+    "display_name": "Heart Container"
+  },
+  {
+    "name": "heart_container",
+    "display_name": "Heart Container"
+  },
+  {
+    "name": "map_of_clock_town",
+    "display_name": "Map of Clock Town"
+  },
+  {
+    "name": "map_of_woodfall",
+    "display_name": "Map of Woodfall"
+  },
+  {
+    "name": "map_of_snowhead",
+    "display_name": "Map of Snowhead"
+  },
+  {
+    "name": "map_of_romani_ranch",
+    "display_name": "Map of Romani Ranch"
+  },
+  {
+    "name": "map_of_great_bay",
+    "display_name": "Map of Great Bay"
+  },
+  {
+    "name": "map_of_stone_tower",
+    "display_name": "Map of Stone Tower"
+  },
+  {
+    "name": "bombchu",
+    "display_name": "Bombchu"
+  },
+  {
+    "name": "gold_rupee",
+    "display_name": "Gold Rupee"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "piece_of_heart",
+    "display_name": "Piece of Heart"
+  },
+  {
+    "name": "fierce_deitys_mask",
+    "display_name": "Fierce Deity's Mask"
+  },
+  {
+    "name": "30_arrows",
+    "display_name": "30 Arrows"
+  },
+  {
+    "name": "10_bombchu",
+    "display_name": "10 Bombchu"
+  },
+  {
+    "name": "10_deku_nuts",
+    "display_name": "10 Deku Nuts"
+  },
+  {
+    "name": "kokiri_sword",
+    "display_name": "Kokiri Sword"
+  },
+  {
+    "name": "heros_shield",
+    "display_name": "Hero's Shield"
+  },
+  {
+    "name": "heart_container",
+    "display_name": "Heart Container"
+  },
+  {
+    "name": "heart_container",
+    "display_name": "Heart Container"
+  },
+  {
+    "name": "milk",
+    "display_name": "Milk"
+  },
+  {
+    "name": "milk",
+    "display_name": "Milk"
+  },
+  {
+    "name": "milk",
+    "display_name": "Milk"
+  },
+  {
+    "name": "milk",
+    "display_name": "Milk"
+  },
+  {
+    "name": "milk",
+    "display_name": "Milk"
+  },
+  {
+    "name": "milk",
+    "display_name": "Milk"
+  },
+  {
+    "name": "milk",
+    "display_name": "Milk"
+  },
+  {
+    "name": "milk",
+    "display_name": "Milk"
+  },
+  {
+    "name": "swamp_skulltula_spirit",
+    "display_name": "Swamp Skulltula Spirit"
+  },
+  {
+    "name": "swamp_skulltula_spirit",
+    "display_name": "Swamp Skulltula Spirit"
+  },
+  {
+    "name": "swamp_skulltula_spirit",
+    "display_name": "Swamp Skulltula Spirit"
+  },
+  {
+    "name": "swamp_skulltula_spirit",
+    "display_name": "Swamp Skulltula Spirit"
+  },
+  {
+    "name": "swamp_skulltula_spirit",
+    "display_name": "Swamp Skulltula Spirit"
+  },
+  {
+    "name": "swamp_skulltula_spirit",
+    "display_name": "Swamp Skulltula Spirit"
+  },
+  {
+    "name": "swamp_skulltula_spirit",
+    "display_name": "Swamp Skulltula Spirit"
+  },
+  {
+    "name": "swamp_skulltula_spirit",
+    "display_name": "Swamp Skulltula Spirit"
+  },
+  {
+    "name": "swamp_skulltula_spirit",
+    "display_name": "Swamp Skulltula Spirit"
+  },
+  {
+    "name": "swamp_skulltula_spirit",
+    "display_name": "Swamp Skulltula Spirit"
+  },
+  {
+    "name": "swamp_skulltula_spirit",
+    "display_name": "Swamp Skulltula Spirit"
+  },
+  {
+    "name": "swamp_skulltula_spirit",
+    "display_name": "Swamp Skulltula Spirit"
+  },
+  {
+    "name": "swamp_skulltula_spirit",
+    "display_name": "Swamp Skulltula Spirit"
+  },
+  {
+    "name": "swamp_skulltula_spirit",
+    "display_name": "Swamp Skulltula Spirit"
+  },
+  {
+    "name": "swamp_skulltula_spirit",
+    "display_name": "Swamp Skulltula Spirit"
+  },
+  {
+    "name": "swamp_skulltula_spirit",
+    "display_name": "Swamp Skulltula Spirit"
+  },
+  {
+    "name": "swamp_skulltula_spirit",
+    "display_name": "Swamp Skulltula Spirit"
+  },
+  {
+    "name": "swamp_skulltula_spirit",
+    "display_name": "Swamp Skulltula Spirit"
+  },
+  {
+    "name": "swamp_skulltula_spirit",
+    "display_name": "Swamp Skulltula Spirit"
+  },
+  {
+    "name": "swamp_skulltula_spirit",
+    "display_name": "Swamp Skulltula Spirit"
+  },
+  {
+    "name": "swamp_skulltula_spirit",
+    "display_name": "Swamp Skulltula Spirit"
+  },
+  {
+    "name": "swamp_skulltula_spirit",
+    "display_name": "Swamp Skulltula Spirit"
+  },
+  {
+    "name": "swamp_skulltula_spirit",
+    "display_name": "Swamp Skulltula Spirit"
+  },
+  {
+    "name": "swamp_skulltula_spirit",
+    "display_name": "Swamp Skulltula Spirit"
+  },
+  {
+    "name": "swamp_skulltula_spirit",
+    "display_name": "Swamp Skulltula Spirit"
+  },
+  {
+    "name": "swamp_skulltula_spirit",
+    "display_name": "Swamp Skulltula Spirit"
+  },
+  {
+    "name": "swamp_skulltula_spirit",
+    "display_name": "Swamp Skulltula Spirit"
+  },
+  {
+    "name": "swamp_skulltula_spirit",
+    "display_name": "Swamp Skulltula Spirit"
+  },
+  {
+    "name": "swamp_skulltula_spirit",
+    "display_name": "Swamp Skulltula Spirit"
+  },
+  {
+    "name": "swamp_skulltula_spirit",
+    "display_name": "Swamp Skulltula Spirit"
+  },
+  {
+    "name": "ocean_skulltula_spirit",
+    "display_name": "Ocean Skulltula Spirit"
+  },
+  {
+    "name": "ocean_skulltula_spirit",
+    "display_name": "Ocean Skulltula Spirit"
+  },
+  {
+    "name": "ocean_skulltula_spirit",
+    "display_name": "Ocean Skulltula Spirit"
+  },
+  {
+    "name": "ocean_skulltula_spirit",
+    "display_name": "Ocean Skulltula Spirit"
+  },
+  {
+    "name": "ocean_skulltula_spirit",
+    "display_name": "Ocean Skulltula Spirit"
+  },
+  {
+    "name": "ocean_skulltula_spirit",
+    "display_name": "Ocean Skulltula Spirit"
+  },
+  {
+    "name": "ocean_skulltula_spirit",
+    "display_name": "Ocean Skulltula Spirit"
+  },
+  {
+    "name": "ocean_skulltula_spirit",
+    "display_name": "Ocean Skulltula Spirit"
+  },
+  {
+    "name": "ocean_skulltula_spirit",
+    "display_name": "Ocean Skulltula Spirit"
+  },
+  {
+    "name": "ocean_skulltula_spirit",
+    "display_name": "Ocean Skulltula Spirit"
+  },
+  {
+    "name": "ocean_skulltula_spirit",
+    "display_name": "Ocean Skulltula Spirit"
+  },
+  {
+    "name": "ocean_skulltula_spirit",
+    "display_name": "Ocean Skulltula Spirit"
+  },
+  {
+    "name": "ocean_skulltula_spirit",
+    "display_name": "Ocean Skulltula Spirit"
+  },
+  {
+    "name": "ocean_skulltula_spirit",
+    "display_name": "Ocean Skulltula Spirit"
+  },
+  {
+    "name": "ocean_skulltula_spirit",
+    "display_name": "Ocean Skulltula Spirit"
+  },
+  {
+    "name": "ocean_skulltula_spirit",
+    "display_name": "Ocean Skulltula Spirit"
+  },
+  {
+    "name": "ocean_skulltula_spirit",
+    "display_name": "Ocean Skulltula Spirit"
+  },
+  {
+    "name": "ocean_skulltula_spirit",
+    "display_name": "Ocean Skulltula Spirit"
+  },
+  {
+    "name": "ocean_skulltula_spirit",
+    "display_name": "Ocean Skulltula Spirit"
+  },
+  {
+    "name": "ocean_skulltula_spirit",
+    "display_name": "Ocean Skulltula Spirit"
+  },
+  {
+    "name": "ocean_skulltula_spirit",
+    "display_name": "Ocean Skulltula Spirit"
+  },
+  {
+    "name": "ocean_skulltula_spirit",
+    "display_name": "Ocean Skulltula Spirit"
+  },
+  {
+    "name": "ocean_skulltula_spirit",
+    "display_name": "Ocean Skulltula Spirit"
+  },
+  {
+    "name": "ocean_skulltula_spirit",
+    "display_name": "Ocean Skulltula Spirit"
+  },
+  {
+    "name": "ocean_skulltula_spirit",
+    "display_name": "Ocean Skulltula Spirit"
+  },
+  {
+    "name": "ocean_skulltula_spirit",
+    "display_name": "Ocean Skulltula Spirit"
+  },
+  {
+    "name": "ocean_skulltula_spirit",
+    "display_name": "Ocean Skulltula Spirit"
+  },
+  {
+    "name": "ocean_skulltula_spirit",
+    "display_name": "Ocean Skulltula Spirit"
+  },
+  {
+    "name": "ocean_skulltula_spirit",
+    "display_name": "Ocean Skulltula Spirit"
+  },
+  {
+    "name": "ocean_skulltula_spirit",
+    "display_name": "Ocean Skulltula Spirit"
+  },
+  {
+    "name": "clock_town_stray_fairy",
+    "display_name": "Clock Town Stray Fairy"
+  },
+  {
+    "name": "woodfall_stray_fairy",
+    "display_name": "Woodfall Stray Fairy"
+  },
+  {
+    "name": "woodfall_stray_fairy",
+    "display_name": "Woodfall Stray Fairy"
+  },
+  {
+    "name": "woodfall_stray_fairy",
+    "display_name": "Woodfall Stray Fairy"
+  },
+  {
+    "name": "woodfall_stray_fairy",
+    "display_name": "Woodfall Stray Fairy"
+  },
+  {
+    "name": "woodfall_stray_fairy",
+    "display_name": "Woodfall Stray Fairy"
+  },
+  {
+    "name": "woodfall_stray_fairy",
+    "display_name": "Woodfall Stray Fairy"
+  },
+  {
+    "name": "woodfall_stray_fairy",
+    "display_name": "Woodfall Stray Fairy"
+  },
+  {
+    "name": "woodfall_stray_fairy",
+    "display_name": "Woodfall Stray Fairy"
+  },
+  {
+    "name": "woodfall_stray_fairy",
+    "display_name": "Woodfall Stray Fairy"
+  },
+  {
+    "name": "woodfall_stray_fairy",
+    "display_name": "Woodfall Stray Fairy"
+  },
+  {
+    "name": "woodfall_stray_fairy",
+    "display_name": "Woodfall Stray Fairy"
+  },
+  {
+    "name": "woodfall_stray_fairy",
+    "display_name": "Woodfall Stray Fairy"
+  },
+  {
+    "name": "woodfall_stray_fairy",
+    "display_name": "Woodfall Stray Fairy"
+  },
+  {
+    "name": "woodfall_stray_fairy",
+    "display_name": "Woodfall Stray Fairy"
+  },
+  {
+    "name": "woodfall_stray_fairy",
+    "display_name": "Woodfall Stray Fairy"
+  },
+  {
+    "name": "snowhead_stray_fairy",
+    "display_name": "Snowhead Stray Fairy"
+  },
+  {
+    "name": "snowhead_stray_fairy",
+    "display_name": "Snowhead Stray Fairy"
+  },
+  {
+    "name": "snowhead_stray_fairy",
+    "display_name": "Snowhead Stray Fairy"
+  },
+  {
+    "name": "snowhead_stray_fairy",
+    "display_name": "Snowhead Stray Fairy"
+  },
+  {
+    "name": "snowhead_stray_fairy",
+    "display_name": "Snowhead Stray Fairy"
+  },
+  {
+    "name": "snowhead_stray_fairy",
+    "display_name": "Snowhead Stray Fairy"
+  },
+  {
+    "name": "snowhead_stray_fairy",
+    "display_name": "Snowhead Stray Fairy"
+  },
+  {
+    "name": "snowhead_stray_fairy",
+    "display_name": "Snowhead Stray Fairy"
+  },
+  {
+    "name": "snowhead_stray_fairy",
+    "display_name": "Snowhead Stray Fairy"
+  },
+  {
+    "name": "snowhead_stray_fairy",
+    "display_name": "Snowhead Stray Fairy"
+  },
+  {
+    "name": "snowhead_stray_fairy",
+    "display_name": "Snowhead Stray Fairy"
+  },
+  {
+    "name": "snowhead_stray_fairy",
+    "display_name": "Snowhead Stray Fairy"
+  },
+  {
+    "name": "snowhead_stray_fairy",
+    "display_name": "Snowhead Stray Fairy"
+  },
+  {
+    "name": "snowhead_stray_fairy",
+    "display_name": "Snowhead Stray Fairy"
+  },
+  {
+    "name": "snowhead_stray_fairy",
+    "display_name": "Snowhead Stray Fairy"
+  },
+  {
+    "name": "great_bay_stray_fairy",
+    "display_name": "Great Bay Stray Fairy"
+  },
+  {
+    "name": "great_bay_stray_fairy",
+    "display_name": "Great Bay Stray Fairy"
+  },
+  {
+    "name": "great_bay_stray_fairy",
+    "display_name": "Great Bay Stray Fairy"
+  },
+  {
+    "name": "great_bay_stray_fairy",
+    "display_name": "Great Bay Stray Fairy"
+  },
+  {
+    "name": "great_bay_stray_fairy",
+    "display_name": "Great Bay Stray Fairy"
+  },
+  {
+    "name": "great_bay_stray_fairy",
+    "display_name": "Great Bay Stray Fairy"
+  },
+  {
+    "name": "great_bay_stray_fairy",
+    "display_name": "Great Bay Stray Fairy"
+  },
+  {
+    "name": "great_bay_stray_fairy",
+    "display_name": "Great Bay Stray Fairy"
+  },
+  {
+    "name": "great_bay_stray_fairy",
+    "display_name": "Great Bay Stray Fairy"
+  },
+  {
+    "name": "great_bay_stray_fairy",
+    "display_name": "Great Bay Stray Fairy"
+  },
+  {
+    "name": "great_bay_stray_fairy",
+    "display_name": "Great Bay Stray Fairy"
+  },
+  {
+    "name": "great_bay_stray_fairy",
+    "display_name": "Great Bay Stray Fairy"
+  },
+  {
+    "name": "great_bay_stray_fairy",
+    "display_name": "Great Bay Stray Fairy"
+  },
+  {
+    "name": "great_bay_stray_fairy",
+    "display_name": "Great Bay Stray Fairy"
+  },
+  {
+    "name": "great_bay_stray_fairy",
+    "display_name": "Great Bay Stray Fairy"
+  },
+  {
+    "name": "stone_tower_stray_fairy",
+    "display_name": "Stone Tower Stray Fairy"
+  },
+  {
+    "name": "stone_tower_stray_fairy",
+    "display_name": "Stone Tower Stray Fairy"
+  },
+  {
+    "name": "stone_tower_stray_fairy",
+    "display_name": "Stone Tower Stray Fairy"
+  },
+  {
+    "name": "stone_tower_stray_fairy",
+    "display_name": "Stone Tower Stray Fairy"
+  },
+  {
+    "name": "stone_tower_stray_fairy",
+    "display_name": "Stone Tower Stray Fairy"
+  },
+  {
+    "name": "stone_tower_stray_fairy",
+    "display_name": "Stone Tower Stray Fairy"
+  },
+  {
+    "name": "stone_tower_stray_fairy",
+    "display_name": "Stone Tower Stray Fairy"
+  },
+  {
+    "name": "stone_tower_stray_fairy",
+    "display_name": "Stone Tower Stray Fairy"
+  },
+  {
+    "name": "stone_tower_stray_fairy",
+    "display_name": "Stone Tower Stray Fairy"
+  },
+  {
+    "name": "stone_tower_stray_fairy",
+    "display_name": "Stone Tower Stray Fairy"
+  },
+  {
+    "name": "stone_tower_stray_fairy",
+    "display_name": "Stone Tower Stray Fairy"
+  },
+  {
+    "name": "stone_tower_stray_fairy",
+    "display_name": "Stone Tower Stray Fairy"
+  },
+  {
+    "name": "stone_tower_stray_fairy",
+    "display_name": "Stone Tower Stray Fairy"
+  },
+  {
+    "name": "stone_tower_stray_fairy",
+    "display_name": "Stone Tower Stray Fairy"
+  },
+  {
+    "name": "stone_tower_stray_fairy",
+    "display_name": "Stone Tower Stray Fairy"
+  },
+  {
+    "name": "purple_rupee",
+    "display_name": "Purple Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "chateau_romani",
+    "display_name": "Chateau Romani"
+  },
+  {
+    "name": "milk",
+    "display_name": "Milk"
+  },
+  {
+    "name": "purple_rupee",
+    "display_name": "Purple Rupee"
+  },
+  {
+    "name": "purple_rupee",
+    "display_name": "Purple Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "magic_bean",
+    "display_name": "Magic Bean"
+  },
+  {
+    "name": "green_potion",
+    "display_name": "Green Potion"
+  },
+  {
+    "name": "blue_potion",
+    "display_name": "Blue Potion"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "milk",
+    "display_name": "Milk"
+  },
+  {
+    "name": "purple_rupee",
+    "display_name": "Purple Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "purple_rupee",
+    "display_name": "Purple Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "10_deku_nuts",
+    "display_name": "10 Deku Nuts"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "purple_rupee",
+    "display_name": "Purple Rupee"
+  },
+  {
+    "name": "gold_rupee",
+    "display_name": "Gold Rupee"
+  },
+  {
+    "name": "seahorse",
+    "display_name": "Seahorse"
+  },
+  {
+    "name": "10_arrows",
+    "display_name": "10 Arrows"
+  },
+  {
+    "name": "10_arrows",
+    "display_name": "10 Arrows"
+  },
+  {
+    "name": "10_arrows",
+    "display_name": "10 Arrows"
+  },
+  {
+    "name": "10_arrows",
+    "display_name": "10 Arrows"
+  },
+  {
+    "name": "10_arrows",
+    "display_name": "10 Arrows"
+  },
+  {
+    "name": "10_arrows",
+    "display_name": "10 Arrows"
+  },
+  {
+    "name": "10_arrows",
+    "display_name": "10 Arrows"
+  },
+  {
+    "name": "10_arrows",
+    "display_name": "10 Arrows"
+  },
+  {
+    "name": "10_arrows",
+    "display_name": "10 Arrows"
+  },
+  {
+    "name": "10_arrows",
+    "display_name": "10 Arrows"
+  },
+  {
+    "name": "10_arrows",
+    "display_name": "10 Arrows"
+  },
+  {
+    "name": "10_arrows",
+    "display_name": "10 Arrows"
+  },
+  {
+    "name": "10_arrows",
+    "display_name": "10 Arrows"
+  },
+  {
+    "name": "10_arrows",
+    "display_name": "10 Arrows"
+  },
+  {
+    "name": "10_arrows",
+    "display_name": "10 Arrows"
+  },
+  {
+    "name": "10_arrows",
+    "display_name": "10 Arrows"
+  },
+  {
+    "name": "10_arrows",
+    "display_name": "10 Arrows"
+  },
+  {
+    "name": "10_arrows",
+    "display_name": "10 Arrows"
+  },
+  {
+    "name": "10_arrows",
+    "display_name": "10 Arrows"
+  },
+  {
+    "name": "10_arrows",
+    "display_name": "10 Arrows"
+  },
+  {
+    "name": "10_arrows",
+    "display_name": "10 Arrows"
+  },
+  {
+    "name": "10_arrows",
+    "display_name": "10 Arrows"
+  },
+  {
+    "name": "10_arrows",
+    "display_name": "10 Arrows"
+  },
+  {
+    "name": "10_arrows",
+    "display_name": "10 Arrows"
+  },
+  {
+    "name": "10_arrows",
+    "display_name": "10 Arrows"
+  },
+  {
+    "name": "10_arrows",
+    "display_name": "10 Arrows"
+  },
+  {
+    "name": "10_arrows",
+    "display_name": "10 Arrows"
+  },
+  {
+    "name": "10_arrows",
+    "display_name": "10 Arrows"
+  },
+  {
+    "name": "10_arrows",
+    "display_name": "10 Arrows"
+  },
+  {
+    "name": "10_arrows",
+    "display_name": "10 Arrows"
+  },
+  {
+    "name": "10_arrows",
+    "display_name": "10 Arrows"
+  },
+  {
+    "name": "10_arrows",
+    "display_name": "10 Arrows"
+  },
+  {
+    "name": "10_arrows",
+    "display_name": "10 Arrows"
+  },
+  {
+    "name": "10_arrows",
+    "display_name": "10 Arrows"
+  },
+  {
+    "name": "30_arrows",
+    "display_name": "30 Arrows"
+  },
+  {
+    "name": "30_arrows",
+    "display_name": "30 Arrows"
+  },
+  {
+    "name": "30_arrows",
+    "display_name": "30 Arrows"
+  },
+  {
+    "name": "30_arrows",
+    "display_name": "30 Arrows"
+  },
+  {
+    "name": "30_arrows",
+    "display_name": "30 Arrows"
+  },
+  {
+    "name": "30_arrows",
+    "display_name": "30 Arrows"
+  },
+  {
+    "name": "30_arrows",
+    "display_name": "30 Arrows"
+  },
+  {
+    "name": "30_arrows",
+    "display_name": "30 Arrows"
+  },
+  {
+    "name": "30_arrows",
+    "display_name": "30 Arrows"
+  },
+  {
+    "name": "30_arrows",
+    "display_name": "30 Arrows"
+  },
+  {
+    "name": "30_arrows",
+    "display_name": "30 Arrows"
+  },
+  {
+    "name": "30_arrows",
+    "display_name": "30 Arrows"
+  },
+  {
+    "name": "30_arrows",
+    "display_name": "30 Arrows"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "5_bombs",
+    "display_name": "5 Bombs"
+  },
+  {
+    "name": "5_bombs",
+    "display_name": "5 Bombs"
+  },
+  {
+    "name": "5_bombs",
+    "display_name": "5 Bombs"
+  },
+  {
+    "name": "5_bombs",
+    "display_name": "5 Bombs"
+  },
+  {
+    "name": "5_bombs",
+    "display_name": "5 Bombs"
+  },
+  {
+    "name": "5_bombs",
+    "display_name": "5 Bombs"
+  },
+  {
+    "name": "5_bombs",
+    "display_name": "5 Bombs"
+  },
+  {
+    "name": "5_bombs",
+    "display_name": "5 Bombs"
+  },
+  {
+    "name": "5_bombs",
+    "display_name": "5 Bombs"
+  },
+  {
+    "name": "5_bombs",
+    "display_name": "5 Bombs"
+  },
+  {
+    "name": "5_bombs",
+    "display_name": "5 Bombs"
+  },
+  {
+    "name": "5_bombs",
+    "display_name": "5 Bombs"
+  },
+  {
+    "name": "5_bombs",
+    "display_name": "5 Bombs"
+  },
+  {
+    "name": "5_bombs",
+    "display_name": "5 Bombs"
+  },
+  {
+    "name": "5_bombs",
+    "display_name": "5 Bombs"
+  },
+  {
+    "name": "5_bombs",
+    "display_name": "5 Bombs"
+  },
+  {
+    "name": "5_bombs",
+    "display_name": "5 Bombs"
+  },
+  {
+    "name": "10_deku_nuts",
+    "display_name": "10 Deku Nuts"
+  },
+  {
+    "name": "10_deku_nuts",
+    "display_name": "10 Deku Nuts"
+  },
+  {
+    "name": "10_deku_nuts",
+    "display_name": "10 Deku Nuts"
+  },
+  {
+    "name": "10_deku_nuts",
+    "display_name": "10 Deku Nuts"
+  },
+  {
+    "name": "10_deku_nuts",
+    "display_name": "10 Deku Nuts"
+  },
+  {
+    "name": "deku_stick",
+    "display_name": "Deku Stick"
+  },
+  {
+    "name": "deku_stick",
+    "display_name": "Deku Stick"
+  },
+  {
+    "name": "deku_stick",
+    "display_name": "Deku Stick"
+  },
+  {
+    "name": "deku_stick",
+    "display_name": "Deku Stick"
+  },
+  {
+    "name": "deku_stick",
+    "display_name": "Deku Stick"
+  },
+  {
+    "name": "deku_stick",
+    "display_name": "Deku Stick"
+  },
+  {
+    "name": "deku_stick",
+    "display_name": "Deku Stick"
+  },
+  {
+    "name": "deku_stick",
+    "display_name": "Deku Stick"
+  },
+  {
+    "name": "deku_stick",
+    "display_name": "Deku Stick"
+  },
+  {
+    "name": "deku_stick",
+    "display_name": "Deku Stick"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "purple_rupee",
+    "display_name": "Purple Rupee"
+  },
+  {
+    "name": "recovery_heart",
+    "display_name": "Recovery Heart"
+  },
+  {
+    "name": "recovery_heart",
+    "display_name": "Recovery Heart"
+  },
+  {
+    "name": "recovery_heart",
+    "display_name": "Recovery Heart"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "30_arrows",
+    "display_name": "30 Arrows"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "30_arrows",
+    "display_name": "30 Arrows"
+  },
+  {
+    "name": "30_arrows",
+    "display_name": "30 Arrows"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "30_arrows",
+    "display_name": "30 Arrows"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "30_arrows",
+    "display_name": "30 Arrows"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "gold_rupee",
+    "display_name": "Gold Rupee"
+  },
+  {
+    "name": "10_arrows",
+    "display_name": "10 Arrows"
+  },
+  {
+    "name": "10_arrows",
+    "display_name": "10 Arrows"
+  },
+  {
+    "name": "30_arrows",
+    "display_name": "30 Arrows"
+  },
+  {
+    "name": "30_arrows",
+    "display_name": "30 Arrows"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee"
+  },
+  {
+    "name": "red_rupee",
+    "display_name": "Red Rupee"
+  },
+  {
+    "name": "10_arrows",
+    "display_name": "10 Arrows"
+  },
+  {
+    "name": "10_arrows",
+    "display_name": "10 Arrows"
+  },
+  {
+    "name": "30_arrows",
+    "display_name": "30 Arrows"
+  },
+  {
+    "name": "5_bombs",
+    "display_name": "5 Bombs"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "large_magic_jar",
+    "display_name": "Large Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "small_magic_jar",
+    "display_name": "Small Magic Jar"
+  },
+  {
+    "name": "silver_rupee",
+    "display_name": "Silver Rupee"
+  },
+  {
+    "name": "crimson_rupee",
+    "display_name": "Crimson Rupee"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee"
+  },
+  {
+    "name": "odolwas_remains",
+    "display_name": "Odolwa's Remains"
+  },
+  {
+    "name": "gohts_remains",
+    "display_name": "Goht's Remains"
+  },
+  {
+    "name": "gyorgs_remains",
+    "display_name": "Gyorg's Remains"
+  },
+  {
+    "name": "twinmolds_remains",
+    "display_name": "Twinmold's Remains"
+  },
+  {
+    "name": "goron_lullaby_intro",
+    "display_name": "Goron Lullaby Intro"
+  },
+  {
+    "name": "notebook_bombers",
+    "display_name": "Notebook: Bombers"
+  },
+  {
+    "name": "notebook_anju",
+    "display_name": "Notebook: Anju"
+  },
+  {
+    "name": "notebook_kafei",
+    "display_name": "Notebook: Kafei"
+  },
+  {
+    "name": "notebook_man_from_curiosity_shop",
+    "display_name": "Notebook: Man from Curiosity Shop"
+  },
+  {
+    "name": "notebook_old_lady_from_bomb_shop",
+    "display_name": "Notebook: Old Lady from Bomb Shop"
+  },
+  {
+    "name": "notebook_romani",
+    "display_name": "Notebook: Romani"
+  },
+  {
+    "name": "notebook_cremia",
+    "display_name": "Notebook: Cremia"
+  },
+  {
+    "name": "notebook_mr_dotour",
+    "display_name": "Notebook: Mr. Dotour"
+  },
+  {
+    "name": "notebook_madame_aroma",
+    "display_name": "Notebook: Madame Aroma"
+  },
+  {
+    "name": "notebook_toto",
+    "display_name": "Notebook: Toto"
+  },
+  {
+    "name": "notebook_gorman",
+    "display_name": "Notebook: Gorman"
+  },
+  {
+    "name": "notebook_postman",
+    "display_name": "Notebook: Postman"
+  },
+  {
+    "name": "notebook_rosa_sisters",
+    "display_name": "Notebook: Rosa Sisters"
+  },
+  {
+    "name": "notebook",
+    "display_name": "Notebook: ???"
+  },
+  {
+    "name": "notebook_anjus_grandmother",
+    "display_name": "Notebook: Anju's Grandmother"
+  },
+  {
+    "name": "notebook_kamaro",
+    "display_name": "Notebook: Kamaro"
+  },
+  {
+    "name": "notebook_grog",
+    "display_name": "Notebook: Grog"
+  },
+  {
+    "name": "notebook_gorman_brothers",
+    "display_name": "Notebook: Gorman Brothers"
+  },
+  {
+    "name": "notebook_shiro",
+    "display_name": "Notebook: Shiro"
+  },
+  {
+    "name": "notebook_guruguru",
+    "display_name": "Notebook: Guru-Guru"
+  },
+  {
+    "name": "notebook_received_room_key",
+    "display_name": "Notebook: Received Room Key"
+  },
+  {
+    "name": "notebook_secret_night_meeting",
+    "display_name": "Notebook: Secret Night Meeting"
+  },
+  {
+    "name": "notebook_promised_to_meet_kafei",
+    "display_name": "Notebook: Promised to meet Kafei"
+  },
+  {
+    "name": "notebook_deposit_letter_to_kafei",
+    "display_name": "Notebook: Deposit Letter to Kafei"
+  },
+  {
+    "name": "notebook_pendant_of_memories",
+    "display_name": "Notebook: Pendant of Memories"
+  },
+  {
+    "name": "notebook_delivered_pendant",
+    "display_name": "Notebook: Delivered Pendant"
+  },
+  {
+    "name": "notebook_escaped_from_sakons_hideout",
+    "display_name": "Notebook: Escaped from Sakon's Hideout"
+  },
+  {
+    "name": "notebook_became_ranch_hand",
+    "display_name": "Notebook: Became ranch hand"
+  },
+  {
+    "name": "notebook_protected_milk_delivery",
+    "display_name": "Notebook: Protected milk delivery"
+  },
+  {
+    "name": "notebook_keaton_mask",
+    "display_name": "Notebook: Keaton Mask"
+  },
+  {
+    "name": "notebook_letter_to_mama",
+    "display_name": "Notebook: Letter to Mama"
+  },
+  {
+    "name": "notebook_chateau_romani",
+    "display_name": "Notebook: Chateau Romani"
+  },
+  {
+    "name": "notebook_bombers_notebook",
+    "display_name": "Notebook: Bombers' Notebook"
+  },
+  {
+    "name": "notebook_dotours_thanks",
+    "display_name": "Notebook: Dotour's Thanks"
+  },
+  {
+    "name": "notebook_rosa_sisters_thanks",
+    "display_name": "Notebook: Rosa Sisters' Thanks"
+  },
+  {
+    "name": "notebook_thanks_for_the_paper",
+    "display_name": "Notebook: Thanks for the paper"
+  },
+  {
+    "name": "notebook_reading_prize_1",
+    "display_name": "Notebook: Reading Prize 1"
+  },
+  {
+    "name": "notebook_reading_prize_2",
+    "display_name": "Notebook: Reading Prize 2"
+  },
+  {
+    "name": "notebook_training_award",
+    "display_name": "Notebook: Training Award"
+  },
+  {
+    "name": "notebook_kafeis_mask",
+    "display_name": "Notebook: Kafei's Mask"
+  },
+  {
+    "name": "notebook_allnight_mask",
+    "display_name": "Notebook: All-Night Mask"
+  },
+  {
+    "name": "notebook_bunny_hood",
+    "display_name": "Notebook: Bunny Hood"
+  },
+  {
+    "name": "notebook_garos_mask",
+    "display_name": "Notebook: Garo's Mask"
+  },
+  {
+    "name": "notebook_circus_leaders_mask",
+    "display_name": "Notebook: Circus Leader's Mask"
+  },
+  {
+    "name": "notebook_postmans_hat",
+    "display_name": "Notebook: Postman's Hat"
+  },
+  {
+    "name": "notebook_couples_mask",
+    "display_name": "Notebook: Couple's Mask"
+  },
+  {
+    "name": "notebook_blast_mask",
+    "display_name": "Notebook: Blast Mask"
+  },
+  {
+    "name": "notebook_kamaros_mask",
+    "display_name": "Notebook: Kamaro's Mask"
+  },
+  {
+    "name": "notebook_stone_mask",
+    "display_name": "Notebook: Stone Mask"
+  },
+  {
+    "name": "notebook_bremen_mask",
+    "display_name": "Notebook: Bremen Mask"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "cyan_frog",
+    "display_name": "Cyan Frog"
+  },
+  {
+    "name": "pink_frog",
+    "display_name": "Pink Frog"
+  },
+  {
+    "name": "blue_frog",
+    "display_name": "Blue Frog"
+  },
+  {
+    "name": "white_frog",
+    "display_name": "White Frog"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "fairy",
+    "display_name": "Fairy"
+  },
+  {
+    "name": "ice_trap",
+    "display_name": "Ice Trap"
+  },
+  {
+    "name": "recovery_heart",
+    "display_name": "Recovery Heart"
+  },
+  {
+    "name": "bomb_trap",
+    "display_name": "Bomb Trap"
+  },
+  {
+    "name": "rupoor",
+    "display_name": "Rupoor"
+  },
+  {
+    "name": "nothing",
+    "display_name": "Nothing"
+  }
+]
