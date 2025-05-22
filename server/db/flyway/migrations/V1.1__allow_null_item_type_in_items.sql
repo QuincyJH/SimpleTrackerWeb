@@ -1,0 +1,2 @@
+ALTER TABLE items
+  ALTER COLUMN item_type DROP NOT NULL;

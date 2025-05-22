@@ -5,6 +5,10 @@ tags_metadata = [
     {
         "name": "health",
         "description": "Checks service health"
+    },
+    {
+        "name": "entrances",
+        "description": "Handles entrance operations"
     }
 ]
 
