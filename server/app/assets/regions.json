@@ -1,0 +1,4906 @@
+[
+  {
+    "name": "misc",
+    "display_name": "Misc"
+  },
+  {
+    "name": "woodfall_temple",
+    "display_name": "Woodfall Temple"
+  },
+  {
+    "name": "snowhead_temple",
+    "display_name": "Snowhead Temple"
+  },
+  {
+    "name": "great_bay_temple",
+    "display_name": "Great Bay Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "west_clock_town",
+    "display_name": "West Clock Town"
+  },
+  {
+    "name": "deku_palace",
+    "display_name": "Deku Palace"
+  },
+  {
+    "name": "goron_village",
+    "display_name": "Goron Village"
+  },
+  {
+    "name": "southern_swamp",
+    "display_name": "Southern Swamp"
+  },
+  {
+    "name": "goron_village",
+    "display_name": "Goron Village"
+  },
+  {
+    "name": "pirates_fortress_interior",
+    "display_name": "Pirates Fortress Interior"
+  },
+  {
+    "name": "north_clock_town",
+    "display_name": "North Clock Town"
+  },
+  {
+    "name": "woodfall",
+    "display_name": "Woodfall"
+  },
+  {
+    "name": "snowhead",
+    "display_name": "Snowhead"
+  },
+  {
+    "name": "zora_cape",
+    "display_name": "Zora Cape"
+  },
+  {
+    "name": "ikana_canyon",
+    "display_name": "Ikana Canyon"
+  },
+  {
+    "name": "southern_swamp",
+    "display_name": "Southern Swamp"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "twin_islands",
+    "display_name": "Twin Islands"
+  },
+  {
+    "name": "zora_cape",
+    "display_name": "Zora Cape"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "north_clock_town",
+    "display_name": "North Clock Town"
+  },
+  {
+    "name": "mountain_village",
+    "display_name": "Mountain Village"
+  },
+  {
+    "name": "mountain_village",
+    "display_name": "Mountain Village"
+  },
+  {
+    "name": "beneath_the_well",
+    "display_name": "Beneath The Well"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "road_to_southern_swamp",
+    "display_name": "Road To Southern Swamp"
+  },
+  {
+    "name": "west_clock_town",
+    "display_name": "West Clock Town"
+  },
+  {
+    "name": "west_clock_town",
+    "display_name": "West Clock Town"
+  },
+  {
+    "name": "great_bay_coast",
+    "display_name": "Great Bay Coast"
+  },
+  {
+    "name": "misc",
+    "display_name": "Misc"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "south_clock_town",
+    "display_name": "South Clock Town"
+  },
+  {
+    "name": "southern_swamp",
+    "display_name": "Southern Swamp"
+  },
+  {
+    "name": "goron_village",
+    "display_name": "Goron Village"
+  },
+  {
+    "name": "zora_hall",
+    "display_name": "Zora Hall"
+  },
+  {
+    "name": "stock_pot_inn",
+    "display_name": "Stock Pot Inn"
+  },
+  {
+    "name": "stock_pot_inn",
+    "display_name": "Stock Pot Inn"
+  },
+  {
+    "name": "laundry_pool",
+    "display_name": "Laundry Pool"
+  },
+  {
+    "name": "laundry_pool",
+    "display_name": "Laundry Pool"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "west_clock_town",
+    "display_name": "West Clock Town"
+  },
+  {
+    "name": "west_clock_town",
+    "display_name": "West Clock Town"
+  },
+  {
+    "name": "stock_pot_inn",
+    "display_name": "Stock Pot Inn"
+  },
+  {
+    "name": "stock_pot_inn",
+    "display_name": "Stock Pot Inn"
+  },
+  {
+    "name": "stock_pot_inn",
+    "display_name": "Stock Pot Inn"
+  },
+  {
+    "name": "north_clock_town",
+    "display_name": "North Clock Town"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "west_clock_town",
+    "display_name": "West Clock Town"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "road_to_southern_swamp",
+    "display_name": "Road To Southern Swamp"
+  },
+  {
+    "name": "southern_swamp",
+    "display_name": "Southern Swamp"
+  },
+  {
+    "name": "southern_swamp",
+    "display_name": "Southern Swamp"
+  },
+  {
+    "name": "mountain_village",
+    "display_name": "Mountain Village"
+  },
+  {
+    "name": "zora_cape",
+    "display_name": "Zora Cape"
+  },
+  {
+    "name": "pinnacle_rock",
+    "display_name": "Pinnacle Rock"
+  },
+  {
+    "name": "great_bay_coast",
+    "display_name": "Great Bay Coast"
+  },
+  {
+    "name": "zora_hall",
+    "display_name": "Zora Hall"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "ikana_canyon",
+    "display_name": "Ikana Canyon"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "woodfall",
+    "display_name": "Woodfall"
+  },
+  {
+    "name": "twin_islands",
+    "display_name": "Twin Islands"
+  },
+  {
+    "name": "great_bay_coast",
+    "display_name": "Great Bay Coast"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "west_clock_town",
+    "display_name": "West Clock Town"
+  },
+  {
+    "name": "north_clock_town",
+    "display_name": "North Clock Town"
+  },
+  {
+    "name": "road_to_ikana",
+    "display_name": "Road To Ikana"
+  },
+  {
+    "name": "north_clock_town",
+    "display_name": "North Clock Town"
+  },
+  {
+    "name": "laundry_pool",
+    "display_name": "Laundry Pool"
+  },
+  {
+    "name": "laundry_pool",
+    "display_name": "Laundry Pool"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "mountain_village",
+    "display_name": "Mountain Village"
+  },
+  {
+    "name": "deku_palace",
+    "display_name": "Deku Palace"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "stock_pot_inn",
+    "display_name": "Stock Pot Inn"
+  },
+  {
+    "name": "southern_swamp",
+    "display_name": "Southern Swamp"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "ikana_canyon",
+    "display_name": "Ikana Canyon"
+  },
+  {
+    "name": "milk_road",
+    "display_name": "Milk Road"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "mountain_village",
+    "display_name": "Mountain Village"
+  },
+  {
+    "name": "great_bay_coast",
+    "display_name": "Great Bay Coast"
+  },
+  {
+    "name": "clock_tower_roof",
+    "display_name": "Clock Tower Roof"
+  },
+  {
+    "name": "clock_tower_roof",
+    "display_name": "Clock Tower Roof"
+  },
+  {
+    "name": "misc",
+    "display_name": "Misc"
+  },
+  {
+    "name": "southern_swamp",
+    "display_name": "Southern Swamp"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "deku_palace",
+    "display_name": "Deku Palace"
+  },
+  {
+    "name": "goron_village",
+    "display_name": "Goron Village"
+  },
+  {
+    "name": "great_bay_coast",
+    "display_name": "Great Bay Coast"
+  },
+  {
+    "name": "ikana_castle",
+    "display_name": "Ikana Castle"
+  },
+  {
+    "name": "woodfall_temple",
+    "display_name": "Woodfall Temple"
+  },
+  {
+    "name": "snowhead_temple",
+    "display_name": "Snowhead Temple"
+  },
+  {
+    "name": "great_bay_temple",
+    "display_name": "Great Bay Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "woodfall_temple",
+    "display_name": "Woodfall Temple"
+  },
+  {
+    "name": "woodfall_temple",
+    "display_name": "Woodfall Temple"
+  },
+  {
+    "name": "woodfall_temple",
+    "display_name": "Woodfall Temple"
+  },
+  {
+    "name": "woodfall_temple",
+    "display_name": "Woodfall Temple"
+  },
+  {
+    "name": "snowhead_temple",
+    "display_name": "Snowhead Temple"
+  },
+  {
+    "name": "snowhead_temple",
+    "display_name": "Snowhead Temple"
+  },
+  {
+    "name": "snowhead_temple",
+    "display_name": "Snowhead Temple"
+  },
+  {
+    "name": "snowhead_temple",
+    "display_name": "Snowhead Temple"
+  },
+  {
+    "name": "snowhead_temple",
+    "display_name": "Snowhead Temple"
+  },
+  {
+    "name": "snowhead_temple",
+    "display_name": "Snowhead Temple"
+  },
+  {
+    "name": "great_bay_temple",
+    "display_name": "Great Bay Temple"
+  },
+  {
+    "name": "great_bay_temple",
+    "display_name": "Great Bay Temple"
+  },
+  {
+    "name": "great_bay_temple",
+    "display_name": "Great Bay Temple"
+  },
+  {
+    "name": "great_bay_temple",
+    "display_name": "Great Bay Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "west_clock_town",
+    "display_name": "West Clock Town"
+  },
+  {
+    "name": "west_clock_town",
+    "display_name": "West Clock Town"
+  },
+  {
+    "name": "west_clock_town",
+    "display_name": "West Clock Town"
+  },
+  {
+    "name": "west_clock_town",
+    "display_name": "West Clock Town"
+  },
+  {
+    "name": "west_clock_town",
+    "display_name": "West Clock Town"
+  },
+  {
+    "name": "west_clock_town",
+    "display_name": "West Clock Town"
+  },
+  {
+    "name": "west_clock_town",
+    "display_name": "West Clock Town"
+  },
+  {
+    "name": "west_clock_town",
+    "display_name": "West Clock Town"
+  },
+  {
+    "name": "southern_swamp",
+    "display_name": "Southern Swamp"
+  },
+  {
+    "name": "southern_swamp",
+    "display_name": "Southern Swamp"
+  },
+  {
+    "name": "southern_swamp",
+    "display_name": "Southern Swamp"
+  },
+  {
+    "name": "west_clock_town",
+    "display_name": "West Clock Town"
+  },
+  {
+    "name": "west_clock_town",
+    "display_name": "West Clock Town"
+  },
+  {
+    "name": "zora_hall",
+    "display_name": "Zora Hall"
+  },
+  {
+    "name": "zora_hall",
+    "display_name": "Zora Hall"
+  },
+  {
+    "name": "zora_hall",
+    "display_name": "Zora Hall"
+  },
+  {
+    "name": "bottle_catch",
+    "display_name": "Bottle Catch"
+  },
+  {
+    "name": "bottle_catch",
+    "display_name": "Bottle Catch"
+  },
+  {
+    "name": "bottle_catch",
+    "display_name": "Bottle Catch"
+  },
+  {
+    "name": "bottle_catch",
+    "display_name": "Bottle Catch"
+  },
+  {
+    "name": "bottle_catch",
+    "display_name": "Bottle Catch"
+  },
+  {
+    "name": "bottle_catch",
+    "display_name": "Bottle Catch"
+  },
+  {
+    "name": "bottle_catch",
+    "display_name": "Bottle Catch"
+  },
+  {
+    "name": "bottle_catch",
+    "display_name": "Bottle Catch"
+  },
+  {
+    "name": "bottle_catch",
+    "display_name": "Bottle Catch"
+  },
+  {
+    "name": "bottle_catch",
+    "display_name": "Bottle Catch"
+  },
+  {
+    "name": "goron_village",
+    "display_name": "Goron Village"
+  },
+  {
+    "name": "goron_village",
+    "display_name": "Goron Village"
+  },
+  {
+    "name": "deku_palace",
+    "display_name": "Deku Palace"
+  },
+  {
+    "name": "twin_islands",
+    "display_name": "Twin Islands"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "ikana_canyon",
+    "display_name": "Ikana Canyon"
+  },
+  {
+    "name": "pirates_fortress_interior",
+    "display_name": "Pirates Fortress Interior"
+  },
+  {
+    "name": "pirates_fortress_interior",
+    "display_name": "Pirates Fortress Interior"
+  },
+  {
+    "name": "pirates_fortress_interior",
+    "display_name": "Pirates Fortress Interior"
+  },
+  {
+    "name": "pirates_fortress_interior",
+    "display_name": "Pirates Fortress Interior"
+  },
+  {
+    "name": "pirates_fortress_sewer",
+    "display_name": "Pirates Fortress Sewer"
+  },
+  {
+    "name": "pirates_fortress_sewer",
+    "display_name": "Pirates Fortress Sewer"
+  },
+  {
+    "name": "pirates_fortress_sewer",
+    "display_name": "Pirates Fortress Sewer"
+  },
+  {
+    "name": "pinnacle_rock",
+    "display_name": "Pinnacle Rock"
+  },
+  {
+    "name": "pinnacle_rock",
+    "display_name": "Pinnacle Rock"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "great_bay_coast",
+    "display_name": "Great Bay Coast"
+  },
+  {
+    "name": "zora_cape",
+    "display_name": "Zora Cape"
+  },
+  {
+    "name": "zora_cape",
+    "display_name": "Zora Cape"
+  },
+  {
+    "name": "zora_cape",
+    "display_name": "Zora Cape"
+  },
+  {
+    "name": "zora_cape",
+    "display_name": "Zora Cape"
+  },
+  {
+    "name": "pirates_fortress_exterior",
+    "display_name": "Pirates Fortress Exterior"
+  },
+  {
+    "name": "pirates_fortress_exterior",
+    "display_name": "Pirates Fortress Exterior"
+  },
+  {
+    "name": "pirates_fortress_exterior",
+    "display_name": "Pirates Fortress Exterior"
+  },
+  {
+    "name": "road_to_southern_swamp",
+    "display_name": "Road To Southern Swamp"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "southern_swamp",
+    "display_name": "Southern Swamp"
+  },
+  {
+    "name": "woodfall",
+    "display_name": "Woodfall"
+  },
+  {
+    "name": "woodfall",
+    "display_name": "Woodfall"
+  },
+  {
+    "name": "beneath_the_well",
+    "display_name": "Beneath The Well"
+  },
+  {
+    "name": "beneath_the_well",
+    "display_name": "Beneath The Well"
+  },
+  {
+    "name": "mountain_village",
+    "display_name": "Mountain Village"
+  },
+  {
+    "name": "mountain_village",
+    "display_name": "Mountain Village"
+  },
+  {
+    "name": "road_to_ikana",
+    "display_name": "Road To Ikana"
+  },
+  {
+    "name": "road_to_ikana",
+    "display_name": "Road To Ikana"
+  },
+  {
+    "name": "stone_tower",
+    "display_name": "Stone Tower"
+  },
+  {
+    "name": "stone_tower",
+    "display_name": "Stone Tower"
+  },
+  {
+    "name": "stone_tower",
+    "display_name": "Stone Tower"
+  },
+  {
+    "name": "path_to_snowhead",
+    "display_name": "Path To Snowhead"
+  },
+  {
+    "name": "twin_islands",
+    "display_name": "Twin Islands"
+  },
+  {
+    "name": "secret_shrine",
+    "display_name": "Secret Shrine"
+  },
+  {
+    "name": "secret_shrine",
+    "display_name": "Secret Shrine"
+  },
+  {
+    "name": "secret_shrine",
+    "display_name": "Secret Shrine"
+  },
+  {
+    "name": "secret_shrine",
+    "display_name": "Secret Shrine"
+  },
+  {
+    "name": "secret_shrine",
+    "display_name": "Secret Shrine"
+  },
+  {
+    "name": "stock_pot_inn",
+    "display_name": "Stock Pot Inn"
+  },
+  {
+    "name": "stock_pot_inn",
+    "display_name": "Stock Pot Inn"
+  },
+  {
+    "name": "southern_swamp",
+    "display_name": "Southern Swamp"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "south_clock_town",
+    "display_name": "South Clock Town"
+  },
+  {
+    "name": "south_clock_town",
+    "display_name": "South Clock Town"
+  },
+  {
+    "name": "west_clock_town",
+    "display_name": "West Clock Town"
+  },
+  {
+    "name": "south_clock_town",
+    "display_name": "South Clock Town"
+  },
+  {
+    "name": "north_clock_town",
+    "display_name": "North Clock Town"
+  },
+  {
+    "name": "road_to_southern_swamp",
+    "display_name": "Road To Southern Swamp"
+  },
+  {
+    "name": "southern_swamp",
+    "display_name": "Southern Swamp"
+  },
+  {
+    "name": "deku_palace",
+    "display_name": "Deku Palace"
+  },
+  {
+    "name": "goron_village",
+    "display_name": "Goron Village"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "great_bay_coast",
+    "display_name": "Great Bay Coast"
+  },
+  {
+    "name": "zora_cape",
+    "display_name": "Zora Cape"
+  },
+  {
+    "name": "pirates_fortress_sewer",
+    "display_name": "Pirates Fortress Sewer"
+  },
+  {
+    "name": "zora_hall",
+    "display_name": "Zora Hall"
+  },
+  {
+    "name": "path_to_snowhead",
+    "display_name": "Path To Snowhead"
+  },
+  {
+    "name": "great_bay_coast",
+    "display_name": "Great Bay Coast"
+  },
+  {
+    "name": "ikana_canyon",
+    "display_name": "Ikana Canyon"
+  },
+  {
+    "name": "ikana_castle",
+    "display_name": "Ikana Castle"
+  },
+  {
+    "name": "twin_islands",
+    "display_name": "Twin Islands"
+  },
+  {
+    "name": "ikana_canyon",
+    "display_name": "Ikana Canyon"
+  },
+  {
+    "name": "the_moon",
+    "display_name": "The Moon"
+  },
+  {
+    "name": "the_moon",
+    "display_name": "The Moon"
+  },
+  {
+    "name": "the_moon",
+    "display_name": "The Moon"
+  },
+  {
+    "name": "the_moon",
+    "display_name": "The Moon"
+  },
+  {
+    "name": "the_moon",
+    "display_name": "The Moon"
+  },
+  {
+    "name": "the_moon",
+    "display_name": "The Moon"
+  },
+  {
+    "name": "the_moon",
+    "display_name": "The Moon"
+  },
+  {
+    "name": "beneath_clocktown",
+    "display_name": "Beneath Clocktown"
+  },
+  {
+    "name": "misc",
+    "display_name": "Misc"
+  },
+  {
+    "name": "misc",
+    "display_name": "Misc"
+  },
+  {
+    "name": "misc",
+    "display_name": "Misc"
+  },
+  {
+    "name": "misc",
+    "display_name": "Misc"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "beneath_the_well",
+    "display_name": "Beneath The Well"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "great_bay_coast",
+    "display_name": "Great Bay Coast"
+  },
+  {
+    "name": "great_bay_coast",
+    "display_name": "Great Bay Coast"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "woodfall_temple",
+    "display_name": "Woodfall Temple"
+  },
+  {
+    "name": "woodfall_temple",
+    "display_name": "Woodfall Temple"
+  },
+  {
+    "name": "woodfall_temple",
+    "display_name": "Woodfall Temple"
+  },
+  {
+    "name": "woodfall_temple",
+    "display_name": "Woodfall Temple"
+  },
+  {
+    "name": "woodfall_temple",
+    "display_name": "Woodfall Temple"
+  },
+  {
+    "name": "woodfall_temple",
+    "display_name": "Woodfall Temple"
+  },
+  {
+    "name": "woodfall_temple",
+    "display_name": "Woodfall Temple"
+  },
+  {
+    "name": "woodfall_temple",
+    "display_name": "Woodfall Temple"
+  },
+  {
+    "name": "woodfall_temple",
+    "display_name": "Woodfall Temple"
+  },
+  {
+    "name": "woodfall_temple",
+    "display_name": "Woodfall Temple"
+  },
+  {
+    "name": "woodfall_temple",
+    "display_name": "Woodfall Temple"
+  },
+  {
+    "name": "woodfall_temple",
+    "display_name": "Woodfall Temple"
+  },
+  {
+    "name": "woodfall_temple",
+    "display_name": "Woodfall Temple"
+  },
+  {
+    "name": "woodfall_temple",
+    "display_name": "Woodfall Temple"
+  },
+  {
+    "name": "woodfall_temple",
+    "display_name": "Woodfall Temple"
+  },
+  {
+    "name": "snowhead_temple",
+    "display_name": "Snowhead Temple"
+  },
+  {
+    "name": "snowhead_temple",
+    "display_name": "Snowhead Temple"
+  },
+  {
+    "name": "snowhead_temple",
+    "display_name": "Snowhead Temple"
+  },
+  {
+    "name": "snowhead_temple",
+    "display_name": "Snowhead Temple"
+  },
+  {
+    "name": "snowhead_temple",
+    "display_name": "Snowhead Temple"
+  },
+  {
+    "name": "snowhead_temple",
+    "display_name": "Snowhead Temple"
+  },
+  {
+    "name": "snowhead_temple",
+    "display_name": "Snowhead Temple"
+  },
+  {
+    "name": "snowhead_temple",
+    "display_name": "Snowhead Temple"
+  },
+  {
+    "name": "snowhead_temple",
+    "display_name": "Snowhead Temple"
+  },
+  {
+    "name": "snowhead_temple",
+    "display_name": "Snowhead Temple"
+  },
+  {
+    "name": "snowhead_temple",
+    "display_name": "Snowhead Temple"
+  },
+  {
+    "name": "snowhead_temple",
+    "display_name": "Snowhead Temple"
+  },
+  {
+    "name": "snowhead_temple",
+    "display_name": "Snowhead Temple"
+  },
+  {
+    "name": "snowhead_temple",
+    "display_name": "Snowhead Temple"
+  },
+  {
+    "name": "snowhead_temple",
+    "display_name": "Snowhead Temple"
+  },
+  {
+    "name": "great_bay_temple",
+    "display_name": "Great Bay Temple"
+  },
+  {
+    "name": "great_bay_temple",
+    "display_name": "Great Bay Temple"
+  },
+  {
+    "name": "great_bay_temple",
+    "display_name": "Great Bay Temple"
+  },
+  {
+    "name": "great_bay_temple",
+    "display_name": "Great Bay Temple"
+  },
+  {
+    "name": "great_bay_temple",
+    "display_name": "Great Bay Temple"
+  },
+  {
+    "name": "great_bay_temple",
+    "display_name": "Great Bay Temple"
+  },
+  {
+    "name": "great_bay_temple",
+    "display_name": "Great Bay Temple"
+  },
+  {
+    "name": "great_bay_temple",
+    "display_name": "Great Bay Temple"
+  },
+  {
+    "name": "great_bay_temple",
+    "display_name": "Great Bay Temple"
+  },
+  {
+    "name": "great_bay_temple",
+    "display_name": "Great Bay Temple"
+  },
+  {
+    "name": "great_bay_temple",
+    "display_name": "Great Bay Temple"
+  },
+  {
+    "name": "great_bay_temple",
+    "display_name": "Great Bay Temple"
+  },
+  {
+    "name": "great_bay_temple",
+    "display_name": "Great Bay Temple"
+  },
+  {
+    "name": "great_bay_temple",
+    "display_name": "Great Bay Temple"
+  },
+  {
+    "name": "great_bay_temple",
+    "display_name": "Great Bay Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "west_clock_town",
+    "display_name": "West Clock Town"
+  },
+  {
+    "name": "west_clock_town",
+    "display_name": "West Clock Town"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "north_clock_town",
+    "display_name": "North Clock Town"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "southern_swamp",
+    "display_name": "Southern Swamp"
+  },
+  {
+    "name": "southern_swamp",
+    "display_name": "Southern Swamp"
+  },
+  {
+    "name": "southern_swamp",
+    "display_name": "Southern Swamp"
+  },
+  {
+    "name": "zora_hall",
+    "display_name": "Zora Hall"
+  },
+  {
+    "name": "milk_road",
+    "display_name": "Milk Road"
+  },
+  {
+    "name": "great_bay_coast",
+    "display_name": "Great Bay Coast"
+  },
+  {
+    "name": "great_bay_coast",
+    "display_name": "Great Bay Coast"
+  },
+  {
+    "name": "zora_hall",
+    "display_name": "Zora Hall"
+  },
+  {
+    "name": "zora_hall",
+    "display_name": "Zora Hall"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "west_clock_town",
+    "display_name": "West Clock Town"
+  },
+  {
+    "name": "west_clock_town",
+    "display_name": "West Clock Town"
+  },
+  {
+    "name": "west_clock_town",
+    "display_name": "West Clock Town"
+  },
+  {
+    "name": "west_clock_town",
+    "display_name": "West Clock Town"
+  },
+  {
+    "name": "great_bay_coast",
+    "display_name": "Great Bay Coast"
+  },
+  {
+    "name": "ikana_castle",
+    "display_name": "Ikana Castle"
+  },
+  {
+    "name": "ikana_castle",
+    "display_name": "Ikana Castle"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "goron_village",
+    "display_name": "Goron Village"
+  },
+  {
+    "name": "goron_village",
+    "display_name": "Goron Village"
+  },
+  {
+    "name": "great_bay_coast",
+    "display_name": "Great Bay Coast"
+  },
+  {
+    "name": "great_bay_coast",
+    "display_name": "Great Bay Coast"
+  },
+  {
+    "name": "great_bay_coast",
+    "display_name": "Great Bay Coast"
+  },
+  {
+    "name": "great_bay_coast",
+    "display_name": "Great Bay Coast"
+  },
+  {
+    "name": "great_bay_temple",
+    "display_name": "Great Bay Temple"
+  },
+  {
+    "name": "ikana_castle",
+    "display_name": "Ikana Castle"
+  },
+  {
+    "name": "ikana_castle",
+    "display_name": "Ikana Castle"
+  },
+  {
+    "name": "ikana_castle",
+    "display_name": "Ikana Castle"
+  },
+  {
+    "name": "ikana_castle",
+    "display_name": "Ikana Castle"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "pirates_fortress_sewer",
+    "display_name": "Pirates Fortress Sewer"
+  },
+  {
+    "name": "pirates_fortress_interior",
+    "display_name": "Pirates Fortress Interior"
+  },
+  {
+    "name": "pirates_fortress_interior",
+    "display_name": "Pirates Fortress Interior"
+  },
+  {
+    "name": "pirates_fortress_sewer",
+    "display_name": "Pirates Fortress Sewer"
+  },
+  {
+    "name": "secret_shrine",
+    "display_name": "Secret Shrine"
+  },
+  {
+    "name": "secret_shrine",
+    "display_name": "Secret Shrine"
+  },
+  {
+    "name": "snowhead_temple",
+    "display_name": "Snowhead Temple"
+  },
+  {
+    "name": "snowhead_temple",
+    "display_name": "Snowhead Temple"
+  },
+  {
+    "name": "stone_tower",
+    "display_name": "Stone Tower"
+  },
+  {
+    "name": "stone_tower",
+    "display_name": "Stone Tower"
+  },
+  {
+    "name": "great_bay_coast",
+    "display_name": "Great Bay Coast"
+  },
+  {
+    "name": "great_bay_temple",
+    "display_name": "Great Bay Temple"
+  },
+  {
+    "name": "great_bay_temple",
+    "display_name": "Great Bay Temple"
+  },
+  {
+    "name": "ikana_canyon",
+    "display_name": "Ikana Canyon"
+  },
+  {
+    "name": "milk_road",
+    "display_name": "Milk Road"
+  },
+  {
+    "name": "mountain_village",
+    "display_name": "Mountain Village"
+  },
+  {
+    "name": "mountain_village",
+    "display_name": "Mountain Village"
+  },
+  {
+    "name": "pirates_fortress_interior",
+    "display_name": "Pirates Fortress Interior"
+  },
+  {
+    "name": "pirates_fortress_sewer",
+    "display_name": "Pirates Fortress Sewer"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "snowhead",
+    "display_name": "Snowhead"
+  },
+  {
+    "name": "stone_tower",
+    "display_name": "Stone Tower"
+  },
+  {
+    "name": "zora_cape",
+    "display_name": "Zora Cape"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "deku_palace",
+    "display_name": "Deku Palace"
+  },
+  {
+    "name": "deku_palace",
+    "display_name": "Deku Palace"
+  },
+  {
+    "name": "deku_palace",
+    "display_name": "Deku Palace"
+  },
+  {
+    "name": "deku_palace",
+    "display_name": "Deku Palace"
+  },
+  {
+    "name": "deku_palace",
+    "display_name": "Deku Palace"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "goron_village",
+    "display_name": "Goron Village"
+  },
+  {
+    "name": "goron_village",
+    "display_name": "Goron Village"
+  },
+  {
+    "name": "goron_village",
+    "display_name": "Goron Village"
+  },
+  {
+    "name": "great_bay_coast",
+    "display_name": "Great Bay Coast"
+  },
+  {
+    "name": "great_bay_coast",
+    "display_name": "Great Bay Coast"
+  },
+  {
+    "name": "great_bay_coast",
+    "display_name": "Great Bay Coast"
+  },
+  {
+    "name": "great_bay_temple",
+    "display_name": "Great Bay Temple"
+  },
+  {
+    "name": "great_bay_temple",
+    "display_name": "Great Bay Temple"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "laundry_pool",
+    "display_name": "Laundry Pool"
+  },
+  {
+    "name": "mountain_village",
+    "display_name": "Mountain Village"
+  },
+  {
+    "name": "mountain_village",
+    "display_name": "Mountain Village"
+  },
+  {
+    "name": "twin_islands",
+    "display_name": "Twin Islands"
+  },
+  {
+    "name": "twin_islands",
+    "display_name": "Twin Islands"
+  },
+  {
+    "name": "twin_islands",
+    "display_name": "Twin Islands"
+  },
+  {
+    "name": "twin_islands",
+    "display_name": "Twin Islands"
+  },
+  {
+    "name": "pirates_fortress_interior",
+    "display_name": "Pirates Fortress Interior"
+  },
+  {
+    "name": "pirates_fortress_sewer",
+    "display_name": "Pirates Fortress Sewer"
+  },
+  {
+    "name": "pirates_fortress_sewer",
+    "display_name": "Pirates Fortress Sewer"
+  },
+  {
+    "name": "pirates_fortress_sewer",
+    "display_name": "Pirates Fortress Sewer"
+  },
+  {
+    "name": "pirates_fortress_sewer",
+    "display_name": "Pirates Fortress Sewer"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "snowhead_temple",
+    "display_name": "Snowhead Temple"
+  },
+  {
+    "name": "snowhead_temple",
+    "display_name": "Snowhead Temple"
+  },
+  {
+    "name": "snowhead_temple",
+    "display_name": "Snowhead Temple"
+  },
+  {
+    "name": "snowhead_temple",
+    "display_name": "Snowhead Temple"
+  },
+  {
+    "name": "snowhead_temple",
+    "display_name": "Snowhead Temple"
+  },
+  {
+    "name": "snowhead_temple",
+    "display_name": "Snowhead Temple"
+  },
+  {
+    "name": "snowhead_temple",
+    "display_name": "Snowhead Temple"
+  },
+  {
+    "name": "snowhead_temple",
+    "display_name": "Snowhead Temple"
+  },
+  {
+    "name": "snowhead_temple",
+    "display_name": "Snowhead Temple"
+  },
+  {
+    "name": "snowhead_temple",
+    "display_name": "Snowhead Temple"
+  },
+  {
+    "name": "southern_swamp",
+    "display_name": "Southern Swamp"
+  },
+  {
+    "name": "southern_swamp",
+    "display_name": "Southern Swamp"
+  },
+  {
+    "name": "southern_swamp",
+    "display_name": "Southern Swamp"
+  },
+  {
+    "name": "southern_swamp",
+    "display_name": "Southern Swamp"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "west_clock_town",
+    "display_name": "West Clock Town"
+  },
+  {
+    "name": "west_clock_town",
+    "display_name": "West Clock Town"
+  },
+  {
+    "name": "west_clock_town",
+    "display_name": "West Clock Town"
+  },
+  {
+    "name": "west_clock_town",
+    "display_name": "West Clock Town"
+  },
+  {
+    "name": "west_clock_town",
+    "display_name": "West Clock Town"
+  },
+  {
+    "name": "woodfall",
+    "display_name": "Woodfall"
+  },
+  {
+    "name": "woodfall_temple",
+    "display_name": "Woodfall Temple"
+  },
+  {
+    "name": "woodfall_temple",
+    "display_name": "Woodfall Temple"
+  },
+  {
+    "name": "woodfall_temple",
+    "display_name": "Woodfall Temple"
+  },
+  {
+    "name": "woodfall_temple",
+    "display_name": "Woodfall Temple"
+  },
+  {
+    "name": "woodfall_temple",
+    "display_name": "Woodfall Temple"
+  },
+  {
+    "name": "woodfall_temple",
+    "display_name": "Woodfall Temple"
+  },
+  {
+    "name": "woodfall_temple",
+    "display_name": "Woodfall Temple"
+  },
+  {
+    "name": "woodfall_temple",
+    "display_name": "Woodfall Temple"
+  },
+  {
+    "name": "woodfall_temple",
+    "display_name": "Woodfall Temple"
+  },
+  {
+    "name": "beneath_the_well",
+    "display_name": "Beneath The Well"
+  },
+  {
+    "name": "beneath_the_well",
+    "display_name": "Beneath The Well"
+  },
+  {
+    "name": "beneath_the_well",
+    "display_name": "Beneath The Well"
+  },
+  {
+    "name": "beneath_the_well",
+    "display_name": "Beneath The Well"
+  },
+  {
+    "name": "beneath_the_well",
+    "display_name": "Beneath The Well"
+  },
+  {
+    "name": "goron_village",
+    "display_name": "Goron Village"
+  },
+  {
+    "name": "goron_village",
+    "display_name": "Goron Village"
+  },
+  {
+    "name": "great_bay_coast",
+    "display_name": "Great Bay Coast"
+  },
+  {
+    "name": "great_bay_temple",
+    "display_name": "Great Bay Temple"
+  },
+  {
+    "name": "great_bay_temple",
+    "display_name": "Great Bay Temple"
+  },
+  {
+    "name": "ikana_canyon",
+    "display_name": "Ikana Canyon"
+  },
+  {
+    "name": "mountain_village",
+    "display_name": "Mountain Village"
+  },
+  {
+    "name": "mountain_village",
+    "display_name": "Mountain Village"
+  },
+  {
+    "name": "snowhead",
+    "display_name": "Snowhead"
+  },
+  {
+    "name": "stone_tower",
+    "display_name": "Stone Tower"
+  },
+  {
+    "name": "stone_tower",
+    "display_name": "Stone Tower"
+  },
+  {
+    "name": "zora_cape",
+    "display_name": "Zora Cape"
+  },
+  {
+    "name": "ikana_castle",
+    "display_name": "Ikana Castle"
+  },
+  {
+    "name": "goron_village",
+    "display_name": "Goron Village"
+  },
+  {
+    "name": "goron_village",
+    "display_name": "Goron Village"
+  },
+  {
+    "name": "pirates_fortress_sewer",
+    "display_name": "Pirates Fortress Sewer"
+  },
+  {
+    "name": "woodfall",
+    "display_name": "Woodfall"
+  },
+  {
+    "name": "goron_village",
+    "display_name": "Goron Village"
+  },
+  {
+    "name": "goron_village",
+    "display_name": "Goron Village"
+  },
+  {
+    "name": "goron_village",
+    "display_name": "Goron Village"
+  },
+  {
+    "name": "goron_village",
+    "display_name": "Goron Village"
+  },
+  {
+    "name": "goron_village",
+    "display_name": "Goron Village"
+  },
+  {
+    "name": "goron_village",
+    "display_name": "Goron Village"
+  },
+  {
+    "name": "goron_village",
+    "display_name": "Goron Village"
+  },
+  {
+    "name": "southern_swamp",
+    "display_name": "Southern Swamp"
+  },
+  {
+    "name": "southern_swamp",
+    "display_name": "Southern Swamp"
+  },
+  {
+    "name": "woodfall",
+    "display_name": "Woodfall"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "deku_palace",
+    "display_name": "Deku Palace"
+  },
+  {
+    "name": "deku_palace",
+    "display_name": "Deku Palace"
+  },
+  {
+    "name": "deku_palace",
+    "display_name": "Deku Palace"
+  },
+  {
+    "name": "deku_palace",
+    "display_name": "Deku Palace"
+  },
+  {
+    "name": "deku_palace",
+    "display_name": "Deku Palace"
+  },
+  {
+    "name": "deku_palace",
+    "display_name": "Deku Palace"
+  },
+  {
+    "name": "deku_palace",
+    "display_name": "Deku Palace"
+  },
+  {
+    "name": "deku_palace",
+    "display_name": "Deku Palace"
+  },
+  {
+    "name": "deku_palace",
+    "display_name": "Deku Palace"
+  },
+  {
+    "name": "deku_palace",
+    "display_name": "Deku Palace"
+  },
+  {
+    "name": "deku_palace",
+    "display_name": "Deku Palace"
+  },
+  {
+    "name": "deku_palace",
+    "display_name": "Deku Palace"
+  },
+  {
+    "name": "deku_palace",
+    "display_name": "Deku Palace"
+  },
+  {
+    "name": "butler_race_items",
+    "display_name": "Butler Race Items"
+  },
+  {
+    "name": "butler_race_items",
+    "display_name": "Butler Race Items"
+  },
+  {
+    "name": "butler_race_items",
+    "display_name": "Butler Race Items"
+  },
+  {
+    "name": "butler_race_items",
+    "display_name": "Butler Race Items"
+  },
+  {
+    "name": "butler_race_items",
+    "display_name": "Butler Race Items"
+  },
+  {
+    "name": "butler_race_items",
+    "display_name": "Butler Race Items"
+  },
+  {
+    "name": "butler_race_items",
+    "display_name": "Butler Race Items"
+  },
+  {
+    "name": "butler_race_items",
+    "display_name": "Butler Race Items"
+  },
+  {
+    "name": "butler_race_items",
+    "display_name": "Butler Race Items"
+  },
+  {
+    "name": "butler_race_items",
+    "display_name": "Butler Race Items"
+  },
+  {
+    "name": "butler_race_items",
+    "display_name": "Butler Race Items"
+  },
+  {
+    "name": "butler_race_items",
+    "display_name": "Butler Race Items"
+  },
+  {
+    "name": "butler_race_items",
+    "display_name": "Butler Race Items"
+  },
+  {
+    "name": "butler_race_items",
+    "display_name": "Butler Race Items"
+  },
+  {
+    "name": "butler_race_items",
+    "display_name": "Butler Race Items"
+  },
+  {
+    "name": "butler_race_items",
+    "display_name": "Butler Race Items"
+  },
+  {
+    "name": "butler_race_items",
+    "display_name": "Butler Race Items"
+  },
+  {
+    "name": "butler_race_items",
+    "display_name": "Butler Race Items"
+  },
+  {
+    "name": "butler_race_items",
+    "display_name": "Butler Race Items"
+  },
+  {
+    "name": "butler_race_items",
+    "display_name": "Butler Race Items"
+  },
+  {
+    "name": "butler_race_items",
+    "display_name": "Butler Race Items"
+  },
+  {
+    "name": "butler_race_items",
+    "display_name": "Butler Race Items"
+  },
+  {
+    "name": "butler_race_items",
+    "display_name": "Butler Race Items"
+  },
+  {
+    "name": "butler_race_items",
+    "display_name": "Butler Race Items"
+  },
+  {
+    "name": "butler_race_items",
+    "display_name": "Butler Race Items"
+  },
+  {
+    "name": "butler_race_items",
+    "display_name": "Butler Race Items"
+  },
+  {
+    "name": "butler_race_items",
+    "display_name": "Butler Race Items"
+  },
+  {
+    "name": "butler_race_items",
+    "display_name": "Butler Race Items"
+  },
+  {
+    "name": "butler_race_items",
+    "display_name": "Butler Race Items"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "great_bay_temple",
+    "display_name": "Great Bay Temple"
+  },
+  {
+    "name": "great_bay_temple",
+    "display_name": "Great Bay Temple"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "southern_swamp",
+    "display_name": "Southern Swamp"
+  },
+  {
+    "name": "pirates_fortress_sewer",
+    "display_name": "Pirates Fortress Sewer"
+  },
+  {
+    "name": "pirates_fortress_sewer",
+    "display_name": "Pirates Fortress Sewer"
+  },
+  {
+    "name": "pirates_fortress_sewer",
+    "display_name": "Pirates Fortress Sewer"
+  },
+  {
+    "name": "pirates_fortress_sewer",
+    "display_name": "Pirates Fortress Sewer"
+  },
+  {
+    "name": "secret_shrine",
+    "display_name": "Secret Shrine"
+  },
+  {
+    "name": "secret_shrine",
+    "display_name": "Secret Shrine"
+  },
+  {
+    "name": "secret_shrine",
+    "display_name": "Secret Shrine"
+  },
+  {
+    "name": "secret_shrine",
+    "display_name": "Secret Shrine"
+  },
+  {
+    "name": "secret_shrine",
+    "display_name": "Secret Shrine"
+  },
+  {
+    "name": "secret_shrine",
+    "display_name": "Secret Shrine"
+  },
+  {
+    "name": "secret_shrine",
+    "display_name": "Secret Shrine"
+  },
+  {
+    "name": "secret_shrine",
+    "display_name": "Secret Shrine"
+  },
+  {
+    "name": "secret_shrine",
+    "display_name": "Secret Shrine"
+  },
+  {
+    "name": "secret_shrine",
+    "display_name": "Secret Shrine"
+  },
+  {
+    "name": "secret_shrine",
+    "display_name": "Secret Shrine"
+  },
+  {
+    "name": "secret_shrine",
+    "display_name": "Secret Shrine"
+  },
+  {
+    "name": "secret_shrine",
+    "display_name": "Secret Shrine"
+  },
+  {
+    "name": "secret_shrine",
+    "display_name": "Secret Shrine"
+  },
+  {
+    "name": "secret_shrine",
+    "display_name": "Secret Shrine"
+  },
+  {
+    "name": "secret_shrine",
+    "display_name": "Secret Shrine"
+  },
+  {
+    "name": "secret_shrine",
+    "display_name": "Secret Shrine"
+  },
+  {
+    "name": "southern_swamp",
+    "display_name": "Southern Swamp"
+  },
+  {
+    "name": "southern_swamp",
+    "display_name": "Southern Swamp"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "clock_tower_roof",
+    "display_name": "Clock Tower Roof"
+  },
+  {
+    "name": "clock_tower_roof",
+    "display_name": "Clock Tower Roof"
+  },
+  {
+    "name": "clock_tower_roof",
+    "display_name": "Clock Tower Roof"
+  },
+  {
+    "name": "clock_tower_roof",
+    "display_name": "Clock Tower Roof"
+  },
+  {
+    "name": "goron_race_items",
+    "display_name": "Goron Race Items"
+  },
+  {
+    "name": "goron_race_items",
+    "display_name": "Goron Race Items"
+  },
+  {
+    "name": "goron_race_items",
+    "display_name": "Goron Race Items"
+  },
+  {
+    "name": "goron_race_items",
+    "display_name": "Goron Race Items"
+  },
+  {
+    "name": "goron_race_items",
+    "display_name": "Goron Race Items"
+  },
+  {
+    "name": "goron_race_items",
+    "display_name": "Goron Race Items"
+  },
+  {
+    "name": "goron_race_items",
+    "display_name": "Goron Race Items"
+  },
+  {
+    "name": "goron_race_items",
+    "display_name": "Goron Race Items"
+  },
+  {
+    "name": "goron_race_items",
+    "display_name": "Goron Race Items"
+  },
+  {
+    "name": "goron_race_items",
+    "display_name": "Goron Race Items"
+  },
+  {
+    "name": "goron_race_items",
+    "display_name": "Goron Race Items"
+  },
+  {
+    "name": "goron_race_items",
+    "display_name": "Goron Race Items"
+  },
+  {
+    "name": "goron_race_items",
+    "display_name": "Goron Race Items"
+  },
+  {
+    "name": "goron_race_items",
+    "display_name": "Goron Race Items"
+  },
+  {
+    "name": "goron_race_items",
+    "display_name": "Goron Race Items"
+  },
+  {
+    "name": "goron_race_items",
+    "display_name": "Goron Race Items"
+  },
+  {
+    "name": "goron_race_items",
+    "display_name": "Goron Race Items"
+  },
+  {
+    "name": "goron_race_items",
+    "display_name": "Goron Race Items"
+  },
+  {
+    "name": "goron_race_items",
+    "display_name": "Goron Race Items"
+  },
+  {
+    "name": "goron_race_items",
+    "display_name": "Goron Race Items"
+  },
+  {
+    "name": "goron_race_items",
+    "display_name": "Goron Race Items"
+  },
+  {
+    "name": "goron_race_items",
+    "display_name": "Goron Race Items"
+  },
+  {
+    "name": "goron_race_items",
+    "display_name": "Goron Race Items"
+  },
+  {
+    "name": "goron_race_items",
+    "display_name": "Goron Race Items"
+  },
+  {
+    "name": "goron_race_items",
+    "display_name": "Goron Race Items"
+  },
+  {
+    "name": "goron_race_items",
+    "display_name": "Goron Race Items"
+  },
+  {
+    "name": "goron_race_items",
+    "display_name": "Goron Race Items"
+  },
+  {
+    "name": "goron_village",
+    "display_name": "Goron Village"
+  },
+  {
+    "name": "goron_village",
+    "display_name": "Goron Village"
+  },
+  {
+    "name": "goron_village",
+    "display_name": "Goron Village"
+  },
+  {
+    "name": "goron_village",
+    "display_name": "Goron Village"
+  },
+  {
+    "name": "great_bay_coast",
+    "display_name": "Great Bay Coast"
+  },
+  {
+    "name": "great_bay_temple",
+    "display_name": "Great Bay Temple"
+  },
+  {
+    "name": "ikana_castle",
+    "display_name": "Ikana Castle"
+  },
+  {
+    "name": "ikana_canyon",
+    "display_name": "Ikana Canyon"
+  },
+  {
+    "name": "milk_road",
+    "display_name": "Milk Road"
+  },
+  {
+    "name": "mountain_village",
+    "display_name": "Mountain Village"
+  },
+  {
+    "name": "mountain_village",
+    "display_name": "Mountain Village"
+  },
+  {
+    "name": "mountain_village",
+    "display_name": "Mountain Village"
+  },
+  {
+    "name": "mountain_village",
+    "display_name": "Mountain Village"
+  },
+  {
+    "name": "snowhead",
+    "display_name": "Snowhead"
+  },
+  {
+    "name": "stone_tower",
+    "display_name": "Stone Tower"
+  },
+  {
+    "name": "stone_tower",
+    "display_name": "Stone Tower"
+  },
+  {
+    "name": "the_moon",
+    "display_name": "The Moon"
+  },
+  {
+    "name": "the_moon",
+    "display_name": "The Moon"
+  },
+  {
+    "name": "the_moon",
+    "display_name": "The Moon"
+  },
+  {
+    "name": "the_moon",
+    "display_name": "The Moon"
+  },
+  {
+    "name": "zora_cape",
+    "display_name": "Zora Cape"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "pirates_fortress_interior",
+    "display_name": "Pirates Fortress Interior"
+  },
+  {
+    "name": "pirates_fortress_interior",
+    "display_name": "Pirates Fortress Interior"
+  },
+  {
+    "name": "pirates_fortress_interior",
+    "display_name": "Pirates Fortress Interior"
+  },
+  {
+    "name": "butler_race_items",
+    "display_name": "Butler Race Items"
+  },
+  {
+    "name": "butler_race_items",
+    "display_name": "Butler Race Items"
+  },
+  {
+    "name": "great_bay_temple",
+    "display_name": "Great Bay Temple"
+  },
+  {
+    "name": "great_bay_temple",
+    "display_name": "Great Bay Temple"
+  },
+  {
+    "name": "great_bay_temple",
+    "display_name": "Great Bay Temple"
+  },
+  {
+    "name": "great_bay_temple",
+    "display_name": "Great Bay Temple"
+  },
+  {
+    "name": "great_bay_temple",
+    "display_name": "Great Bay Temple"
+  },
+  {
+    "name": "laundry_pool",
+    "display_name": "Laundry Pool"
+  },
+  {
+    "name": "laundry_pool",
+    "display_name": "Laundry Pool"
+  },
+  {
+    "name": "laundry_pool",
+    "display_name": "Laundry Pool"
+  },
+  {
+    "name": "mountain_village",
+    "display_name": "Mountain Village"
+  },
+  {
+    "name": "snowhead_temple",
+    "display_name": "Snowhead Temple"
+  },
+  {
+    "name": "snowhead_temple",
+    "display_name": "Snowhead Temple"
+  },
+  {
+    "name": "snowhead_temple",
+    "display_name": "Snowhead Temple"
+  },
+  {
+    "name": "southern_swamp",
+    "display_name": "Southern Swamp"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "woodfall_temple",
+    "display_name": "Woodfall Temple"
+  },
+  {
+    "name": "woodfall_temple",
+    "display_name": "Woodfall Temple"
+  },
+  {
+    "name": "ikana_castle",
+    "display_name": "Ikana Castle"
+  },
+  {
+    "name": "ikana_castle",
+    "display_name": "Ikana Castle"
+  },
+  {
+    "name": "ikana_castle",
+    "display_name": "Ikana Castle"
+  },
+  {
+    "name": "ikana_castle",
+    "display_name": "Ikana Castle"
+  },
+  {
+    "name": "ikana_castle",
+    "display_name": "Ikana Castle"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "deku_palace",
+    "display_name": "Deku Palace"
+  },
+  {
+    "name": "deku_palace",
+    "display_name": "Deku Palace"
+  },
+  {
+    "name": "goron_race_items",
+    "display_name": "Goron Race Items"
+  },
+  {
+    "name": "goron_race_items",
+    "display_name": "Goron Race Items"
+  },
+  {
+    "name": "goron_race_items",
+    "display_name": "Goron Race Items"
+  },
+  {
+    "name": "goron_village",
+    "display_name": "Goron Village"
+  },
+  {
+    "name": "goron_village",
+    "display_name": "Goron Village"
+  },
+  {
+    "name": "goron_village",
+    "display_name": "Goron Village"
+  },
+  {
+    "name": "goron_village",
+    "display_name": "Goron Village"
+  },
+  {
+    "name": "goron_village",
+    "display_name": "Goron Village"
+  },
+  {
+    "name": "goron_village",
+    "display_name": "Goron Village"
+  },
+  {
+    "name": "goron_village",
+    "display_name": "Goron Village"
+  },
+  {
+    "name": "ikana_castle",
+    "display_name": "Ikana Castle"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "mountain_village",
+    "display_name": "Mountain Village"
+  },
+  {
+    "name": "mountain_village",
+    "display_name": "Mountain Village"
+  },
+  {
+    "name": "mountain_village",
+    "display_name": "Mountain Village"
+  },
+  {
+    "name": "mountain_village",
+    "display_name": "Mountain Village"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "twin_islands",
+    "display_name": "Twin Islands"
+  },
+  {
+    "name": "twin_islands",
+    "display_name": "Twin Islands"
+  },
+  {
+    "name": "twin_islands",
+    "display_name": "Twin Islands"
+  },
+  {
+    "name": "twin_islands",
+    "display_name": "Twin Islands"
+  },
+  {
+    "name": "twin_islands",
+    "display_name": "Twin Islands"
+  },
+  {
+    "name": "twin_islands",
+    "display_name": "Twin Islands"
+  },
+  {
+    "name": "twin_islands",
+    "display_name": "Twin Islands"
+  },
+  {
+    "name": "twin_islands",
+    "display_name": "Twin Islands"
+  },
+  {
+    "name": "twin_islands",
+    "display_name": "Twin Islands"
+  },
+  {
+    "name": "twin_islands",
+    "display_name": "Twin Islands"
+  },
+  {
+    "name": "twin_islands",
+    "display_name": "Twin Islands"
+  },
+  {
+    "name": "twin_islands",
+    "display_name": "Twin Islands"
+  },
+  {
+    "name": "twin_islands",
+    "display_name": "Twin Islands"
+  },
+  {
+    "name": "twin_islands",
+    "display_name": "Twin Islands"
+  },
+  {
+    "name": "twin_islands",
+    "display_name": "Twin Islands"
+  },
+  {
+    "name": "twin_islands",
+    "display_name": "Twin Islands"
+  },
+  {
+    "name": "twin_islands",
+    "display_name": "Twin Islands"
+  },
+  {
+    "name": "path_to_mountain_village",
+    "display_name": "Path To Mountain Village"
+  },
+  {
+    "name": "path_to_snowhead",
+    "display_name": "Path To Snowhead"
+  },
+  {
+    "name": "path_to_snowhead",
+    "display_name": "Path To Snowhead"
+  },
+  {
+    "name": "path_to_snowhead",
+    "display_name": "Path To Snowhead"
+  },
+  {
+    "name": "path_to_snowhead",
+    "display_name": "Path To Snowhead"
+  },
+  {
+    "name": "pinnacle_rock",
+    "display_name": "Pinnacle Rock"
+  },
+  {
+    "name": "pinnacle_rock",
+    "display_name": "Pinnacle Rock"
+  },
+  {
+    "name": "pinnacle_rock",
+    "display_name": "Pinnacle Rock"
+  },
+  {
+    "name": "pinnacle_rock",
+    "display_name": "Pinnacle Rock"
+  },
+  {
+    "name": "secret_shrine",
+    "display_name": "Secret Shrine"
+  },
+  {
+    "name": "secret_shrine",
+    "display_name": "Secret Shrine"
+  },
+  {
+    "name": "snowhead",
+    "display_name": "Snowhead"
+  },
+  {
+    "name": "snowhead",
+    "display_name": "Snowhead"
+  },
+  {
+    "name": "snowhead",
+    "display_name": "Snowhead"
+  },
+  {
+    "name": "snowhead",
+    "display_name": "Snowhead"
+  },
+  {
+    "name": "snowhead",
+    "display_name": "Snowhead"
+  },
+  {
+    "name": "snowhead",
+    "display_name": "Snowhead"
+  },
+  {
+    "name": "stone_tower",
+    "display_name": "Stone Tower"
+  },
+  {
+    "name": "stone_tower",
+    "display_name": "Stone Tower"
+  },
+  {
+    "name": "stone_tower",
+    "display_name": "Stone Tower"
+  },
+  {
+    "name": "stone_tower",
+    "display_name": "Stone Tower"
+  },
+  {
+    "name": "stone_tower",
+    "display_name": "Stone Tower"
+  },
+  {
+    "name": "zora_cape",
+    "display_name": "Zora Cape"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "west_clock_town",
+    "display_name": "West Clock Town"
+  },
+  {
+    "name": "deku_palace",
+    "display_name": "Deku Palace"
+  },
+  {
+    "name": "deku_palace",
+    "display_name": "Deku Palace"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "great_bay_coast",
+    "display_name": "Great Bay Coast"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "secret_shrine",
+    "display_name": "Secret Shrine"
+  },
+  {
+    "name": "stone_tower",
+    "display_name": "Stone Tower"
+  },
+  {
+    "name": "stone_tower",
+    "display_name": "Stone Tower"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "deku_palace",
+    "display_name": "Deku Palace"
+  },
+  {
+    "name": "deku_palace",
+    "display_name": "Deku Palace"
+  },
+  {
+    "name": "deku_palace",
+    "display_name": "Deku Palace"
+  },
+  {
+    "name": "deku_palace",
+    "display_name": "Deku Palace"
+  },
+  {
+    "name": "deku_palace",
+    "display_name": "Deku Palace"
+  },
+  {
+    "name": "deku_palace",
+    "display_name": "Deku Palace"
+  },
+  {
+    "name": "deku_palace",
+    "display_name": "Deku Palace"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "deku_playground_items",
+    "display_name": "Deku Playground Items"
+  },
+  {
+    "name": "deku_playground_items",
+    "display_name": "Deku Playground Items"
+  },
+  {
+    "name": "deku_playground_items",
+    "display_name": "Deku Playground Items"
+  },
+  {
+    "name": "deku_playground_items",
+    "display_name": "Deku Playground Items"
+  },
+  {
+    "name": "deku_playground_items",
+    "display_name": "Deku Playground Items"
+  },
+  {
+    "name": "deku_playground_items",
+    "display_name": "Deku Playground Items"
+  },
+  {
+    "name": "deku_playground_items",
+    "display_name": "Deku Playground Items"
+  },
+  {
+    "name": "deku_playground_items",
+    "display_name": "Deku Playground Items"
+  },
+  {
+    "name": "deku_playground_items",
+    "display_name": "Deku Playground Items"
+  },
+  {
+    "name": "deku_playground_items",
+    "display_name": "Deku Playground Items"
+  },
+  {
+    "name": "deku_playground_items",
+    "display_name": "Deku Playground Items"
+  },
+  {
+    "name": "deku_playground_items",
+    "display_name": "Deku Playground Items"
+  },
+  {
+    "name": "deku_playground_items",
+    "display_name": "Deku Playground Items"
+  },
+  {
+    "name": "deku_playground_items",
+    "display_name": "Deku Playground Items"
+  },
+  {
+    "name": "deku_playground_items",
+    "display_name": "Deku Playground Items"
+  },
+  {
+    "name": "deku_playground_items",
+    "display_name": "Deku Playground Items"
+  },
+  {
+    "name": "deku_playground_items",
+    "display_name": "Deku Playground Items"
+  },
+  {
+    "name": "deku_playground_items",
+    "display_name": "Deku Playground Items"
+  },
+  {
+    "name": "pirates_fortress_interior",
+    "display_name": "Pirates Fortress Interior"
+  },
+  {
+    "name": "pirates_fortress_interior",
+    "display_name": "Pirates Fortress Interior"
+  },
+  {
+    "name": "pirates_fortress_interior",
+    "display_name": "Pirates Fortress Interior"
+  },
+  {
+    "name": "pirates_fortress_interior",
+    "display_name": "Pirates Fortress Interior"
+  },
+  {
+    "name": "pirates_fortress_interior",
+    "display_name": "Pirates Fortress Interior"
+  },
+  {
+    "name": "pirates_fortress_interior",
+    "display_name": "Pirates Fortress Interior"
+  },
+  {
+    "name": "pirates_fortress_interior",
+    "display_name": "Pirates Fortress Interior"
+  },
+  {
+    "name": "pirates_fortress_interior",
+    "display_name": "Pirates Fortress Interior"
+  },
+  {
+    "name": "pirates_fortress_interior",
+    "display_name": "Pirates Fortress Interior"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "stock_pot_inn",
+    "display_name": "Stock Pot Inn"
+  },
+  {
+    "name": "stock_pot_inn",
+    "display_name": "Stock Pot Inn"
+  },
+  {
+    "name": "stock_pot_inn",
+    "display_name": "Stock Pot Inn"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "south_clock_town",
+    "display_name": "South Clock Town"
+  },
+  {
+    "name": "south_clock_town",
+    "display_name": "South Clock Town"
+  },
+  {
+    "name": "south_clock_town",
+    "display_name": "South Clock Town"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "pirates_fortress_interior",
+    "display_name": "Pirates Fortress Interior"
+  },
+  {
+    "name": "pirates_fortress_interior",
+    "display_name": "Pirates Fortress Interior"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "milk_road",
+    "display_name": "Milk Road"
+  },
+  {
+    "name": "milk_road",
+    "display_name": "Milk Road"
+  },
+  {
+    "name": "milk_road",
+    "display_name": "Milk Road"
+  },
+  {
+    "name": "milk_road",
+    "display_name": "Milk Road"
+  },
+  {
+    "name": "milk_road",
+    "display_name": "Milk Road"
+  },
+  {
+    "name": "milk_road",
+    "display_name": "Milk Road"
+  },
+  {
+    "name": "milk_road",
+    "display_name": "Milk Road"
+  },
+  {
+    "name": "milk_road",
+    "display_name": "Milk Road"
+  },
+  {
+    "name": "milk_road",
+    "display_name": "Milk Road"
+  },
+  {
+    "name": "north_clock_town",
+    "display_name": "North Clock Town"
+  },
+  {
+    "name": "north_clock_town",
+    "display_name": "North Clock Town"
+  },
+  {
+    "name": "north_clock_town",
+    "display_name": "North Clock Town"
+  },
+  {
+    "name": "north_clock_town",
+    "display_name": "North Clock Town"
+  },
+  {
+    "name": "north_clock_town",
+    "display_name": "North Clock Town"
+  },
+  {
+    "name": "north_clock_town",
+    "display_name": "North Clock Town"
+  },
+  {
+    "name": "north_clock_town",
+    "display_name": "North Clock Town"
+  },
+  {
+    "name": "north_clock_town",
+    "display_name": "North Clock Town"
+  },
+  {
+    "name": "north_clock_town",
+    "display_name": "North Clock Town"
+  },
+  {
+    "name": "mountain_village",
+    "display_name": "Mountain Village"
+  },
+  {
+    "name": "mountain_village",
+    "display_name": "Mountain Village"
+  },
+  {
+    "name": "mountain_village",
+    "display_name": "Mountain Village"
+  },
+  {
+    "name": "mountain_village",
+    "display_name": "Mountain Village"
+  },
+  {
+    "name": "mountain_village",
+    "display_name": "Mountain Village"
+  },
+  {
+    "name": "mountain_village",
+    "display_name": "Mountain Village"
+  },
+  {
+    "name": "mountain_village",
+    "display_name": "Mountain Village"
+  },
+  {
+    "name": "mountain_village",
+    "display_name": "Mountain Village"
+  },
+  {
+    "name": "mountain_village",
+    "display_name": "Mountain Village"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "ocean_spider_house_items",
+    "display_name": "Ocean Spider House Items"
+  },
+  {
+    "name": "ikana_canyon",
+    "display_name": "Ikana Canyon"
+  },
+  {
+    "name": "ikana_canyon",
+    "display_name": "Ikana Canyon"
+  },
+  {
+    "name": "ikana_canyon",
+    "display_name": "Ikana Canyon"
+  },
+  {
+    "name": "path_to_snowhead",
+    "display_name": "Path To Snowhead"
+  },
+  {
+    "name": "path_to_snowhead",
+    "display_name": "Path To Snowhead"
+  },
+  {
+    "name": "path_to_snowhead",
+    "display_name": "Path To Snowhead"
+  },
+  {
+    "name": "path_to_snowhead",
+    "display_name": "Path To Snowhead"
+  },
+  {
+    "name": "path_to_mountain_village",
+    "display_name": "Path To Mountain Village"
+  },
+  {
+    "name": "path_to_mountain_village",
+    "display_name": "Path To Mountain Village"
+  },
+  {
+    "name": "path_to_mountain_village",
+    "display_name": "Path To Mountain Village"
+  },
+  {
+    "name": "zora_cape",
+    "display_name": "Zora Cape"
+  },
+  {
+    "name": "ikana_graveyard",
+    "display_name": "Ikana Graveyard"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "stock_pot_inn",
+    "display_name": "Stock Pot Inn"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "milk_road",
+    "display_name": "Milk Road"
+  },
+  {
+    "name": "road_to_ikana",
+    "display_name": "Road To Ikana"
+  },
+  {
+    "name": "stock_pot_inn",
+    "display_name": "Stock Pot Inn"
+  },
+  {
+    "name": "stock_pot_inn",
+    "display_name": "Stock Pot Inn"
+  },
+  {
+    "name": "stock_pot_inn",
+    "display_name": "Stock Pot Inn"
+  },
+  {
+    "name": "laundry_pool",
+    "display_name": "Laundry Pool"
+  },
+  {
+    "name": "stock_pot_inn",
+    "display_name": "Stock Pot Inn"
+  },
+  {
+    "name": "ikana_canyon",
+    "display_name": "Ikana Canyon"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "laundry_pool",
+    "display_name": "Laundry Pool"
+  },
+  {
+    "name": "laundry_pool",
+    "display_name": "Laundry Pool"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "west_clock_town",
+    "display_name": "West Clock Town"
+  },
+  {
+    "name": "stock_pot_inn",
+    "display_name": "Stock Pot Inn"
+  },
+  {
+    "name": "stock_pot_inn",
+    "display_name": "Stock Pot Inn"
+  },
+  {
+    "name": "stock_pot_inn",
+    "display_name": "Stock Pot Inn"
+  },
+  {
+    "name": "west_clock_town",
+    "display_name": "West Clock Town"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "west_clock_town",
+    "display_name": "West Clock Town"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "milk_road",
+    "display_name": "Milk Road"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "stock_pot_inn",
+    "display_name": "Stock Pot Inn"
+  },
+  {
+    "name": "north_clock_town",
+    "display_name": "North Clock Town"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "road_to_ikana",
+    "display_name": "Road To Ikana"
+  },
+  {
+    "name": "laundry_pool",
+    "display_name": "Laundry Pool"
+  },
+  {
+    "name": "ikana_castle",
+    "display_name": "Ikana Castle"
+  },
+  {
+    "name": "ikana_castle",
+    "display_name": "Ikana Castle"
+  },
+  {
+    "name": "ikana_castle",
+    "display_name": "Ikana Castle"
+  },
+  {
+    "name": "great_bay_coast",
+    "display_name": "Great Bay Coast"
+  },
+  {
+    "name": "great_bay_temple",
+    "display_name": "Great Bay Temple"
+  },
+  {
+    "name": "ikana_canyon",
+    "display_name": "Ikana Canyon"
+  },
+  {
+    "name": "ikana_canyon",
+    "display_name": "Ikana Canyon"
+  },
+  {
+    "name": "milk_road",
+    "display_name": "Milk Road"
+  },
+  {
+    "name": "mountain_village",
+    "display_name": "Mountain Village"
+  },
+  {
+    "name": "mountain_village",
+    "display_name": "Mountain Village"
+  },
+  {
+    "name": "mountain_village",
+    "display_name": "Mountain Village"
+  },
+  {
+    "name": "mountain_village",
+    "display_name": "Mountain Village"
+  },
+  {
+    "name": "road_to_ikana",
+    "display_name": "Road To Ikana"
+  },
+  {
+    "name": "secret_shrine",
+    "display_name": "Secret Shrine"
+  },
+  {
+    "name": "snowhead",
+    "display_name": "Snowhead"
+  },
+  {
+    "name": "snowhead_temple",
+    "display_name": "Snowhead Temple"
+  },
+  {
+    "name": "southern_swamp",
+    "display_name": "Southern Swamp"
+  },
+  {
+    "name": "southern_swamp",
+    "display_name": "Southern Swamp"
+  },
+  {
+    "name": "stone_tower",
+    "display_name": "Stone Tower"
+  },
+  {
+    "name": "stone_tower",
+    "display_name": "Stone Tower"
+  },
+  {
+    "name": "stone_tower",
+    "display_name": "Stone Tower"
+  },
+  {
+    "name": "stone_tower",
+    "display_name": "Stone Tower"
+  },
+  {
+    "name": "stone_tower",
+    "display_name": "Stone Tower"
+  },
+  {
+    "name": "stone_tower_temple",
+    "display_name": "Stone Tower Temple"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "woodfall",
+    "display_name": "Woodfall"
+  },
+  {
+    "name": "woodfall_temple",
+    "display_name": "Woodfall Temple"
+  },
+  {
+    "name": "zora_cape",
+    "display_name": "Zora Cape"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "great_bay_coast",
+    "display_name": "Great Bay Coast"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "ikana_canyon",
+    "display_name": "Ikana Canyon"
+  },
+  {
+    "name": "ikana_canyon",
+    "display_name": "Ikana Canyon"
+  },
+  {
+    "name": "ikana_canyon",
+    "display_name": "Ikana Canyon"
+  },
+  {
+    "name": "milk_road",
+    "display_name": "Milk Road"
+  },
+  {
+    "name": "mountain_village",
+    "display_name": "Mountain Village"
+  },
+  {
+    "name": "mountain_village",
+    "display_name": "Mountain Village"
+  },
+  {
+    "name": "path_to_mountain_village",
+    "display_name": "Path To Mountain Village"
+  },
+  {
+    "name": "road_to_ikana",
+    "display_name": "Road To Ikana"
+  },
+  {
+    "name": "road_to_southern_swamp",
+    "display_name": "Road To Southern Swamp"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "southern_swamp",
+    "display_name": "Southern Swamp"
+  },
+  {
+    "name": "swamp_spider_house_items",
+    "display_name": "Swamp Spider House Items"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "the_moon",
+    "display_name": "The Moon"
+  },
+  {
+    "name": "the_moon",
+    "display_name": "The Moon"
+  },
+  {
+    "name": "the_moon",
+    "display_name": "The Moon"
+  },
+  {
+    "name": "the_moon",
+    "display_name": "The Moon"
+  },
+  {
+    "name": "the_moon",
+    "display_name": "The Moon"
+  },
+  {
+    "name": "the_moon",
+    "display_name": "The Moon"
+  },
+  {
+    "name": "the_moon",
+    "display_name": "The Moon"
+  },
+  {
+    "name": "the_moon",
+    "display_name": "The Moon"
+  },
+  {
+    "name": "the_moon",
+    "display_name": "The Moon"
+  },
+  {
+    "name": "the_moon",
+    "display_name": "The Moon"
+  },
+  {
+    "name": "the_moon",
+    "display_name": "The Moon"
+  },
+  {
+    "name": "the_moon",
+    "display_name": "The Moon"
+  },
+  {
+    "name": "the_moon",
+    "display_name": "The Moon"
+  },
+  {
+    "name": "the_moon",
+    "display_name": "The Moon"
+  },
+  {
+    "name": "the_moon",
+    "display_name": "The Moon"
+  },
+  {
+    "name": "the_moon",
+    "display_name": "The Moon"
+  },
+  {
+    "name": "the_moon",
+    "display_name": "The Moon"
+  },
+  {
+    "name": "the_moon",
+    "display_name": "The Moon"
+  },
+  {
+    "name": "the_moon",
+    "display_name": "The Moon"
+  },
+  {
+    "name": "the_moon",
+    "display_name": "The Moon"
+  },
+  {
+    "name": "zora_cape",
+    "display_name": "Zora Cape"
+  },
+  {
+    "name": "great_bay_coast",
+    "display_name": "Great Bay Coast"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "deku_palace",
+    "display_name": "Deku Palace"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "great_bay_coast",
+    "display_name": "Great Bay Coast"
+  },
+  {
+    "name": "mountain_village",
+    "display_name": "Mountain Village"
+  },
+  {
+    "name": "mountain_village",
+    "display_name": "Mountain Village"
+  },
+  {
+    "name": "termina_field",
+    "display_name": "Termina Field"
+  },
+  {
+    "name": "woodfall_temple",
+    "display_name": "Woodfall Temple"
+  },
+  {
+    "name": "great_bay_temple",
+    "display_name": "Great Bay Temple"
+  },
+  {
+    "name": "southern_swamp",
+    "display_name": "Southern Swamp"
+  },
+  {
+    "name": "laundry_pool",
+    "display_name": "Laundry Pool"
+  },
+  {
+    "name": "beneath_the_well",
+    "display_name": "Beneath The Well"
+  },
+  {
+    "name": "beneath_the_well",
+    "display_name": "Beneath The Well"
+  },
+  {
+    "name": "beneath_the_well",
+    "display_name": "Beneath The Well"
+  },
+  {
+    "name": "beneath_the_well",
+    "display_name": "Beneath The Well"
+  },
+  {
+    "name": "beneath_the_well",
+    "display_name": "Beneath The Well"
+  },
+  {
+    "name": "beneath_the_well",
+    "display_name": "Beneath The Well"
+  },
+  {
+    "name": "beneath_the_well",
+    "display_name": "Beneath The Well"
+  },
+  {
+    "name": "beneath_the_well",
+    "display_name": "Beneath The Well"
+  },
+  {
+    "name": "north_clock_town",
+    "display_name": "North Clock Town"
+  },
+  {
+    "name": "ikana_canyon",
+    "display_name": "Ikana Canyon"
+  },
+  {
+    "name": "road_to_southern_swamp",
+    "display_name": "Road To Southern Swamp"
+  },
+  {
+    "name": "north_clock_town",
+    "display_name": "North Clock Town"
+  },
+  {
+    "name": "twin_islands",
+    "display_name": "Twin Islands"
+  },
+  {
+    "name": "road_to_southern_swamp",
+    "display_name": "Road To Southern Swamp"
+  },
+  {
+    "name": "milk_road",
+    "display_name": "Milk Road"
+  },
+  {
+    "name": "twin_islands",
+    "display_name": "Twin Islands"
+  },
+  {
+    "name": "great_bay_coast",
+    "display_name": "Great Bay Coast"
+  },
+  {
+    "name": "milk_road",
+    "display_name": "Milk Road"
+  },
+  {
+    "name": "ikana_canyon",
+    "display_name": "Ikana Canyon"
+  },
+  {
+    "name": "great_bay_coast",
+    "display_name": "Great Bay Coast"
+  },
+  {
+    "name": "south_clock_town",
+    "display_name": "South Clock Town"
+  },
+  {
+    "name": "north_clock_town",
+    "display_name": "North Clock Town"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "north_clock_town",
+    "display_name": "North Clock Town"
+  },
+  {
+    "name": "milk_road",
+    "display_name": "Milk Road"
+  },
+  {
+    "name": "mountain_village",
+    "display_name": "Mountain Village"
+  },
+  {
+    "name": "goron_village",
+    "display_name": "Goron Village"
+  },
+  {
+    "name": "goron_village",
+    "display_name": "Goron Village"
+  },
+  {
+    "name": "goron_village",
+    "display_name": "Goron Village"
+  },
+  {
+    "name": "goron_village",
+    "display_name": "Goron Village"
+  },
+  {
+    "name": "goron_village",
+    "display_name": "Goron Village"
+  },
+  {
+    "name": "goron_village",
+    "display_name": "Goron Village"
+  },
+  {
+    "name": "southern_swamp",
+    "display_name": "Southern Swamp"
+  },
+  {
+    "name": "south_clock_town",
+    "display_name": "South Clock Town"
+  },
+  {
+    "name": "goron_village",
+    "display_name": "Goron Village"
+  },
+  {
+    "name": "southern_swamp",
+    "display_name": "Southern Swamp"
+  },
+  {
+    "name": "zora_hall",
+    "display_name": "Zora Hall"
+  },
+  {
+    "name": "goron_village",
+    "display_name": "Goron Village"
+  },
+  {
+    "name": "ikana_canyon",
+    "display_name": "Ikana Canyon"
+  },
+  {
+    "name": "zora_hall",
+    "display_name": "Zora Hall"
+  },
+  {
+    "name": "laundry_pool",
+    "display_name": "Laundry Pool"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "mountain_village",
+    "display_name": "Mountain Village"
+  },
+  {
+    "name": "twin_islands",
+    "display_name": "Twin Islands"
+  },
+  {
+    "name": "north_clock_town",
+    "display_name": "North Clock Town"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "stock_pot_inn",
+    "display_name": "Stock Pot Inn"
+  },
+  {
+    "name": "laundry_pool",
+    "display_name": "Laundry Pool"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "laundry_pool",
+    "display_name": "Laundry Pool"
+  },
+  {
+    "name": "ikana_canyon",
+    "display_name": "Ikana Canyon"
+  },
+  {
+    "name": "stock_pot_inn",
+    "display_name": "Stock Pot Inn"
+  },
+  {
+    "name": "west_clock_town",
+    "display_name": "West Clock Town"
+  },
+  {
+    "name": "laundry_pool",
+    "display_name": "Laundry Pool"
+  },
+  {
+    "name": "north_clock_town",
+    "display_name": "North Clock Town"
+  },
+  {
+    "name": "west_clock_town",
+    "display_name": "West Clock Town"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "stock_pot_inn",
+    "display_name": "Stock Pot Inn"
+  },
+  {
+    "name": "west_clock_town",
+    "display_name": "West Clock Town"
+  },
+  {
+    "name": "south_clock_town",
+    "display_name": "South Clock Town"
+  },
+  {
+    "name": "north_clock_town",
+    "display_name": "North Clock Town"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "stock_pot_inn",
+    "display_name": "Stock Pot Inn"
+  },
+  {
+    "name": "laundry_pool",
+    "display_name": "Laundry Pool"
+  },
+  {
+    "name": "west_clock_town",
+    "display_name": "West Clock Town"
+  },
+  {
+    "name": "stock_pot_inn",
+    "display_name": "Stock Pot Inn"
+  },
+  {
+    "name": "stock_pot_inn",
+    "display_name": "Stock Pot Inn"
+  },
+  {
+    "name": "romani_ranch",
+    "display_name": "Romani Ranch"
+  },
+  {
+    "name": "stock_pot_inn",
+    "display_name": "Stock Pot Inn"
+  },
+  {
+    "name": "laundry_pool",
+    "display_name": "Laundry Pool"
+  },
+  {
+    "name": "south_clock_town",
+    "display_name": "South Clock Town"
+  },
+  {
+    "name": "north_clock_town",
+    "display_name": "North Clock Town"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  },
+  {
+    "name": "north_clock_town",
+    "display_name": "North Clock Town"
+  },
+  {
+    "name": "east_clock_town",
+    "display_name": "East Clock Town"
+  }
+]

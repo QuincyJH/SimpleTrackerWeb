@@ -1,6 +1,6 @@
 from app.server import app
 import uvicorn
-from app.routers import health, entrances, items, locations
+from app.routers import health, entrances, items, locations, regions
 
 app.include_router(
     health.router,
@@ -27,6 +27,15 @@ app.include_router(
     locations.router,
     prefix="/locations",
     tags=["locations"],
+    responses={404: {"description": "Not Found"}},
+)
+if __name__ == "__main__":
+    uvicorn.run(app, host="0.0.0.0", port=8000, reload=True)
+
+app.include_router(
+    regions.router,
+    prefix="/regions",
+    tags=["regions"],
     responses={404: {"description": "Not Found"}},
 )
 if __name__ == "__main__":

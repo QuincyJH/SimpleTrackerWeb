@@ -9,6 +9,18 @@ tags_metadata = [
     {
         "name": "entrances",
         "description": "Handles entrance operations"
+    },
+    {
+        "name": "items",
+        "description": "Handles item operations"
+    },
+    {
+        "name": "locations",
+        "description": "Handles location operations"
+    },
+    {
+        "name": "regions",
+        "description": "Handles region operations"
     }
 ]
 

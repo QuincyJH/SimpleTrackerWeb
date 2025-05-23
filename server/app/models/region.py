@@ -2,12 +2,9 @@ from sqlalchemy import Column, Integer, String
 from sqlalchemy.ext.declarative import declarative_base
 
 Base = declarative_base()
-
-class Location(Base):
-    __tablename__ = 'locations'
+class Region(Base):
+    __tablename__ = 'regions'
 
     id = Column(Integer, primary_key=True, index=True)
     name = Column(String(255), nullable=False)
     display_name = Column(String(255), nullable=False)
-    # region id is a foreign key to the regions table
-    region_id = Column(Integer, nullable=False)

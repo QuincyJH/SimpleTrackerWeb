@@ -32,16 +32,9 @@ def get_location_by_name(name: str) -> Location:
     db: Session = next(get_db())
     return location_repository.get_location_by_name(db, name)
 
-def bulk_create_locations(items: List[LocationModel]):
+def bulk_create_locations(locations: List[LocationModel]):
     db: Session = next(get_db())
-    for item in items:
-        location_repository.create_location(db, item.__dict__)
+    for location in locations:
+        location_repository.create_location(db, location.__dict__)
     db.commit()
-    return items
-
-def bulk_create_items(items: List[LocationModel]):
-    db: Session = next(get_db())
-    for item in items:
-        location_repository.create_location(db, item.__dict__)
-    db.commit()
-    return items
+    return locations

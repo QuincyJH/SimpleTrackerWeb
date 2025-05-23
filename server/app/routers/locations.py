@@ -2,7 +2,7 @@ import json
 from pathlib import Path
 from typing import List
 from fastapi import APIRouter, HTTPException
-from app.services import location_service
+from app.services import location_service, region_service
 from app.models.location_model import LocationModel
 
 router = APIRouter()
@@ -38,6 +38,7 @@ async def create_location(location_data: dict):
         raise HTTPException(status_code=400, detail="Failed to create location")
     
     return location
+
 @router.get("/")
 async def get_all_locations():
     locations = location_service.get_all_locations()
@@ -45,6 +46,7 @@ async def get_all_locations():
         raise HTTPException(status_code=404, detail="Locations not found")
     
     return locations
+
 @router.get("/name/{name}")
 async def get_location_by_name(name: str):
     location = location_service.get_location_by_name(name)
@@ -54,7 +56,7 @@ async def get_location_by_name(name: str):
     return location
 
 @router.get("/bulk-create/")
-async def bulk_create_items():
+async def bulk_create_locations():
     locations_path = f"{Path(__file__).resolve().parent.parent}/assets/locations.json"
     with open(locations_path, "r") as file:
         data = json.load(file)
@@ -63,5 +65,5 @@ async def bulk_create_items():
         raise HTTPException(status_code=404, detail="Location not found")
 
     location: List[LocationModel] = [LocationModel(**location) for location in data]
-    location_service.bulk_create_items(location)
+    location_service.bulk_create_locations(location)
     return location
