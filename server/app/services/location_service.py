@@ -1,9 +1,10 @@
 from typing import List
-from app.repositories import location_repository
+from app.repositories import location_repository, region_repository
 from sqlalchemy.orm import Session
 from app.database import get_db
 from app.models.location import Location
 from app.models.location_model import LocationModel
+from app.utils.helpers import to_snake_case
 
 def get_location(location_id: int) -> Location:
     db: Session = next(get_db())
@@ -35,6 +36,9 @@ def get_location_by_name(name: str) -> Location:
 def bulk_create_locations(locations: List[LocationModel]):
     db: Session = next(get_db())
     for location in locations:
-        location_repository.create_location(db, location.__dict__)
+        region = region_repository.get_region_by_name(db, to_snake_case(location.region_name))
+        if not region:
+            raise ValueError(f"Region {location.region_name} does not exist.")
+        location_repository.create_location_with_region(db, location.__dict__, region.id)
     db.commit()
     return locations
