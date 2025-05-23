@@ -32,3 +32,9 @@ def get_all_regions(db: Session) -> list[Region]:
 
 def get_region_by_name(db: Session, name: str) -> Region:
     return db.query(Region).filter(Region.name == name).first()
+
+def get_locations_by_region(db: Session, region_id: int) -> list[Region]:
+    return db.query(Region).filter(Region.id == region_id).all()
+
+def get_all_locations_by_region(db: Session) -> list[Region]:
+    return db.query(Region).all()
