@@ -2,5 +2,8 @@
 
 # Python cache files
 
-**/__pycache__/
-**/*.pyc
+/app/__pycache__
+/app/models/__pycache__
+/app/repositories/__pycache__
+/app/routers/__pycache__
+/app/services/__pycache__
