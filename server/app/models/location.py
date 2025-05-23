@@ -9,5 +9,3 @@ class Location(Base):
     id = Column(Integer, primary_key=True, index=True)
     name = Column(String(255), nullable=False)
     display_name = Column(String(255), nullable=False)
-    # region id is a foreign key to the regions table
-    region_id = Column(Integer, nullable=False)

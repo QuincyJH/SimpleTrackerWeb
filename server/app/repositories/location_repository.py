@@ -30,3 +30,11 @@ def get_all_locations(db: Session) -> list[Location]:
 
 def get_location_by_name(db: Session, name: str) -> Location:
     return db.query(Location).filter(Location.name == name).first()
+
+def create_location_with_region(db: Session, location_data: dict, region_id: int) -> Location:
+    # add new location to location table
+    location = Location(**location_data)
+
+    # update location region mapping table
+    db.add(location)
+    db.commit()
