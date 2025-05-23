@@ -4,6 +4,7 @@ from sqlalchemy.orm import Session
 from app.database import get_db
 from app.models.region import Region
 from app.models.region_model import RegionModel
+from app.serializer.region_serializer import serialize_region_with_locations
 
 def get_region(region_id: int) -> Region:
     db: Session = next(get_db())
@@ -47,3 +48,12 @@ def _get_unique_regions(regions: List[RegionModel]) -> List[RegionModel]:
         if region.name not in unique_regions:
             unique_regions[region.name] = region
     return list(unique_regions.values())
+
+def get_locations_by_region(region_id: int) -> List[Region]:
+    db: Session = next(get_db())
+    return region_repository.get_locations_by_region(db, region_id)
+
+def get_all_locations_by_region() -> List[Region]:
+    db: Session = next(get_db())
+    regions = region_repository.get_all_locations_by_region(db)
+    return [serialize_region_with_locations(region) for region in regions]

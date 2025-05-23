@@ -67,3 +67,19 @@ async def bulk_create_items():
     regions: List[RegionModel] = [RegionModel(**region) for region in data]
     region_service.bulk_create_regions(regions)
     return regions
+
+@router.get("/get-locations-by-region/{region_id}")
+async def get_locations_by_region(region_id: int):
+    locations = region_service.get_locations_by_region(region_id)
+    if not len(locations):
+        raise HTTPException(status_code=404, detail="Locations not found")
+    
+    return locations
+
+@router.get("/get-all-locations-by-region/")
+async def get_all_locations_by_region():
+    regions = region_service.get_all_locations_by_region()
+    if not len(regions):
+        raise HTTPException(status_code=404, detail="Regions not found")
+    
+    return regions

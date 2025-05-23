@@ -32,9 +32,9 @@ def get_location_by_name(db: Session, name: str) -> Location:
     return db.query(Location).filter(Location.name == name).first()
 
 def create_location_with_region(db: Session, location_data: dict, region_id: int) -> Location:
-    # add new location to location table
-    location = Location(**location_data)
+    location_data = dict(location_data)
+    location_data.pop('region_name', None)
+    location = Location(**location_data, region_id=region_id)
 
-    # update location region mapping table
     db.add(location)
     db.commit()
