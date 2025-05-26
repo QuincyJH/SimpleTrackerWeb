@@ -1,3 +1,14 @@
 <div class="dashboard-center-container">
-    <app-new-run-card class="new-run-card-component"></app-new-run-card>
-</div>
+  <app-saved-run-card></app-saved-run-card>
+  <button
+    mat-flat-button
+    class="new-run-button"
+    (click)="openNewRunDialog()">
+    <mat-icon
+      class="add-new-icon"
+      aria-hidden="false"
+      aria-label="add new run"
+      fontIcon="add">
+    </mat-icon>
+  </button>
+

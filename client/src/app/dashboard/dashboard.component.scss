@@ -5,6 +5,16 @@
   height: 100vh; // Full viewport height
 }
 
-.new-run-card-component {
+.new-run-button {
+    width: 100px;
+    height: 100px;
+    border-radius: 30px;
 
+    .add-new-icon {
+        margin-left: 0px;
+        margin-right: 0px;
+        font-size: 28px;
+        width: auto !important;
+        height: auto !important;
+    }
 }

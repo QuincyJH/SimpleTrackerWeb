@@ -1,0 +1,12 @@
+
+<h2 mat-dialog-title>New Run</h2>
+<mat-dialog-content>
+    <mat-form-field appearance="fill">
+        <mat-label>Run Name</mat-label>
+        <input matInput [(ngModel)]="runName" />
+    </mat-form-field>
+</mat-dialog-content>
+<mat-dialog-actions>
+    <button mat-button (click)="onClose()">Cancel</button>
+    <button mat-button [mat-dialog-close]="runName()" cdkFocusInitial>Create</button>
+</mat-dialog-actions>
