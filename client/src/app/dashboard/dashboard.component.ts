@@ -31,7 +31,10 @@ export class DashboardComponent {
     dialogRef.afterClosed().subscribe((result) => {
       if (result) {
         this.runName.set(result);
-        this.runsService.createRun({ name: result }).subscribe((response) => {
+        const newRun: Run = {
+          name: result,
+        };
+        this.runsService.createRun(newRun).subscribe((response) => {
           console.log(response);
         });
       }

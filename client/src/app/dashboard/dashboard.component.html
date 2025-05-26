@@ -1,5 +1,6 @@
 <div class="dashboard-center-container">
-  <app-saved-run-card></app-saved-run-card>
+  <ng-container *ngIf="runs.length > 0">
+    <app-saved-run-card [run]="runs[0]"></app-saved-run-card>
   <button
     mat-flat-button
     class="new-run-button"

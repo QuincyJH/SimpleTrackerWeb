@@ -1,22 +1,24 @@
 import { HttpClient } from '@angular/common/http';
-import { Injectable } from '@angular/core';
-import { Observable } from 'rxjs';
+import { Injectable, OnDestroy } from '@angular/core';
+import { Observable, tap } from 'rxjs';
 import { Run } from '../models/run.model';
+import { BaseService } from '../api/base.service';
 
 @Injectable({
   providedIn: 'root',
 })
-export class RunsService {
-  private baseUrl = 'http://mm_backend:8000';
-  private apiUrl = '/runs';
+export class RunsService extends BaseService {
+  override readonly route = 'runs';
 
-  constructor(private http: HttpClient) {}
-
-  getRuns(): Observable<Run[]> {
-    return this.http.get<Run[]>(this.baseUrl + this.apiUrl);
+  constructor(protected _http: HttpClient) {
+    super(_http);
   }
 
-  createRun(run: Partial<Run>): Observable<Run> {
-    return this.http.post<Run>(this.baseUrl + this.apiUrl, run);
+  getRuns(): Observable<Run[]> {
+    return this.get<Run[]>(this.route).pipe(tap((response) => console.log('SSR API response:', response)));
+  }
+
+  createRun(run: Run): Observable<Run> {
+    return this.post<Run>(this.route, run);
   }
 }

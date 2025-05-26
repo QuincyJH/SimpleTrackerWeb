@@ -3,6 +3,7 @@ from app.repositories import run_repository
 from sqlalchemy.orm import Session
 from app.database import get_db
 from app.models.run import Run
+from app.schemas.run_create_schema import RunCreateSchema
 
 def get_run(run_id: int) -> Run:
     db: Session = next(get_db())
@@ -18,7 +19,7 @@ def delete_run(run_id: int) -> Run:
     run = run_repository.delete_run(db, run_id)
     return run
 
-def create_run(run_data: dict) -> Run:
+def create_run(run_data: RunCreateSchema) -> Run:
     db: Session = next(get_db())
     run = run_repository.create_run(db, run_data)
     return run
