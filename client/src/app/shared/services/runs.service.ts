@@ -7,7 +7,7 @@ import { Run } from '../models/run.model';
   providedIn: 'root',
 })
 export class RunsService {
-  private baseUrl = 'http://localhost:8000';
+  private baseUrl = 'http://mm_backend:8000';
   private apiUrl = '/runs';
 
   constructor(private http: HttpClient) {}
