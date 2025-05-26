@@ -2,7 +2,7 @@ import json
 from pathlib import Path
 from typing import List
 from fastapi import APIRouter, HTTPException
-from app.services import location_service, region_service
+from app.services import location_service
 from app.models.location_model import LocationModel
 
 router = APIRouter()
