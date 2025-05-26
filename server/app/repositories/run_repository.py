@@ -1,4 +1,5 @@
 from typing import List
+from sqlalchemy import desc
 from sqlalchemy.orm import Session
 from app.models.run import Run
 
@@ -29,4 +30,4 @@ def create_run(db: Session, run_data: dict) -> Run:
     return run
 
 def get_all_runs(db: Session) -> List[Run]:
-    return db.query(Run).all()
+    return db.query(Run).order_by(desc(Run.accessed_at)).all()
