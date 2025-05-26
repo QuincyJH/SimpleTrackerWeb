@@ -4,10 +4,10 @@ import { MatIconModule } from '@angular/material/icon';
 import { MatButtonModule } from '@angular/material/button';
 import { MatDialog } from '@angular/material/dialog';
 import { CommonModule } from '@angular/common';
-import { NewRunDialog } from './dialogs/new-run-dialog/new-run-dialog.component';
+import { NewRunDialog } from '../shared/dialogs/new-run-dialog/new-run-dialog.component';
 import { RunsService } from '../shared/services/runs.service';
 import { Run } from '../shared/models/run.model';
-import { SavedRunCardComponent } from './saved-run-card/saved-run-card.component';
+import { SavedRunCardComponent } from '../shared/components/saved-run-card/saved-run-card.component';
 
 @Component({
   selector: 'app-dashboard',
