@@ -1,4 +1,4 @@
-<mat-card class="new-run-card">
-  <mat-card-content class="new-run-card-content">
+<ng-container *ngIf="!recentRun">
+  <button mat-flat-button class="new-run-button">
     <mat-icon class="add-new-icon" aria-hidden="false" aria-label="add new run" fontIcon="add"></mat-icon>
-  </mat-card-content>
+  </button>
