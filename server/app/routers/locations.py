@@ -4,10 +4,11 @@ from typing import List
 from fastapi import APIRouter, HTTPException
 from app.services import location_service
 from app.models.location_model import LocationModel
+from app.schemas.location_schema import LocationSchema
 
 router = APIRouter()
 
-@router.get("/{location_id}")
+@router.get("/{location_id}", response_model=LocationSchema)
 async def get_location(location_id: int):
     location = location_service.get_location(location_id)
     if location is None:
@@ -15,7 +16,7 @@ async def get_location(location_id: int):
 
     return location
 
-@router.put("/{location_id}")
+@router.put("/{location_id}", response_model=LocationSchema)
 async def update_location(location_id: int, location_data: dict):
     location = location_service.update_location(location_id, location_data)
     if location is None:
@@ -23,7 +24,7 @@ async def update_location(location_id: int, location_data: dict):
     
     return location
 
-@router.delete("/{location_id}")
+@router.delete("/{location_id}", response_model=LocationSchema)
 async def delete_location(location_id: int):
     location = location_service.delete_location(location_id)
     if location is None:
@@ -31,7 +32,7 @@ async def delete_location(location_id: int):
     
     return location
 
-@router.post("/")
+@router.post("/", response_model=LocationSchema)
 async def create_location(location_data: dict):
     location = location_service.create_location(location_data)
     if location is None:
@@ -39,7 +40,7 @@ async def create_location(location_data: dict):
     
     return location
 
-@router.get("/")
+@router.get("/", response_model=List[LocationSchema])
 async def get_all_locations():
     locations = location_service.get_all_locations()
     if not len(locations):
@@ -47,7 +48,7 @@ async def get_all_locations():
     
     return locations
 
-@router.get("/name/{name}")
+@router.get("/name/{name}", response_model=LocationSchema)
 async def get_location_by_name(name: str):
     location = location_service.get_location_by_name(name)
     if location is None:
@@ -55,7 +56,7 @@ async def get_location_by_name(name: str):
     
     return location
 
-@router.get("/bulk-create/")
+@router.get("/bulk-create/", response_model=List[LocationSchema])
 async def bulk_create_locations():
     locations_path = f"{Path(__file__).resolve().parent.parent}/assets/locations.json"
     with open(locations_path, "r") as file:
