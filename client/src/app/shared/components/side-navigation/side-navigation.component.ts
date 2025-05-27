@@ -1,11 +1,10 @@
 import { Component } from '@angular/core';
+import { MatSidenavModule } from '@angular/material/sidenav';
 
 @Component({
   selector: 'app-side-navigation',
-  imports: [],
+  imports: [MatSidenavModule],
   templateUrl: './side-navigation.component.html',
-  styleUrl: './side-navigation.component.scss'
+  styleUrl: './side-navigation.component.scss',
 })
-export class SideNavigationComponent {
-
-}
+export class SideNavigationComponent {}

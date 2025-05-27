@@ -1,14 +1,9 @@
-<div class="saved-run-card">
-  <div class="card-header">
-    <h3>{{ run.name }}</h3>
-  </div>
-  <div class="card-content">
-    <!-- <ng-container *ngIf="run.modifiedAt && run.createdAt">
+<mat-card class="saved-run-card" apearance="outlined">
+    <mat-card-header>
+      <mat-card-title>{{ run.name }}</mat-card-title>
+    </mat-card-header>
+    <mat-card-content>
         <p>Last Updated: {{ formatDateToLocal(run.modifiedAt) }}</p>
         <p>Created: {{ formatDateToLocal(run.createdAt) }}</p>
-    </ng-container> -->
-    <p>Last Updated: {{ formatDateToLocal(run.modifiedAt) }}</p>
-    <p>Created: {{ formatDateToLocal(run.createdAt) }}</p>
-  </div>
-  <div class="card-footer">
-  </div>
+    </mat-card-content>
+</mat-card>
