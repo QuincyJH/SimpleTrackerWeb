@@ -1,0 +1,16 @@
+<div class="home-center-container">
+    <ng-container *ngIf="runs.length > 0">
+        <app-saved-run-card class="saved-run-card" [run]="runs[0]"></app-saved-run-card>
+    </ng-container>
+    <button
+        mat-flat-button
+        class="new-run-button"
+        (click)="openNewRunDialog()">
+        <mat-icon
+            class="add-new-icon"
+            aria-hidden="false"
+            aria-label="add new run"
+            fontIcon="add">
+        </mat-icon>
+    </button>
+</div>

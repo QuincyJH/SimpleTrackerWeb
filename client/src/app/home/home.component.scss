@@ -1,0 +1,25 @@
+.home-center-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+}
+
+.new-run-button {
+    width: 75px;
+    height: 75px;
+    border-radius: 20px;
+
+    .add-new-icon {
+        margin-left: 0px;
+        margin-right: 0px;
+        font-size: 28px;
+        width: auto !important;
+        height: auto !important;
+    }
+}
+
+.saved-run-card {
+  padding-bottom: 10px;
+}

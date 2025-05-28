@@ -1,32 +1,20 @@
-<app-navigation-bar (openSidenav)="toggleSidenav()"></app-navigation-bar>
-<mat-sidenav-container>
-  <mat-sidenav #drawer>
-    <ng-container *ngIf="runs.length > 0">
-      <ng-container *ngFor="let run of runs">
-        <app-saved-run-card
-          class="saved-run-card"
-          [run]="run">
-        </app-saved-run-card>
-      </ng-container>
-    </ng-container>
-  </mat-sidenav>
-  <mat-sidenav-content>
-    <div class="dashboard-center-container">
-      <ng-container *ngIf="runs.length > 0">
-        <app-saved-run-card class="saved-run-card" [run]="runs[0]"></app-saved-run-card>
-      </ng-container>
-      <button
-        mat-flat-button
-        class="new-run-button"
-        (click)="openNewRunDialog()">
-        <mat-icon
-          class="add-new-icon"
-          aria-hidden="false"
-          aria-label="add new run"
-          fontIcon="add">
-        </mat-icon>
-      </button>
-    </div>
-  </mat-sidenav-content>
-</mat-sidenav-container>
-
+<div>
+  <app-navigation-bar (openSidenav)="toggleSidenav()"></app-navigation-bar>
+  <mat-sidenav-container>
+    <mat-sidenav #drawer>
+      <div>
+        <ng-container *ngIf="runs.length > 0">
+          <ng-container *ngFor="let run of runs">
+            <app-saved-run-card
+              class="saved-run-card"
+              [run]="run">
+            </app-saved-run-card>
+          </ng-container>
+        </ng-container>
+      </div>
+    </mat-sidenav>
+    <mat-sidenav-content>
+      <router-outlet></router-outlet>
+    </mat-sidenav-content>
+  </mat-sidenav-container>
+</div>

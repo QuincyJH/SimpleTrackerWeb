@@ -1,6 +1,11 @@
 <mat-toolbar class="navigation-bar-content">
-    <button mat-icon-button (click)="onMenuClick()">
-        <mat-icon fontIcon="menu"></mat-icon>
-    </button>
+    <div>
+        <button mat-icon-button (click)="onMenuClick()">
+            <mat-icon fontIcon="menu"></mat-icon>
+        </button>
+        <button mat-icon-button>
+            <mat-icon fontIcon="home" (click)="onHomeClick()"></mat-icon>
+        </button>
+    </div>
     <app-theme-toggle> </app-theme-toggle>
 </mat-toolbar>

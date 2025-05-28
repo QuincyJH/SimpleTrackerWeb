@@ -1,9 +1,11 @@
-<mat-card class="saved-run-card" apearance="outlined">
-    <mat-card-header>
-      <mat-card-title>{{ run.name }}</mat-card-title>
-    </mat-card-header>
-    <mat-card-content>
-        <p>Last Updated: {{ formatDateToLocal(run.modifiedAt) }}</p>
-        <p>Created: {{ formatDateToLocal(run.createdAt) }}</p>
-    </mat-card-content>
-</mat-card>
+<div>
+  <mat-card class="saved-run-card" apearance="outlined" (click)="onRunSelected()">
+      <mat-card-header>
+        <mat-card-title>{{ run.name }}</mat-card-title>
+      </mat-card-header>
+      <mat-card-content>
+          <p>Last Updated: {{ formatDateToLocal(run.modifiedAt) }}</p>
+          <p>Created: {{ formatDateToLocal(run.createdAt) }}</p>
+      </mat-card-content>
+  </mat-card>
+</div>

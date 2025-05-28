@@ -1,0 +1,14 @@
+<ng-container *ngIf="runs.length > 0">
+  <mat-accordion>
+    <mat-expansion-panel *ngFor="let region of regions">
+      <mat-expansion-panel-header>
+        <mat-panel-title>{{ region.displayName }}</mat-panel-title>
+      </mat-expansion-panel-header>
+      <div class="checkbox-container">
+        <ng-container *ngFor="let location of region.locations">
+          <mat-checkbox>{{ location.displayName }}</mat-checkbox>
+        </ng-container>
+      </div>
+    </mat-expansion-panel>
+  </mat-accordion>
+</ng-container>
