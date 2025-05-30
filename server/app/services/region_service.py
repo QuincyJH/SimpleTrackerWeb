@@ -49,7 +49,7 @@ def _get_unique_regions(regions: List[RegionCreateSchema]) -> List[RegionCreateS
             unique_regions[region.name] = region
     return list(unique_regions.values())
 
-def get_locations_by_region(region_id: int) -> List[Region]:
+def get_locations_by_region(region_id: int) -> Region:
     db: Session = next(get_db())
     return region_repository.get_locations_by_region(db, region_id)
 

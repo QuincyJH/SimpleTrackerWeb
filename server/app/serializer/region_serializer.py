@@ -11,7 +11,8 @@ def serialize_region_with_locations(region: Region):
                 "id": loc.id,
                 "name": loc.name,
                 "display_name": loc.display_name,
-                "region_id": loc.region_id
+                "region_id": loc.region_id,
+                "location_type": loc.location_type
             }
             for loc in region.locations
         ]

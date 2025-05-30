@@ -1,0 +1,18 @@
+meta {
+  name: update region
+  type: http
+  seq: 3
+}
+
+put {
+  url: http://localhost:8000/regions/48
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "name": "misc",
+    "displayName": "Misc 3"
+  }
+}

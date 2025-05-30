@@ -1,0 +1,18 @@
+meta {
+  name: create region
+  type: http
+  seq: 2
+}
+
+post {
+  url: http://localhost:8000/regions
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "name": "misc",
+    "displayName": "Misc 2"
+  }
+}

@@ -6,7 +6,7 @@ from app.schemas.location_schema import LocationSchema
 
 class RegionSchema(EntrySchema):
     id: int
-    locations: Optional[List[LocationSchema]]
+    locations: List[LocationSchema]
 
     class Config:
         from_attributes = True
@@ -14,6 +14,14 @@ class RegionSchema(EntrySchema):
         validate_by_name = True
 
 class RegionCreateSchema(EntrySchema):
+
+    class Config:
+        from_attributes = True
+        alias_generator = to_camel_case
+        validate_by_name = True
+
+class RegionOutSchema(EntrySchema):
+    id: int
 
     class Config:
         from_attributes = True
