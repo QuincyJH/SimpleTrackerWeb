@@ -15,7 +15,7 @@ export class RegionsService extends BaseService {
   }
 
   getRegions(): Observable<Region[]> {
-    return this.get<Region[]>(this.route).pipe(tap((response) => console.log('SSR API response:', response)));
+    return this.get<Region[]>(this.route);
   }
 
   createRun(region: Region): Observable<Region> {

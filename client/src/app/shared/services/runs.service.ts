@@ -15,7 +15,7 @@ export class RunsService extends BaseService {
   }
 
   getRuns(): Observable<Run[]> {
-    return this.get<Run[]>(this.route).pipe(tap((response) => console.log('SSR API response:', response)));
+    return this.get<Run[]>(this.route);
   }
 
   createRun(run: Run): Observable<Run> {

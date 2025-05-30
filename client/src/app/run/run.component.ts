@@ -35,7 +35,6 @@ export class RunComponent {
   getRegions(): void {
     this.regionsService.getRegions().subscribe((regions) => {
       this.regions = regions;
-      console.log('Regions:', regions);
     });
   }
 }
