@@ -1,5 +1,6 @@
 from sqlalchemy.orm import Session
 from app.models.region import Region
+from app.schemas.region_schema import RegionCreateSchema
 
 def get_region(db: Session, region_id: int) -> Region:
     return db.query(Region).filter(Region.id == region_id).first()
@@ -20,8 +21,8 @@ def delete_region(db: Session, region_id: int) -> Region:
         db.commit()
     return region
 
-def create_region(db: Session, region_data: dict) -> Region:
-    region = Region(**region_data)
+def create_region(db: Session, region_data: RegionCreateSchema) -> Region:
+    region = Region(**region_data.model_dump(exclude_unset=True))
     db.add(region)
     db.commit()
     db.refresh(region)

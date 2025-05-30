@@ -1,5 +1,6 @@
 from sqlalchemy.orm import Session
 from app.models.item import Item
+from app.schemas.item_schema import ItemCreateSchema
 
 def get_item(db: Session, item_id: int) -> Item:
     return db.query(Item).filter(Item.id == item_id).first()
@@ -20,8 +21,8 @@ def delete_item(db: Session, item_id: int) -> Item:
         db.commit()
     return item
 
-def create_item(db: Session, item_data: dict) -> Item:
-    item = Item(**item_data)
+def create_item(db: Session, item_data: ItemCreateSchema) -> Item:
+    item = Item(**item_data.model_dump(exclude_unset=True))
     db.add(item)
     db.commit()
     db.refresh(item)

@@ -3,8 +3,7 @@ from pathlib import Path
 from typing import List
 from fastapi import APIRouter, HTTPException
 from app.services import item_service
-from app.models.item_model import ItemModel
-from app.schemas.item_schema import ItemSchema
+from app.schemas.item_schema import ItemCreateSchema, ItemSchema
 
 router = APIRouter()
 
@@ -33,7 +32,7 @@ async def delete_item(item_id: int):
     return item
 
 @router.post("/", response_model=ItemSchema)
-async def create_item(item_data: dict):
+async def create_item(item_data: ItemCreateSchema):
     item = item_service.create_item(item_data)
     if item is None:
         raise HTTPException(status_code=400, detail="Failed to create item")
@@ -73,6 +72,6 @@ async def bulk_create_items():
     if not data:
         raise HTTPException(status_code=404, detail="Items not found")
 
-    items: List[ItemModel] = [ItemModel(**item) for item in data]
-    item_service.bulk_create_items(items)
+    bulk_items: List[ItemCreateSchema] = [ItemCreateSchema(**item) for item in data]
+    items = item_service.bulk_create_items(bulk_items)
     return items

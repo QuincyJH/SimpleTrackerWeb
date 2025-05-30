@@ -3,7 +3,7 @@ from app.repositories import run_repository
 from sqlalchemy.orm import Session
 from app.database import get_db
 from app.models.run import Run
-from app.schemas.run_create_schema import RunCreateSchema
+from app.schemas.run_schema import RunCreateSchema
 
 def get_run(run_id: int) -> Run:
     db: Session = next(get_db())

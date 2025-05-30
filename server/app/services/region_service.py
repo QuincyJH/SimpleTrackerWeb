@@ -3,8 +3,8 @@ from app.repositories import region_repository
 from sqlalchemy.orm import Session
 from app.database import get_db
 from app.models.region import Region
-from app.models.region_model import RegionModel
 from app.serializer.region_serializer import serialize_region_with_locations
+from app.schemas.region_schema import RegionCreateSchema
 
 def get_region(region_id: int) -> Region:
     db: Session = next(get_db())
@@ -20,7 +20,7 @@ def delete_region(region_id: int) -> Region:
     region = region_repository.delete_region(db, region_id)
     return region
 
-def create_region(region_data: dict) -> Region:
+def create_region(region_data: RegionCreateSchema) -> Region:
     db: Session = next(get_db())
     region = region_repository.create_region(db, region_data)
     return region
@@ -33,16 +33,16 @@ def get_region_by_name(name: str) -> Region:
     db: Session = next(get_db())
     return region_repository.get_region_by_name(db, name)
 
-def bulk_create_regions(regions: List[RegionModel]):
-    unique_regions = _get_unique_regions(regions)
-
+def bulk_create_regions(bulk_regions: List[RegionCreateSchema]):
+    unique_regions = _get_unique_regions(bulk_regions)
+    regions: List[Region] = []
     db: Session = next(get_db())
     for region in unique_regions:
-        region_repository.create_region(db, region.__dict__)
+        regions.append(region_repository.create_region(db, region))
     db.commit()
     return regions
 
-def _get_unique_regions(regions: List[RegionModel]) -> List[RegionModel]:
+def _get_unique_regions(regions: List[RegionCreateSchema]) -> List[RegionCreateSchema]:
     unique_regions = {}
     for region in regions:
         if region.name not in unique_regions:

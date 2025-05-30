@@ -3,8 +3,7 @@ from pathlib import Path
 from typing import List
 from fastapi import APIRouter, HTTPException
 from app.services import region_service
-from app.models.region_model import RegionModel
-from app.schemas.region_schema import RegionSchema
+from app.schemas.region_schema import RegionCreateSchema, RegionSchema
 
 router = APIRouter()
 
@@ -33,7 +32,7 @@ async def delete_region(region_id: int):
     return region
 
 @router.post("/", response_model=RegionSchema)
-async def create_region(region_data: dict):
+async def create_region(region_data: RegionCreateSchema):
     region = region_service.create_region(region_data)
     if region is None:
         raise HTTPException(status_code=400, detail="Failed to create region")
@@ -65,8 +64,8 @@ async def bulk_create_items():
     if not data:
         raise HTTPException(status_code=404, detail="Regions not found")
     
-    regions: List[RegionModel] = [RegionModel(**region) for region in data]
-    region_service.bulk_create_regions(regions)
+    bulk_regions: List[RegionCreateSchema] = [RegionCreateSchema(**region) for region in data]
+    regions = region_service.bulk_create_regions(bulk_regions)
     return regions
 
 @router.get("/get-locations-by-region/{region_id}", response_model=List[RegionSchema])

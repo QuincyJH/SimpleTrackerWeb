@@ -1,0 +1,19 @@
+meta {
+  name: update item
+  type: http
+  seq: 3
+}
+
+put {
+  url: http://localhost:8000/items/2365
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "name": "test_item",
+    "displayName": "Test Item 2",
+    "itemType": "testitem"
+  }
+}

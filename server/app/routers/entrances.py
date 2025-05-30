@@ -3,8 +3,7 @@ from typing import List
 from fastapi import HTTPException, APIRouter
 from app.services import entrance_service
 from pathlib import Path
-from app.models.entrance_model import EntranceModel
-from app.schemas.entrance_schema import EntranceSchema
+from app.schemas.entrance_schema import EntranceCreateSchema, EntranceSchema
 
 
 router = APIRouter()
@@ -34,7 +33,7 @@ async def delete_entrance(entrance_id: int):
     return entrance
 
 @router.post("/", response_model=EntranceSchema)
-async def create_entrance(entrance_data: dict):
+async def create_entrance(entrance_data: EntranceCreateSchema):
     entrance = entrance_service.create_entrance(entrance_data)
     if entrance is None:
         raise HTTPException(status_code=400, detail="Failed to create entrance")
@@ -74,7 +73,7 @@ async def bulk_create_entrances():
     if not data:
         raise HTTPException(status_code=404, detail="Entrance not found")
 
-    entrances: List[EntranceModel] = [EntranceModel(**entrance) for entrance in data]
-    entrance_service.bulk_create_entrances(entrances)
+    bulk_entrances: List[EntranceCreateSchema] = [EntranceCreateSchema(**entrance) for entrance in data]
+    entrances = entrance_service.bulk_create_entrances(bulk_entrances)
     return entrances
 

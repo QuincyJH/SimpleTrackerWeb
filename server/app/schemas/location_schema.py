@@ -5,6 +5,16 @@ from app.schemas.entry_schema import EntrySchema
 class LocationSchema(EntrySchema):
     id: int
     region_id: int
+    location_type: str
+
+    class Config:
+        from_attributes = True
+        alias_generator = to_camel_case
+        validate_by_name = True
+
+class LocationCreateSchema(EntrySchema):
+    location_type: str
+    region_name: str
 
     class Config:
         from_attributes = True

@@ -11,3 +11,11 @@ class ItemSchema(EntrySchema):
         from_attributes = True
         alias_generator = to_camel_case
         validate_by_name = True
+
+class ItemCreateSchema(EntrySchema):
+    item_type: Optional[str]
+
+    class Config:
+        from_attributes = True
+        alias_generator = to_camel_case
+        validate_by_name = True

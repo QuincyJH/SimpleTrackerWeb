@@ -3,8 +3,7 @@ from pathlib import Path
 from typing import List
 from fastapi import APIRouter, HTTPException
 from app.services import location_service
-from app.models.location_model import LocationModel
-from app.schemas.location_schema import LocationSchema
+from app.schemas.location_schema import LocationCreateSchema, LocationSchema
 
 router = APIRouter()
 
@@ -33,7 +32,7 @@ async def delete_location(location_id: int):
     return location
 
 @router.post("/", response_model=LocationSchema)
-async def create_location(location_data: dict):
+async def create_location(location_data: LocationCreateSchema):
     location = location_service.create_location(location_data)
     if location is None:
         raise HTTPException(status_code=400, detail="Failed to create location")
@@ -65,6 +64,6 @@ async def bulk_create_locations():
     if not data:
         raise HTTPException(status_code=404, detail="Location not found")
 
-    location: List[LocationModel] = [LocationModel(**location) for location in data]
-    location_service.bulk_create_locations(location)
-    return location
+    bulk_locations: List[LocationCreateSchema] = [LocationCreateSchema(**location) for location in data]
+    locations = location_service.bulk_create_locations(bulk_locations)
+    return locations

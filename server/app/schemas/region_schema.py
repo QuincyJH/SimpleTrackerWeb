@@ -12,3 +12,10 @@ class RegionSchema(EntrySchema):
         from_attributes = True
         alias_generator = to_camel_case
         validate_by_name = True
+
+class RegionCreateSchema(EntrySchema):
+
+    class Config:
+        from_attributes = True
+        alias_generator = to_camel_case
+        validate_by_name = True

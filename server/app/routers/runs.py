@@ -1,8 +1,7 @@
 from typing import List
 from fastapi import APIRouter, HTTPException
 from app.services import run_service
-from app.schemas.run_schema import RunSchema
-from app.schemas.run_create_schema import RunCreateSchema
+from app.schemas.run_schema import RunCreateSchema, RunSchema
 
 router = APIRouter()
 

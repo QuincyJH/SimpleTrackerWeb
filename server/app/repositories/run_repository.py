@@ -2,7 +2,7 @@ from typing import List
 from sqlalchemy import desc
 from sqlalchemy.orm import Session
 from app.models.run import Run
-from app.schemas.run_create_schema import RunCreateSchema
+from app.schemas.run_schema import RunCreateSchema
 
 def get_run(db: Session, run_id: int) -> Run:
     return db.query(Run).filter(Run.id == run_id).first()
@@ -24,7 +24,6 @@ def delete_run(db: Session, run_id: int) -> Run:
     return run
 
 def create_run(db: Session, run_data: RunCreateSchema) -> Run:
-    # run_data = run_data.model_dump(exclude_unset=True)
     run = Run(**run_data.model_dump(exclude_unset=True))
     db.add(run)
     db.commit()

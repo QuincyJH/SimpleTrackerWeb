@@ -9,5 +9,6 @@ class Location(Base):
     name = Column(String(255), nullable=False)
     display_name = Column(String(255), nullable=False)
     region_id = Column(Integer, ForeignKey("regions.id"))
+    location_type = Column(String(255), nullable=False)
 
     region = relationship("Region", back_populates="locations")

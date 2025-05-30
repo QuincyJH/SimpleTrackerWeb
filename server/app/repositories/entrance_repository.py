@@ -1,5 +1,6 @@
 from sqlalchemy.orm import Session
 from app.models.entrance import Entrance
+from app.schemas.entrance_schema import EntranceCreateSchema
 
 def get_entrance(db: Session, entrance_id: int) -> Entrance:
     return db.query(Entrance).filter(Entrance.id == entrance_id).first()
@@ -20,8 +21,8 @@ def delete_entrance(db: Session, entrance_id: int) -> Entrance:
         db.commit()
     return entrance
 
-def create_entrance(db: Session, entrance_data: dict) -> Entrance:
-    entrance = Entrance(**entrance_data)
+def create_entrance(db: Session, entrance_data: EntranceCreateSchema) -> Entrance:
+    entrance = Entrance(**entrance_data.model_dump(exclude_unset=True))
     db.add(entrance)
     db.commit()
     db.refresh(entrance)
