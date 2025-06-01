@@ -5,7 +5,15 @@ meta {
 }
 
 put {
-  url: 
-  body: none
+  url: http://localhost:8000/entrances/19
+  body: json
   auth: none
+}
+
+body:json {
+  {
+    "name": "test",
+    "displayName": "Test2",
+    "entranceType": "test"
+  }
 }
