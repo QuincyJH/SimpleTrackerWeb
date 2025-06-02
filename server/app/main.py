@@ -1,6 +1,6 @@
 from app.server import app
 import uvicorn
-from app.routers import health, entrances, items, locations, regions, runs
+from app.routers import health, entrances, items, locations, regions, runs, location_type
 from fastapi.middleware.cors import CORSMiddleware
 
 app.add_middleware(
@@ -10,7 +10,6 @@ app.add_middleware(
     allow_methods=["GET", "POST", "PUT", "DELETE", "OPTIONS"],
     allow_headers=["*"],
 )
-
 app.include_router(
     health.router,
     prefix="/health",
@@ -27,6 +26,12 @@ app.include_router(
     items.router,
     prefix="/items",
     tags=["items"],
+    responses={404: {"description": "Not Found"}},
+)
+app.include_router(
+    location_type.router,
+    prefix="/location-types",
+    tags=["location-types"],
     responses={404: {"description": "Not Found"}},
 )
 app.include_router(
@@ -47,10 +52,6 @@ app.include_router(
     tags=["runs"],
     responses={404: {"description": "Not Found"}},
 )
-
-if __name__ == "__main__":
-    uvicorn.run(app, host="0.0.0.0", port=8000, reload=True)
-
 app.include_router(
     runs.router,
     prefix="/runs",
