@@ -1,4 +1,10 @@
-.checkbox-container {
+.location-checkbox-container {
   display: flex;
   flex-direction: column;;
+}
+
+.location-type-checkbox-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* 3 columns */
+  gap: 8px;
 }

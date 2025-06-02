@@ -14,8 +14,8 @@ export class RegionsService extends BaseService {
     super(_http);
   }
 
-  getRegions(): Observable<Region[]> {
-    return this.get<Region[]>(this.route);
+  getRegion(region_id: Number): Observable<Region[]> {
+    return this.get<Region[]>(`${this.route}/${region_id}`);
   }
 
   createRun(region: Region): Observable<Region> {
