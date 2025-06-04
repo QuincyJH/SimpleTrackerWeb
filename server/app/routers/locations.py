@@ -33,6 +33,7 @@ async def delete_location(location_id: int):
 
 @router.post("/", response_model=LocationSchema)
 async def create_location(location_data: LocationCreateSchema):
+    print(f"Creating location with data: {location_data}")
     location = location_service.create_location(location_data)
     if location is None:
         raise HTTPException(status_code=400, detail="Failed to create location")

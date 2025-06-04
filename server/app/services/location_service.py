@@ -5,6 +5,7 @@ from app.database import get_db
 from app.models.location import Location
 from app.utils.helpers import to_snake_case
 from app.schemas.location_schema import LocationCreateSchema
+from app.repositories import location_type_repository
 
 def get_location(location_id: int) -> Location:
     db: Session = next(get_db())
@@ -22,7 +23,9 @@ def delete_location(location_id: int) -> Location:
 
 def create_location(location_data: LocationCreateSchema) -> Location:
     db: Session = next(get_db())
-    location = location_repository.create_location(db, location_data)
+    location_type = location_type_repository.get_location_type_by_name(db, location_data.location_type)
+    region = region_repository.get_region_by_name(db, location_data.region_name)
+    location = location_repository.create_location(db, location_data, location_type.id if location_type else None, region.id if region else None)
     return location
 
 def get_all_locations() -> list[Location]:
@@ -37,9 +40,8 @@ def bulk_create_locations(bulk_locations: List[LocationCreateSchema]):
     db: Session = next(get_db())
     locations: List[Location] = []
     for location in bulk_locations:
-        region = region_repository.get_region_by_name(db, to_snake_case(location.region_name))
-        if not region:
-            raise ValueError(f"Region {location.region_name} does not exist.")
-        locations.append(location_repository.create_location_with_region(db, location, region.id))
+        location_type = location_type_repository.get_location_type_by_name(db, location.location_type)
+        region = region_repository.get_region_by_name(db, location.region_name)
+        locations.append(location_repository.create_location(db, location, location_type.id if location_type else None, region.id if region else None))
     db.commit()
     return locations

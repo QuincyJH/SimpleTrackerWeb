@@ -14,7 +14,7 @@ class LocationSchema(EntrySchema):
         validate_by_name = True
 
 class LocationCreateSchema(EntrySchema):
-    location_type_id: int
+    location_type: str
     region_name: str
 
     class Config:

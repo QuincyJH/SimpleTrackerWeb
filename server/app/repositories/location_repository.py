@@ -23,8 +23,11 @@ def delete_location(db: Session, location_id: int) -> Location:
         db.commit()
     return location
 
-def create_location(db: Session, location_data: LocationCreateSchema) -> Location:
-    location = Location(**location_data.model_dump(exclude_unset=True))
+def create_location(db: Session, location_data: LocationCreateSchema, location_type_id: int, region_id: int) -> Location:
+    data = location_data.model_dump(exclude_unset=True)
+    data.pop('location_type', None)
+    data.pop('region_name', None)
+    location = Location(**data, location_type_id=location_type_id, region_id=region_id)
 
     db.add(location)
     db.commit()

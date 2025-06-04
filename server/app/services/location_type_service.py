@@ -3,7 +3,7 @@ from app.repositories import location_type_repository
 from sqlalchemy.orm import Session
 from app.database import get_db
 from app.models.location_type import LocationType
-from app.schemas.location_schema import LocationCreateSchema
+from app.schemas.location_type_schema import LocationTypeCreateSchema
 
 def get_location_type(location_type_id: int) -> LocationType:
     db: Session = next(get_db())
@@ -19,7 +19,7 @@ def delete_location_type(location_type_id: int) -> LocationType:
     location_type = location_type_repository.delete_location_type(db, location_type_id)
     return location_type
 
-def create_location_type(location_type_data: LocationCreateSchema) -> LocationType:
+def create_location_type(location_type_data: LocationTypeCreateSchema) -> LocationType:
     db: Session = next(get_db())
     location_type = location_type_repository.create_location_type(db, location_type_data)
     return location_type

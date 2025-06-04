@@ -31,3 +31,6 @@ def create_location_type(db: Session, location_type_data: LocationCreateSchema) 
 
 def get_all_location_types(db: Session) -> List[LocationType]:
     return db.query(LocationType).order_by(LocationType.name).all()
+
+def get_location_type_by_name(db: Session, name: str) -> LocationType:
+    return db.query(LocationType).filter(LocationType.name == name).first()
