@@ -4,6 +4,7 @@ from sqlalchemy.orm import Session
 from app.database import get_db
 from app.models.item import Item
 from app.schemas.item_schema import ItemCreateSchema
+from app.repositories import item_type_repository
 
 
 
@@ -23,7 +24,8 @@ def delete_item(item_id: int) -> Item:
 
 def create_item(item_data: ItemCreateSchema) -> Item:
     db: Session = next(get_db())
-    item = item_repository.create_item(db, item_data)
+    item_type = item_type_repository.get_item_type_by_name(db, item_data.item_type)
+    item = item_repository.create_item(db, item_data, item_type.id if item_type else None)
     return item
 
 def get_all_items() -> list[Item]:
@@ -42,6 +44,7 @@ def bulk_create_items(bulk_items: List[ItemCreateSchema]) -> List[Item]:
     db: Session = next(get_db())
     items: List[Item] = []
     for item in bulk_items:
-        items.append(item_repository.create_item(db, item))
+        item_type = item_type_repository.get_item_type_by_name(db, item.item_type)
+        items.append(item_repository.create_item(db, item, item_type.id if item_type else None))
     db.commit()
     return items

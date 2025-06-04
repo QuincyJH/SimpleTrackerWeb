@@ -21,8 +21,11 @@ def delete_item(db: Session, item_id: int) -> Item:
         db.commit()
     return item
 
-def create_item(db: Session, item_data: ItemCreateSchema) -> Item:
-    item = Item(**item_data.model_dump(exclude_unset=True))
+def create_item(db: Session, item_data: ItemCreateSchema, item_type_id: int) -> Item:
+    data = item_data.model_dump(exclude_unset=True)
+    data.pop('item_type', None)
+    item = Item(**data, item_type_id=item_type_id)
+
     db.add(item)
     db.commit()
     db.refresh(item)
