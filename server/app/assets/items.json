@@ -215,156 +215,6 @@
     "item_type": "pieces_of_heart"
   },
   {
-    "name": "piece_of_heart",
-    "display_name": "Piece of Heart",
-    "item_type": "pieces_of_heart"
-  },
-  {
-    "name": "piece_of_heart",
-    "display_name": "Piece of Heart",
-    "item_type": "pieces_of_heart"
-  },
-  {
-    "name": "piece_of_heart",
-    "display_name": "Piece of Heart",
-    "item_type": "pieces_of_heart"
-  },
-  {
-    "name": "piece_of_heart",
-    "display_name": "Piece of Heart",
-    "item_type": "pieces_of_heart"
-  },
-  {
-    "name": "piece_of_heart",
-    "display_name": "Piece of Heart",
-    "item_type": "pieces_of_heart"
-  },
-  {
-    "name": "piece_of_heart",
-    "display_name": "Piece of Heart",
-    "item_type": "pieces_of_heart"
-  },
-  {
-    "name": "piece_of_heart",
-    "display_name": "Piece of Heart",
-    "item_type": "pieces_of_heart"
-  },
-  {
-    "name": "piece_of_heart",
-    "display_name": "Piece of Heart",
-    "item_type": "pieces_of_heart"
-  },
-  {
-    "name": "piece_of_heart",
-    "display_name": "Piece of Heart",
-    "item_type": "pieces_of_heart"
-  },
-  {
-    "name": "piece_of_heart",
-    "display_name": "Piece of Heart",
-    "item_type": "pieces_of_heart"
-  },
-  {
-    "name": "piece_of_heart",
-    "display_name": "Piece of Heart",
-    "item_type": "pieces_of_heart"
-  },
-  {
-    "name": "piece_of_heart",
-    "display_name": "Piece of Heart",
-    "item_type": "pieces_of_heart"
-  },
-  {
-    "name": "piece_of_heart",
-    "display_name": "Piece of Heart",
-    "item_type": "pieces_of_heart"
-  },
-  {
-    "name": "piece_of_heart",
-    "display_name": "Piece of Heart",
-    "item_type": "pieces_of_heart"
-  },
-  {
-    "name": "piece_of_heart",
-    "display_name": "Piece of Heart",
-    "item_type": "pieces_of_heart"
-  },
-  {
-    "name": "piece_of_heart",
-    "display_name": "Piece of Heart",
-    "item_type": "pieces_of_heart"
-  },
-  {
-    "name": "piece_of_heart",
-    "display_name": "Piece of Heart",
-    "item_type": "pieces_of_heart"
-  },
-  {
-    "name": "piece_of_heart",
-    "display_name": "Piece of Heart",
-    "item_type": "pieces_of_heart"
-  },
-  {
-    "name": "piece_of_heart",
-    "display_name": "Piece of Heart",
-    "item_type": "pieces_of_heart"
-  },
-  {
-    "name": "piece_of_heart",
-    "display_name": "Piece of Heart",
-    "item_type": "pieces_of_heart"
-  },
-  {
-    "name": "piece_of_heart",
-    "display_name": "Piece of Heart",
-    "item_type": "pieces_of_heart"
-  },
-  {
-    "name": "piece_of_heart",
-    "display_name": "Piece of Heart",
-    "item_type": "pieces_of_heart"
-  },
-  {
-    "name": "piece_of_heart",
-    "display_name": "Piece of Heart",
-    "item_type": "pieces_of_heart"
-  },
-  {
-    "name": "piece_of_heart",
-    "display_name": "Piece of Heart",
-    "item_type": "pieces_of_heart"
-  },
-  {
-    "name": "piece_of_heart",
-    "display_name": "Piece of Heart",
-    "item_type": "pieces_of_heart"
-  },
-  {
-    "name": "piece_of_heart",
-    "display_name": "Piece of Heart",
-    "item_type": "pieces_of_heart"
-  },
-  {
-    "name": "piece_of_heart",
-    "display_name": "Piece of Heart",
-    "item_type": "pieces_of_heart"
-  },
-  {
-    "name": "piece_of_heart",
-    "display_name": "Piece of Heart",
-    "item_type": "pieces_of_heart"
-  },
-  {
-    "name": "piece_of_heart",
-    "display_name": "Piece of Heart",
-    "item_type": "pieces_of_heart"
-  },
-  {
-    "name": "piece_of_heart",
-    "display_name": "Piece of Heart",
-    "item_type": "pieces_of_heart"
-  },
-  {
     "name": "postmans_hat",
     "display_name": "Postman's Hat",
     "item_type": "masks"
@@ -477,12 +327,12 @@
   {
     "name": "ocarina_of_time",
     "display_name": "Ocarina of Time",
-    "item_type": "time_travel"
+    "item_type": "main_inventory"
   },
   {
     "name": "song_of_time",
     "display_name": "Song of Time",
-    "item_type": "time_travel"
+    "item_type": "songs"
   },
   {
     "name": "song_of_healing",
@@ -492,7 +342,7 @@
   {
     "name": "song_of_soaring",
     "display_name": "Song of Soaring",
-    "item_type": "song_of_soaring"
+    "item_type": "songs"
   },
   {
     "name": "eponas_song",
@@ -637,12 +487,12 @@
   {
     "name": "red_potion",
     "display_name": "Red Potion",
-    "item_type": "red_potions"
+    "item_type": "potions"
   },
   {
     "name": "green_potion",
     "display_name": "Green Potion",
-    "item_type": "green_potions"
+    "item_type": "potions"
   },
   {
     "name": "heros_shield",
@@ -677,17 +527,17 @@
   {
     "name": "blue_potion",
     "display_name": "Blue Potion",
-    "item_type": "blue_potions"
+    "item_type": "potions"
   },
   {
     "name": "red_potion",
     "display_name": "Red Potion",
-    "item_type": "red_potions"
+    "item_type": "potions"
   },
   {
     "name": "green_potion",
     "display_name": "Green Potion",
-    "item_type": "green_potions"
+    "item_type": "potions"
   },
   {
     "name": "10_bombs",
@@ -712,7 +562,7 @@
   {
     "name": "red_potion",
     "display_name": "Red Potion",
-    "item_type": "red_potions"
+    "item_type": "potions"
   },
   {
     "name": "heros_shield",
@@ -727,7 +577,7 @@
   {
     "name": "red_potion",
     "display_name": "Red Potion",
-    "item_type": "red_potions"
+    "item_type": "potions"
   },
   {
     "name": "bottle_fairy",
@@ -782,27 +632,27 @@
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "purple_rupee",
     "display_name": "Purple Rupee",
-    "item_type": "purple_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "purple_rupee",
     "display_name": "Purple Rupee",
-    "item_type": "purple_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "5_bombchu",
@@ -812,52 +662,52 @@
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "silver_rupee",
     "display_name": "Silver Rupee",
-    "item_type": "silver_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "silver_rupee",
     "display_name": "Silver Rupee",
-    "item_type": "silver_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "bombchu",
@@ -867,42 +717,42 @@
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "5_bombchu",
@@ -912,27 +762,27 @@
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "purple_rupee",
     "display_name": "Purple Rupee",
-    "item_type": "purple_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "purple_rupee",
     "display_name": "Purple Rupee",
-    "item_type": "purple_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "bombchu",
@@ -952,7 +802,7 @@
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "piece_of_heart",
@@ -962,37 +812,37 @@
   {
     "name": "silver_rupee",
     "display_name": "Silver Rupee",
-    "item_type": "silver_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "silver_rupee",
     "display_name": "Silver Rupee",
-    "item_type": "silver_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "silver_rupee",
     "display_name": "Silver Rupee",
-    "item_type": "silver_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "silver_rupee",
     "display_name": "Silver Rupee",
-    "item_type": "silver_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "silver_rupee",
     "display_name": "Silver Rupee",
-    "item_type": "silver_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "purple_rupee",
     "display_name": "Purple Rupee",
-    "item_type": "purple_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "piece_of_heart",
@@ -1837,12 +1687,12 @@
   {
     "name": "purple_rupee",
     "display_name": "Purple Rupee",
-    "item_type": "purple_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "chateau_romani",
@@ -1857,27 +1707,27 @@
   {
     "name": "purple_rupee",
     "display_name": "Purple Rupee",
-    "item_type": "purple_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "purple_rupee",
     "display_name": "Purple Rupee",
-    "item_type": "purple_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "magic_bean",
@@ -1887,17 +1737,17 @@
   {
     "name": "green_potion",
     "display_name": "Green Potion",
-    "item_type": "green_potions"
+    "item_type": "potions"
   },
   {
     "name": "blue_potion",
     "display_name": "Blue Potion",
-    "item_type": "blue_potions"
+    "item_type": "potions"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "milk",
@@ -1907,32 +1757,32 @@
   {
     "name": "purple_rupee",
     "display_name": "Purple Rupee",
-    "item_type": "purple_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "purple_rupee",
     "display_name": "Purple Rupee",
-    "item_type": "purple_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "10_deku_nuts",
@@ -1942,22 +1792,22 @@
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "purple_rupee",
     "display_name": "Purple Rupee",
-    "item_type": "purple_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "gold_rupee",
     "display_name": "Gold Rupee",
-    "item_type": "gold_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "seahorse",
@@ -2202,427 +2052,427 @@
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "5_bombs",
@@ -2787,387 +2637,387 @@
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "large_magic_jar",
@@ -3432,7 +3282,7 @@
   {
     "name": "purple_rupee",
     "display_name": "Purple Rupee",
-    "item_type": "purple_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "recovery_heart",
@@ -3452,132 +3302,132 @@
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "small_magic_jar",
@@ -3937,152 +3787,152 @@
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "30_arrows",
@@ -4092,12 +3942,12 @@
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "30_arrows",
@@ -4112,7 +3962,7 @@
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "30_arrows",
@@ -4122,17 +3972,17 @@
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "30_arrows",
@@ -4142,717 +3992,717 @@
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
-  },
-  {
-    "name": "red_rupee",
-    "display_name": "Red Rupee",
-    "item_type": "red_rupees"
-  },
-  {
-    "name": "blue_rupee",
-    "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
-  },
-  {
-    "name": "blue_rupee",
-    "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
-  },
-  {
-    "name": "blue_rupee",
-    "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
-  },
-  {
-    "name": "green_rupee",
-    "display_name": "Green Rupee",
-    "item_type": "green_rupees"
-  },
-  {
-    "name": "green_rupee",
-    "display_name": "Green Rupee",
-    "item_type": "green_rupees"
-  },
-  {
-    "name": "green_rupee",
-    "display_name": "Green Rupee",
-    "item_type": "green_rupees"
-  },
-  {
-    "name": "green_rupee",
-    "display_name": "Green Rupee",
-    "item_type": "green_rupees"
-  },
-  {
-    "name": "green_rupee",
-    "display_name": "Green Rupee",
-    "item_type": "green_rupees"
-  },
-  {
-    "name": "green_rupee",
-    "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee",
+    "item_type": "rupees"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee",
+    "item_type": "rupees"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee",
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee",
+    "item_type": "rupees"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee",
+    "item_type": "rupees"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee",
+    "item_type": "rupees"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee",
+    "item_type": "rupees"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee",
+    "item_type": "rupees"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee",
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
-  },
-  {
-    "name": "green_rupee",
-    "display_name": "Green Rupee",
-    "item_type": "green_rupees"
-  },
-  {
-    "name": "green_rupee",
-    "display_name": "Green Rupee",
-    "item_type": "green_rupees"
-  },
-  {
-    "name": "blue_rupee",
-    "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
-  },
-  {
-    "name": "blue_rupee",
-    "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
-  },
-  {
-    "name": "blue_rupee",
-    "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee",
+    "item_type": "rupees"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee",
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
-  },
-  {
-    "name": "green_rupee",
-    "display_name": "Green Rupee",
-    "item_type": "green_rupees"
-  },
-  {
-    "name": "green_rupee",
-    "display_name": "Green Rupee",
-    "item_type": "green_rupees"
-  },
-  {
-    "name": "green_rupee",
-    "display_name": "Green Rupee",
-    "item_type": "green_rupees"
-  },
-  {
-    "name": "green_rupee",
-    "display_name": "Green Rupee",
-    "item_type": "green_rupees"
-  },
-  {
-    "name": "green_rupee",
-    "display_name": "Green Rupee",
-    "item_type": "green_rupees"
-  },
-  {
-    "name": "green_rupee",
-    "display_name": "Green Rupee",
-    "item_type": "green_rupees"
-  },
-  {
-    "name": "green_rupee",
-    "display_name": "Green Rupee",
-    "item_type": "green_rupees"
-  },
-  {
-    "name": "green_rupee",
-    "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
-    "name": "green_rupee",
-    "display_name": "Green Rupee",
-    "item_type": "green_rupees"
-  },
-  {
-    "name": "green_rupee",
-    "display_name": "Green Rupee",
-    "item_type": "green_rupees"
-  },
-  {
-    "name": "green_rupee",
-    "display_name": "Green Rupee",
-    "item_type": "green_rupees"
-  },
-  {
-    "name": "green_rupee",
-    "display_name": "Green Rupee",
-    "item_type": "green_rupees"
-  },
-  {
-    "name": "green_rupee",
-    "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "name": "red_rupee",
+    "display_name": "Red Rupee",
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
-  },
-  {
-    "name": "green_rupee",
-    "display_name": "Green Rupee",
-    "item_type": "green_rupees"
-  },
-  {
-    "name": "green_rupee",
-    "display_name": "Green Rupee",
-    "item_type": "green_rupees"
-  },
-  {
-    "name": "green_rupee",
-    "display_name": "Green Rupee",
-    "item_type": "green_rupees"
-  },
-  {
-    "name": "green_rupee",
-    "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee",
+    "item_type": "rupees"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee",
+    "item_type": "rupees"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee",
+    "item_type": "rupees"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee",
+    "item_type": "rupees"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee",
+    "item_type": "rupees"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee",
+    "item_type": "rupees"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee",
+    "item_type": "rupees"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee",
+    "item_type": "rupees"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee",
+    "item_type": "rupees"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee",
+    "item_type": "rupees"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee",
+    "item_type": "rupees"
+  },
+  {
+    "name": "blue_rupee",
+    "display_name": "Blue Rupee",
+    "item_type": "rupees"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee",
+    "item_type": "rupees"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee",
+    "item_type": "rupees"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee",
+    "item_type": "rupees"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee",
+    "item_type": "rupees"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee",
+    "item_type": "rupees"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee",
+    "item_type": "rupees"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee",
+    "item_type": "rupees"
+  },
+  {
+    "name": "green_rupee",
+    "display_name": "Green Rupee",
+    "item_type": "rupees"
+  },
+  {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "gold_rupee",
     "display_name": "Gold Rupee",
-    "item_type": "gold_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "10_arrows",
@@ -4877,197 +4727,197 @@
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "green_rupee",
     "display_name": "Green Rupee",
-    "item_type": "green_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "red_rupee",
     "display_name": "Red Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "10_arrows",
@@ -5132,17 +4982,17 @@
   {
     "name": "silver_rupee",
     "display_name": "Silver Rupee",
-    "item_type": "silver_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "crimson_rupee",
     "display_name": "Crimson Rupee",
-    "item_type": "red_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "blue_rupee",
     "display_name": "Blue Rupee",
-    "item_type": "blue_rupees"
+    "item_type": "rupees"
   },
   {
     "name": "odolwas_remains",
@@ -5887,7 +5737,7 @@
   {
     "name": "ice_trap",
     "display_name": "Ice Trap",
-    "item_type": null
+    "item_type": "fake"
   },
   {
     "name": "recovery_heart",
@@ -5897,16 +5747,16 @@
   {
     "name": "bomb_trap",
     "display_name": "Bomb Trap",
-    "item_type": null
+    "item_type": "fake"
   },
   {
     "name": "rupoor",
     "display_name": "Rupoor",
-    "item_type": null
+    "item_type": "fake"
   },
   {
     "name": "nothing",
     "display_name": "Nothing",
-    "item_type": null
+    "item_type": "fake"
   }
 ]

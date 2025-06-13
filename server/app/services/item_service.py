@@ -44,6 +44,13 @@ def bulk_create_items(bulk_items: List[ItemCreateSchema]) -> List[Item]:
     db: Session = next(get_db())
     items: List[Item] = []
     for item in bulk_items:
+        existing = db.query(Item).filter(
+            Item.name == item.name,
+            Item.display_name == item.display_name
+        ).first()
+        if existing:
+            continue
+
         item_type = item_type_repository.get_item_type_by_name(db, item.item_type)
         items.append(item_repository.create_item(db, item, item_type.id if item_type else None))
     db.commit()
