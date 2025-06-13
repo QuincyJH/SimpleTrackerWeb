@@ -9,6 +9,10 @@ import { NewRunDialog } from '../shared/dialogs/new-run-dialog/new-run-dialog.co
 import { Run } from '../shared/models/run.model';
 import { SavedRunCardComponent } from '../shared/components/saved-run-card/saved-run-card.component';
 import { RunStateService } from '../shared/services/run-state.service';
+import { Store } from '@ngrx/store';
+import { AppState } from '../shared/store';
+import { RegionsService } from '../shared/services/regions.service';
+import { setRegionsCache } from '../shared/store/cache/cache.actions';
 
 @Component({
   selector: 'app-home',
@@ -20,12 +24,20 @@ export class HomeComponent {
   dialog = inject(MatDialog);
   runName = signal('');
   runs: Run[] = [];
+  private store = inject(Store<AppState>);
 
-  constructor(private runsService: RunsService, private runStateService: RunStateService) {}
+  constructor(
+    private runsService: RunsService,
+    private runStateService: RunStateService,
+    private regionsService: RegionsService,
+  ) {}
 
   ngOnInit(): void {
     this.runStateService.runs$.subscribe((runs) => {
       this.runs = runs;
+    });
+    this.regionsService.getAllLocationsbyRegion().subscribe((regions) => {
+      this.store.dispatch(setRegionsCache({ regions }));
     });
   }
 
@@ -38,9 +50,7 @@ export class HomeComponent {
         const newRun: Run = {
           name: result,
         };
-        this.runsService.createRun(newRun).subscribe((response) => {
-          //console.log(response);
-        });
+        this.runsService.createRun(newRun);
       }
     });
   }

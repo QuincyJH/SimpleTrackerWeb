@@ -1,10 +1,22 @@
-.location-checkbox-container {
-  display: flex;
-  flex-direction: column;;
-}
-
 .location-type-checkbox-container {
   display: grid;
-  grid-template-columns: repeat(4, 1fr); /* 3 columns */
+  grid-template-columns: repeat(4, 1fr);
   gap: 8px;
+}
+
+.location-checkbox-container {
+  display: flex;
+  flex-direction: column;
+
+  .location-checkbox-group {
+    display: flex;
+    flex-direction: row;
+
+    .location-dropdown {
+      width: 50%;
+    }
+    .location-select {
+      width: 50%;
+    }
+  }
 }

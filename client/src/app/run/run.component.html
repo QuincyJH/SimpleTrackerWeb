@@ -1,7 +1,15 @@
 <ng-container *ngIf="runs.length > 0">
+  <mat-checkbox
+    *ngIf="locationTypes.length > 0"
+    [checked]="allSelected"
+    (change)="toggleAllLocationTypes($event.checked)">
+    Select All
+  </mat-checkbox>
   <div class="location-type-checkbox-container">
     <ng-container *ngFor="let locationType of locationTypes">
-      <mat-checkbox>{{ locationType.displayName }}</mat-checkbox>
+      <mat-checkbox [checked]="selectedLocationTypes.includes(locationType)"
+        (change)="toggleLocationType(locationType, $event.checked)">{{ locationType.displayName }}
+      </mat-checkbox>
     </ng-container>
   </div>
   <mat-accordion>
@@ -10,8 +18,18 @@
         <mat-panel-title>{{ region.displayName }}</mat-panel-title>
       </mat-expansion-panel-header>
       <div class="location-checkbox-container">
-        <ng-container *ngFor="let location of region.locations">
-          <mat-checkbox>{{ location.displayName }}</mat-checkbox>
+        <ng-container *ngFor="let location of getLocationsForRegion(region)">
+          <div class="location-checkbox-group">
+            <mat-checkbox class="location-dropdown">{{ location.displayName }}</mat-checkbox>
+            <mat-autocomplete class="location-select" placeholder="Select an option">
+              <mat-option>Option 1</mat-option>
+              <mat-option>Option 2</mat-option>
+              <mat-option>Option 3</mat-option>
+              <!-- <mat-option *ngFor="">
+
+              </mat-option> -->
+            </mat-autocomplete>
+          </div>
         </ng-container>
       </div>
     </mat-expansion-panel>
