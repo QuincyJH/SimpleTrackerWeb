@@ -12,7 +12,8 @@ import { RunStateService } from '../shared/services/run-state.service';
 import { Store } from '@ngrx/store';
 import { AppState } from '../shared/store';
 import { RegionsService } from '../shared/services/regions.service';
-import { setRegionsCache } from '../shared/store/cache/cache.actions';
+import { setItemsCache, setRegionsCache } from '../shared/store/cache/cache.actions';
+import { ItemsService } from '../shared/services/items.service';
 
 @Component({
   selector: 'app-home',
@@ -30,6 +31,7 @@ export class HomeComponent {
     private runsService: RunsService,
     private runStateService: RunStateService,
     private regionsService: RegionsService,
+    private itemsService: ItemsService,
   ) {}
 
   ngOnInit(): void {
@@ -38,6 +40,9 @@ export class HomeComponent {
     });
     this.regionsService.getAllLocationsbyRegion().subscribe((regions) => {
       this.store.dispatch(setRegionsCache({ regions }));
+    });
+    this.itemsService.getAllItems().subscribe((items) => {
+      this.store.dispatch(setItemsCache({ items }));
     });
   }
 

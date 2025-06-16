@@ -8,7 +8,8 @@
   <div class="location-type-checkbox-container">
     <ng-container *ngFor="let locationType of locationTypes">
       <mat-checkbox [checked]="selectedLocationTypes.includes(locationType)"
-        (change)="toggleLocationType(locationType, $event.checked)">{{ locationType.displayName }}
+        (change)="toggleLocationType(locationType, $event.checked)">
+        {{ locationType.displayName }}
       </mat-checkbox>
     </ng-container>
   </div>
@@ -20,15 +21,13 @@
       <div class="location-checkbox-container">
         <ng-container *ngFor="let location of getLocationsForRegion(region)">
           <div class="location-checkbox-group">
-            <mat-checkbox class="location-dropdown">{{ location.displayName }}</mat-checkbox>
-            <mat-autocomplete class="location-select" placeholder="Select an option">
-              <mat-option>Option 1</mat-option>
-              <mat-option>Option 2</mat-option>
-              <mat-option>Option 3</mat-option>
-              <!-- <mat-option *ngFor="">
-
-              </mat-option> -->
-            </mat-autocomplete>
+            <mat-checkbox class="location-dropdown" [(ngModel)]="location.selected">{{ location.displayName }}</mat-checkbox>
+            <ng-container *ngIf="location.selected">
+              <input matInput placeholder="Select an option" [matAutocomplete]="auto" [formControl]="location.formControl!">
+              <mat-autocomplete #auto="matAutocomplete" class="location-select" placeholder="Select an option" [displayWith]="displayFn">
+                <mat-option *ngFor="let item of items$ | async" [value]="item">{{ item.displayName }}</mat-option>
+              </mat-autocomplete>
+            </ng-container>
           </div>
         </ng-container>
       </div>

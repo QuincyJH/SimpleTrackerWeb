@@ -6,32 +6,52 @@ import { CommonModule } from '@angular/common';
 import { Region } from '../shared/models/region.model';
 import { MatCheckboxModule } from '@angular/material/checkbox';
 import { MatExpansionModule } from '@angular/material/expansion';
-import { MatSelectModule } from '@angular/material/select';
 import { MatAutocompleteModule } from '@angular/material/autocomplete';
 import { LocationTypesService } from '../shared/services/location-type.service';
 import { LocationType } from '../shared/models/location-type.model';
 import { Store } from '@ngrx/store';
 import { AppState } from '../shared/store';
-import { selectRegions } from '../shared/store/cache/cache.selectors';
+import { selectItems, selectRegions } from '../shared/store/cache/cache.selectors';
 import {
   clearSelectedLocationTypes,
   setSelectedLocationTypes,
 } from '../shared/store/location-type/location-type.actions';
+import { Item } from '../shared/models/item.model';
+import { FormControl, FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { MatFormFieldModule } from '@angular/material/form-field';
+import { MatInputModule } from '@angular/material/input';
+import { ScrollingModule } from '@angular/cdk/scrolling';
+import { Observable } from 'rxjs';
 
 @Component({
   selector: 'app-run',
-  imports: [CommonModule, MatCheckboxModule, MatExpansionModule, MatAutocompleteModule],
+  imports: [
+    CommonModule,
+    MatCheckboxModule,
+    MatExpansionModule,
+    MatAutocompleteModule,
+    MatFormFieldModule,
+    ReactiveFormsModule,
+    MatInputModule,
+    ScrollingModule,
+    FormsModule,
+  ],
   templateUrl: './run.component.html',
   styleUrl: './run.component.scss',
 })
 export class RunComponent {
   private store = inject(Store<AppState>);
   runName = signal('');
+
   runs: Run[] = [];
   regions: Region[] = [];
   locationTypes: LocationType[] = [];
   selectedLocationTypes: LocationType[] = [];
+
   regions$ = this.store.select(selectRegions);
+  items$ = this.store.select(selectItems);
+  filteredItems$!: Observable<Item[]>;
+
   allSelected: boolean = false;
 
   constructor(private runStateService: RunStateService, private locationTypesService: LocationTypesService) {}
@@ -46,7 +66,14 @@ export class RunComponent {
 
   getRegions(): void {
     this.regions$.subscribe((regions) => {
-      this.regions = regions;
+      this.regions = regions.map((region) => ({
+        ...region,
+        locations: (region.locations ?? []).map((location) => ({
+          ...location,
+          selected: false,
+          formControl: new FormControl(null),
+        })),
+      }));
     });
   }
 
@@ -90,5 +117,9 @@ export class RunComponent {
       });
       return locations;
     }
+  }
+
+  displayFn(item: Item | null): string {
+    return item ? item.displayName : '';
   }
 }
