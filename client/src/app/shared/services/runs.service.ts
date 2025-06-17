@@ -21,4 +21,12 @@ export class RunsService extends BaseService {
   createRun(run: Run): Observable<Run> {
     return this.post<Run>(this.route, run);
   }
+
+  updateRun(run: Run): Observable<Run> {
+    return this.put<Run>(`${this.route}/${run.id}`, run);
+  }
+
+  deleteRun(runId: string): Observable<void> {
+    return this.delete<void>(`${this.route}/${runId}`);
+  }
 }

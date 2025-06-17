@@ -1,20 +1,23 @@
-<ng-container *ngIf="runs.length > 0">
+<ng-container *ngIf="run">
+  <button mat-raised-button color="primary" (click)="saveSelections()">
+    Save Selections
+  </button>
   <mat-checkbox
     *ngIf="locationTypes.length > 0"
     [checked]="allSelected"
-    (change)="toggleAllLocationTypes($event.checked)">
+    (change)="toggleAllLocationTypes($event.checked); onUserChange()">
     Select All
   </mat-checkbox>
   <div class="location-type-checkbox-container">
     <ng-container *ngFor="let locationType of locationTypes">
       <mat-checkbox [checked]="selectedLocationTypes.includes(locationType)"
-        (change)="toggleLocationType(locationType, $event.checked)">
+        (change)="toggleLocationType(locationType, $event.checked); onUserChange()">
         {{ locationType.displayName }}
       </mat-checkbox>
     </ng-container>
   </div>
   <mat-accordion>
-    <mat-expansion-panel *ngFor="let region of regions">
+    <mat-expansion-panel *ngFor="let region of regionsFiltered()">
       <mat-expansion-panel-header>
         <mat-panel-title>{{ region.displayName }}</mat-panel-title>
       </mat-expansion-panel-header>
@@ -23,8 +26,8 @@
           <div class="location-checkbox-group">
             <mat-checkbox class="location-dropdown" [(ngModel)]="location.selected">{{ location.displayName }}</mat-checkbox>
             <ng-container *ngIf="location.selected">
-              <input matInput placeholder="Select an option" [matAutocomplete]="auto" [formControl]="location.formControl!">
-              <mat-autocomplete #auto="matAutocomplete" class="location-select" placeholder="Select an option" [displayWith]="displayFn">
+              <input matInput placeholder="Select an option" [matAutocomplete]="auto" [formControl]="location.formControl!" (ngModelChange)="onUserChange()">
+              <mat-autocomplete #auto="matAutocomplete" class="location-select" placeholder="Select an option" [displayWith]="displayFn" (optionSelected)="onUserChange()">
                 <mat-option *ngFor="let item of items$ | async" [value]="item">{{ item.displayName }}</mat-option>
               </mat-autocomplete>
             </ng-container>

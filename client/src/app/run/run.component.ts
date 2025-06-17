@@ -1,5 +1,4 @@
 import { Component, inject, signal } from '@angular/core';
-import { RunStateService } from '../shared/services/run-state.service';
 import { Run } from '../shared/models/run.model';
 import { Location } from '../shared/models/location.model';
 import { CommonModule } from '@angular/common';
@@ -21,7 +20,9 @@ import { FormControl, FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { MatFormFieldModule } from '@angular/material/form-field';
 import { MatInputModule } from '@angular/material/input';
 import { ScrollingModule } from '@angular/cdk/scrolling';
-import { Observable } from 'rxjs';
+import { debounceTime, Observable, Subject } from 'rxjs';
+import { selectCurrentRun } from '../shared/store/current-run/current-run.selectors';
+import { RunsService } from '../shared/services/runs.service';
 
 @Component({
   selector: 'app-run',
@@ -41,9 +42,10 @@ import { Observable } from 'rxjs';
 })
 export class RunComponent {
   private store = inject(Store<AppState>);
+  private saveSubject = new Subject<void>();
   runName = signal('');
 
-  runs: Run[] = [];
+  run: Run | null = null;
   regions: Region[] = [];
   locationTypes: LocationType[] = [];
   selectedLocationTypes: LocationType[] = [];
@@ -54,11 +56,13 @@ export class RunComponent {
 
   allSelected: boolean = false;
 
-  constructor(private runStateService: RunStateService, private locationTypesService: LocationTypesService) {}
+  constructor(private locationTypesService: LocationTypesService, private runService: RunsService) {
+    this.saveSubject.pipe(debounceTime(2000)).subscribe(() => this.saveSelections());
+  }
 
   ngOnInit(): void {
-    this.runStateService.runs$.subscribe((runs) => {
-      this.runs = runs;
+    this.store.select(selectCurrentRun).subscribe((currentRun) => {
+      this.run = currentRun;
     });
     this.getLocationTypes();
     this.getRegions();
@@ -119,7 +123,47 @@ export class RunComponent {
     }
   }
 
+  saveSelections(): void {
+    if (!this.run) return;
+
+    const selections = {
+      selectedLocationTypeIds: this.selectedLocationTypes.map((type) => type.id),
+      regions: this.regions
+        .map((region) => ({
+          id: region.id,
+          name: region.name,
+          locations: (region.locations ?? [])
+            .filter((location) => location.selected)
+            .map((location) => ({
+              locationId: location.id,
+              locationName: location.name,
+              selected: location.selected,
+              selectedItemId: location.formControl?.value?.id ?? null,
+              selectedItemName: location.formControl?.value?.displayName ?? null,
+            })),
+        }))
+        .filter((region) => region.locations.length > 0),
+    };
+
+    const updatedRun = {
+      ...this.run,
+      data: JSON.stringify(selections),
+    };
+
+    this.runService.updateRun(updatedRun).subscribe(() => {
+      console.log('Run selections saved successfully');
+    });
+  }
+
+  onUserChange(): void {
+    this.saveSubject.next();
+  }
+
   displayFn(item: Item | null): string {
     return item ? item.displayName : '';
+  }
+
+  regionsFiltered() {
+    return this.regions.filter((region) => this.getLocationsForRegion(region).length > 0);
   }
 }

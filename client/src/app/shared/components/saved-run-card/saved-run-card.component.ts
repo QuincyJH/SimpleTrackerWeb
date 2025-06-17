@@ -1,8 +1,11 @@
-import { Component, Input } from '@angular/core';
+import { Component, inject, Input } from '@angular/core';
 import { Run } from '../../models/run.model';
 import { DatePipe } from '@angular/common';
 import { MatCardModule } from '@angular/material/card';
 import { Router } from '@angular/router';
+import { setSelectedRun } from '../../store/current-run/current-run.actions';
+import { AppState } from '../../store';
+import { Store } from '@ngrx/store';
 
 @Component({
   selector: 'app-saved-run-card',
@@ -13,6 +16,7 @@ import { Router } from '@angular/router';
 })
 export class SavedRunCardComponent {
   @Input() run!: Run;
+  private store = inject(Store<AppState>);
 
   constructor(private datePipe: DatePipe, private router: Router) {}
 
@@ -22,6 +26,7 @@ export class SavedRunCardComponent {
 
   onRunSelected(): void {
     if (this.run && this.run.id) {
+      this.store.dispatch(setSelectedRun({ selectedRun: this.run }));
       this.router.navigate(['/run', this.run.id]);
     }
   }
