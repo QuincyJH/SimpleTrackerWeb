@@ -43,6 +43,10 @@ import { RunsService } from '../shared/services/runs.service';
 export class RunComponent {
   private store = inject(Store<AppState>);
   private saveSubject = new Subject<void>();
+  private runLoaded = false;
+  private regionsLoaded = false;
+  private locationTypesLoaded = false;
+
   runName = signal('');
 
   run: Run | null = null;
@@ -63,6 +67,8 @@ export class RunComponent {
   ngOnInit(): void {
     this.store.select(selectCurrentRun).subscribe((currentRun) => {
       this.run = currentRun;
+      this.runLoaded = true;
+      this.populateRunSelections();
     });
     this.getLocationTypes();
     this.getRegions();
@@ -78,6 +84,8 @@ export class RunComponent {
           formControl: new FormControl(null),
         })),
       }));
+      this.regionsLoaded = true;
+      this.populateRunSelections();
     });
   }
 
@@ -86,7 +94,9 @@ export class RunComponent {
       this.locationTypes = locationTypes;
       this.selectedLocationTypes = [...locationTypes];
       this.allSelected = locationTypes.length > 0;
+      this.locationTypesLoaded = true;
       this.store.dispatch(setSelectedLocationTypes({ locationTypes: this.selectedLocationTypes }));
+      this.populateRunSelections();
     });
   }
 
@@ -153,6 +163,50 @@ export class RunComponent {
     this.runService.updateRun(updatedRun).subscribe(() => {
       console.log('Run selections saved successfully');
     });
+  }
+
+  private populateRunSelections() {
+    if (this.runLoaded && this.regionsLoaded && this.locationTypesLoaded) {
+      if (!this.run || !this.run.data) return;
+
+      let selections: any;
+      try {
+        selections = JSON.parse(this.run.data);
+      } catch {
+        return;
+      }
+
+      // Restore selected location types
+      if (selections.selectedLocationTypeIds) {
+        this.selectedLocationTypes = this.locationTypes.filter((type) =>
+          selections.selectedLocationTypeIds.includes(type.id),
+        );
+      }
+
+      // Restore selected locations and their selected items
+      if (selections.regions) {
+        for (const regionSelection of selections.regions) {
+          const region = this.regions.find((r) => r.id === regionSelection.id);
+          if (!region) continue;
+          for (const locSelection of regionSelection.locations) {
+            const location = (region.locations ?? []).find((l) => l.id === locSelection.locationId);
+            if (!location) continue;
+            location.selected = true;
+            if (locSelection.selectedItemId) {
+              // Find the item in your items$ observable or however you load items
+              this.items$
+                .subscribe((items) => {
+                  const item = items.find((i) => i.id === locSelection.selectedItemId);
+                  if (item) {
+                    location.formControl?.setValue(item);
+                  }
+                })
+                .unsubscribe();
+            }
+          }
+        }
+      }
+    }
   }
 
   onUserChange(): void {
